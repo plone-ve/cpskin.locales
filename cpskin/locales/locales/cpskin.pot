@@ -15,28 +15,3 @@ msgstr ""
 "Domain: cpskin\n"
 "Language: \n"
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
-
-#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
-msgid "Back to created"
-msgstr ""
-
-#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
-msgid "Created"
-msgstr ""
-
-#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
-msgid "Publish and hide"
-msgstr ""
-
-#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
-msgid "Publish and show"
-msgstr ""
-
-#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
-msgid "Published and hidden"
-msgstr ""
-
-#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
-msgid "Published and shown"
-msgstr ""
-

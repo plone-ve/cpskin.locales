@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-05-12 12:20+0000\n"
+"POT-Creation-Date: 2014-05-12 19:44+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
@@ -15,3 +15,110 @@ msgstr ""
 "Domain: plone\n"
 "Language: \n"
 "X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
+
+#: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/readonly_workflow/definition.xml
+msgid "- Essentially a workflow with no transitions, with a private state. Owner cannot modify."
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
+msgid "- Used for CPSkin site - Has four states: Created, Pending, Published and hidden (from navigation) and Published and shown (in navigation)"
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
+msgid "- Used for CPSkin site - Has three states: Created, Published and hidden (from navigation) and Published and shown (in navigation)"
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
+msgid "Back to created"
+msgstr "Volver a la creación"
+
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
+msgid "Back to pending"
+msgstr "Volver a la espera de moderación"
+
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
+msgid "CPSkin workflow"
+msgstr "Procesos de publicación CPSkin son moderados"
+
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
+msgid "CPSkin workflow with moderation"
+msgstr "Procesos de publicación CPSkin están en moderación"
+
+#: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/readonly_workflow/definition.xml
+msgid "Comment about the last transition"
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
+msgid "Created"
+msgstr "Creado"
+
+#: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/readonly_workflow/definition.xml
+msgid "Owner readonly, Single State Workflow"
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
+msgid "Pending"
+msgstr "Esperando moderación"
+
+#: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/readonly_workflow/definition.xml
+msgid "Previous transition"
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/readonly_workflow/definition.xml
+msgid "Private"
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
+msgid "Propose"
+msgstr "Proponer al moderador"
+
+#: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/readonly_workflow/definition.xml
+msgid "Provides access to workflow history"
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
+msgid "Publish and hide"
+msgstr "Publicar y ocultar en la navegación"
+
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
+msgid "Publish and hide from pending"
+msgstr "Publicar y ocultar en la navegación"
+
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
+msgid "Publish and show"
+msgstr "Publicar y presentar en la navegación"
+
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
+msgid "Publish and show from pending"
+msgstr "Publicar y presentar en la navegación"
+
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
+msgid "Published and hidden"
+msgstr "Publicadas y ocultas en la navegación"
+
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
+msgid "Published and shown"
+msgstr "Publicar y presentar en la navegación"
+
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
+msgid "Reviewer queue"
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/readonly_workflow/definition.xml
+msgid "The ID of the user who performed the previous transition"
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/readonly_workflow/definition.xml
+msgid "Visible to owner but not editable."
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/readonly_workflow/definition.xml
+msgid "When the previous transition was performed"
+msgstr ""
+

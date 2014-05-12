@@ -15,3 +15,27 @@ msgstr ""
 "Domain: cpskin\n"
 "Language: \n"
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
+
+#: cpskin.workflow/cpskin/workflow/configure.zcml
+msgid "cpskin.workflows"
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/configure.zcml
+msgid "Installs CPSkin workflows"
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/configure.zcml
+msgid "cpskin.workflows: members configuration"
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/configure.zcml
+msgid "Installs members configuration workflow"
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/configure.zcml
+msgid "cpskin.workflows: uninstall"
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/configure.zcml
+msgid "Uninstalls CPSkin workflows"
+msgstr ""
