@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-05-12 19:44+0000\n"
+"POT-Creation-Date: 2014-05-12 19:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,6 +28,10 @@ msgstr ""
 msgid "- Used for CPSkin site - Has three states: Created, Published and hidden (from navigation) and Published and shown (in navigation)"
 msgstr ""
 
+#: cpskin.core/cpskin/core/portlets/navigation.py:102
+msgid "Add CPSkin Navigation Portlet"
+msgstr ""
+
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "Back to created"
@@ -35,6 +39,10 @@ msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 msgid "Back to pending"
+msgstr ""
+
+#: cpskin.core/cpskin/core/portlets/navigation.py:41
+msgid "CPSkin"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
@@ -45,6 +53,11 @@ msgstr ""
 msgid "CPSkin workflow with moderation"
 msgstr ""
 
+#: cpskin.slider/cpskin/slider/portlets/slider_collection.py:36
+#: cpskin.slider/cpskin/slider/profiles/default/portlets.xml
+msgid "Collection portlet with slider view"
+msgstr ""
+
 #: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/readonly_workflow/definition.xml
 msgid "Comment about the last transition"
 msgstr ""
@@ -52,6 +65,22 @@ msgstr ""
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "Created"
+msgstr ""
+
+#: cpskin.core/cpskin/core/portlets/navigation.py:120
+msgid "Edit CPSkin Navigation Portlet"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles/default/registry.xml
+msgid "Hidden Tag"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
+msgid "Hidden Tags"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles/default/registry.xml
+msgid "Hidden Tags are used for webmaster organization of content"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/readonly_workflow/definition.xml
@@ -110,8 +139,20 @@ msgstr ""
 msgid "Reviewer queue"
 msgstr ""
 
+#: cpskin.core/cpskin/core/profiles/default/registry.xml
+msgid "Text"
+msgstr ""
+
 #: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/readonly_workflow/definition.xml
 msgid "The ID of the user who performed the previous transition"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
+msgid "The hidden tags configured by the webmaster"
+msgstr ""
+
+#: cpskin.core/cpskin/core/portlets/navigation.py:103
+msgid "This portlet display a navigation as tree or dropdown."
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/readonly_workflow/definition.xml
@@ -120,5 +161,53 @@ msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/readonly_workflow/definition.xml
 msgid "When the previous transition was performed"
+msgstr ""
+
+#: cpskin.slider/cpskin/slider/portlets/slider_collection.py:37
+msgid "add a collection portlet with slider view"
+msgstr ""
+
+#. Default: "A portlet which can render a navigation tree"
+#: cpskin.core/cpskin/core/profiles/default/portlets.xml
+msgid "description_navigation_portlet"
+msgstr ""
+
+#: cpskin.slider/cpskin/slider/portlets/slider_collection.py:48
+msgid "edit a collection portlet with slider view"
+msgstr ""
+
+#. Default: "Should the navigation be displayed as a dropdown or not?  If not, this will be displayed as a tree (this is the default behaviour)."
+#: cpskin.core/cpskin/core/portlets/navigation.py:28
+msgid "help_display_as_dropdown"
+msgstr ""
+
+#. Default: "Hidden Tags are used for webmaster organization of content."
+#: cpskin.core/cpskin/core/extender.py:36
+msgid "help_hidden_tags"
+msgstr ""
+
+#. Default: "Display as dropdown"
+#: cpskin.core/cpskin/core/portlets/navigation.py:27
+msgid "label_display_as_dropdown"
+msgstr ""
+
+#. Default: "Hidden Tags"
+#: cpskin.core/cpskin/core/extender.py:35
+msgid "label_hidden_tags"
+msgstr ""
+
+#. Default: "More…"
+#: cpskin.slider/cpskin/slider/portlets/slidercollectionportlet.pt:54
+msgid "more_url"
+msgstr ""
+
+#. Default: "Home"
+#: cpskin.core/cpskin/core/portlets/navigation.pt:36
+msgid "tabs_home"
+msgstr ""
+
+#. Default: "CPSkin Navigation"
+#: cpskin.core/cpskin/core/profiles/default/portlets.xml
+msgid "title_navigation_portlet"
 msgstr ""
 
