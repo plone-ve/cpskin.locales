@@ -170,7 +170,7 @@ msgstr ""
 #. Default: "A portlet which can render a navigation tree"
 #: cpskin.core/cpskin/core/profiles/default/portlets.xml
 msgid "description_navigation_portlet"
-msgstr ""
+msgstr "Un portlet el cual puede renderizar un árbol de navegación"
 
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:48
 msgid "edit a collection portlet with slider view"
@@ -204,7 +204,7 @@ msgstr ""
 #. Default: "Home"
 #: cpskin.core/cpskin/core/portlets/navigation.pt:36
 msgid "tabs_home"
-msgstr ""
+msgstr "Inicio"
 
 #. Default: "CPSkin Navigation"
 #: cpskin.core/cpskin/core/profiles/default/portlets.xml
