@@ -75,17 +75,17 @@ msgstr ""
 #. Default: "Error reported"
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:57
 msgid "error_reported"
-msgstr ""
+msgstr "Erreur signalée"
 
 #. Default: "Merci de fournir le maximum d'information ainsi que tout renseignement qui permette de la valider (source)."
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:30
-msgid "fournir_maximum_informations"
-msgstr ""
+msgid "provide_maximum_informations"
+msgstr "Merci de fournir le maximum d'informations ainsi que tout renseignement qui permette de les valider (source)."
 
 #. Default: "Report an error or missing information."
 #: cpskin.core/cpskin/core/browser/interfaces.py:24
 msgid "help_comment"
-msgstr ""
+msgstr "Signaler une erreur ou une information manquante."
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
 #: cpskin.core/cpskin/core/extender.py:37
@@ -95,16 +95,16 @@ msgstr ""
 #. Default: "Your email address."
 #: cpskin.core/cpskin/core/browser/interfaces.py:16
 msgid "help_send_from"
-msgstr ""
+msgstr "Votre adresse courriel."
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
-msgid "indicate_error"
-msgstr ""
+msgid "Indicate an error"
+msgstr "Signaler une erreur"
 
 #. Default: "Change request"
 #: cpskin.core/cpskin/core/browser/interfaces.py:22
 msgid "label_comment"
-msgstr ""
+msgstr "Demande de modification"
 
 #. Default: "Hidden Tags"
 #: cpskin.core/cpskin/core/extender.py:36
@@ -114,25 +114,30 @@ msgstr ""
 #. Default: "Send"
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:38
 msgid "label_send"
-msgstr ""
+msgstr "Envoyer"
 
 #. Default: "From"
 #: cpskin.core/cpskin/core/browser/interfaces.py:14
 msgid "label_send_from"
-msgstr ""
+msgstr "Expéditeur"
+
+#. Default: "An error has been reported by"
+#: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:10
+msgid "sendtomanager_mail_error_reported"
+msgstr "Une erreur a été signalée par"
 
 #. Default: "On the page"
 #: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:14
 msgid "on_the_page"
-msgstr ""
+msgstr "Sur la page"
 
-#. Default: "Signaler une erreur au gestionnaire du site"
+#. Default: "Report an error to the site manager"
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:27
-msgid "signaler_erreur_gestionnaire_site"
-msgstr ""
+msgid "report_error_to_site_manager"
+msgstr "Signaler une erreur au gestionnaire du site"
 
 #. Default: "With the following comment"
 #: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:18
 msgid "with_the_following_comment"
-msgstr ""
+msgstr "Avec le commentaire suivant"
 

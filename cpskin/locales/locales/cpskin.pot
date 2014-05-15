@@ -79,7 +79,7 @@ msgstr ""
 
 #. Default: "Merci de fournir le maximum d'information ainsi que tout renseignement qui permette de la valider (source)."
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:30
-msgid "fournir_maximum_informations"
+msgid "provide_maximum_informations"
 msgstr ""
 
 #. Default: "Report an error or missing information."
@@ -98,7 +98,7 @@ msgid "help_send_from"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
-msgid "indicate_error"
+msgid "Indicate an error"
 msgstr ""
 
 #. Default: "Change request"
@@ -121,14 +121,19 @@ msgstr ""
 msgid "label_send_from"
 msgstr ""
 
+#. Default: "An error has been reported by"
+#: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:10
+msgid "sendtomanager_mail_error_reported"
+msgstr ""
+
 #. Default: "On the page"
 #: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:14
 msgid "on_the_page"
 msgstr ""
 
-#. Default: "Signaler une erreur au gestionnaire du site"
+#. Default: "Report an error to the site manager"
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:27
-msgid "signaler_erreur_gestionnaire_site"
+msgid "report_error_to_site_manager"
 msgstr ""
 
 #. Default: "With the following comment"
