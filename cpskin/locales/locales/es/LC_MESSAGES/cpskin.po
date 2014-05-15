@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-05-12 19:59+0000\n"
+"POT-Creation-Date: 2014-05-15 09:44+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
@@ -16,20 +16,16 @@ msgstr ""
 "Language: \n"
 "X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
 
-#: cpskin.core/cpskin/core/portlets/navigation.py:102
-msgid "Add CPSkin Navigation Portlet"
+#: cpskin.core/cpskin/core/profiles/default/controlpanel.xml
+msgid "CPSkin"
 msgstr ""
 
-#: cpskin.core/cpskin/core/portlets/navigation.py:41
-msgid "CPSkin"
+#: cpskin.core/cpskin/core/browser/controlpanel.py:29
+msgid "CPSkin settings"
 msgstr ""
 
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:36
 msgid "Collection portlet with slider view"
-msgstr ""
-
-#: cpskin.core/cpskin/core/portlets/navigation.py:120
-msgid "Edit CPSkin Navigation Portlet"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/configure.zcml
@@ -40,8 +36,16 @@ msgstr ""
 msgid "Installs members configuration workflow"
 msgstr ""
 
-#: cpskin.core/cpskin/core/portlets/navigation.py:103
-msgid "This portlet display a navigation as tree or dropdown."
+#: cpskin.core/cpskin/core/browser/controlpanel.py:30
+msgid "Lets you change the settings of CPSkin"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/sendtomanager.py:100
+msgid "Mail sent."
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/sendtomanager.py:94
+msgid "Unable to send mail."
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/configure.zcml
@@ -68,23 +72,67 @@ msgstr ""
 msgid "edit a collection portlet with slider view"
 msgstr ""
 
-#. Default: "Should the navigation be displayed as a dropdown or not?  If not, this will be displayed as a tree (this is the default behaviour)."
-#: cpskin.core/cpskin/core/portlets/navigation.py:28
-msgid "help_display_as_dropdown"
+#. Default: "Error reported"
+#: cpskin.core/cpskin/core/browser/sendtomanager.py:57
+msgid "error_reported"
+msgstr ""
+
+#. Default: "Merci de fournir le maximum d'information ainsi que tout renseignement qui permette de la valider (source)."
+#: cpskin.core/cpskin/core/browser/sendtomanager.py:30
+msgid "fournir_maximum_informations"
+msgstr ""
+
+#. Default: "Report an error or missing information."
+#: cpskin.core/cpskin/core/browser/interfaces.py:24
+msgid "help_comment"
 msgstr ""
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/extender.py:36
+#: cpskin.core/cpskin/core/extender.py:37
 msgid "help_hidden_tags"
 msgstr ""
 
-#. Default: "Display as dropdown"
-#: cpskin.core/cpskin/core/portlets/navigation.py:27
-msgid "label_display_as_dropdown"
+#. Default: "Your email address."
+#: cpskin.core/cpskin/core/browser/interfaces.py:16
+msgid "help_send_from"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles/default/actions.xml
+msgid "indicate_error"
+msgstr ""
+
+#. Default: "Change request"
+#: cpskin.core/cpskin/core/browser/interfaces.py:22
+msgid "label_comment"
 msgstr ""
 
 #. Default: "Hidden Tags"
-#: cpskin.core/cpskin/core/extender.py:35
+#: cpskin.core/cpskin/core/extender.py:36
 msgid "label_hidden_tags"
+msgstr ""
+
+#. Default: "Send"
+#: cpskin.core/cpskin/core/browser/sendtomanager.py:38
+msgid "label_send"
+msgstr ""
+
+#. Default: "From"
+#: cpskin.core/cpskin/core/browser/interfaces.py:14
+msgid "label_send_from"
+msgstr ""
+
+#. Default: "On the page"
+#: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:14
+msgid "on_the_page"
+msgstr ""
+
+#. Default: "Signaler une erreur au gestionnaire du site"
+#: cpskin.core/cpskin/core/browser/sendtomanager.py:27
+msgid "signaler_erreur_gestionnaire_site"
+msgstr ""
+
+#. Default: "With the following comment"
+#: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:18
+msgid "with_the_following_comment"
 msgstr ""
 
