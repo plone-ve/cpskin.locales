@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-05-15 09:44+0000\n"
+"POT-Creation-Date: 2014-05-27 11:26+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
@@ -28,6 +28,18 @@ msgstr ""
 msgid "Collection portlet with slider view"
 msgstr ""
 
+#: cpskin.core/cpskin/core/profiles/default/registry.xml
+msgid "Hidden Tag"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles/default/registry.xml
+msgid "Hidden Tags are used for webmaster organization of content"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles/default/actions.xml
+msgid "Indicate an error"
+msgstr ""
+
 #: cpskin.workflow/cpskin/workflow/configure.zcml
 msgid "Installs CPSkin workflows"
 msgstr ""
@@ -44,6 +56,10 @@ msgstr ""
 msgid "Mail sent."
 msgstr ""
 
+#: cpskin.core/cpskin/core/profiles/default/registry.xml
+msgid "Text"
+msgstr ""
+
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:94
 msgid "Unable to send mail."
 msgstr ""
@@ -54,6 +70,16 @@ msgstr ""
 
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:37
 msgid "add a collection portlet with slider view"
+msgstr ""
+
+#. Default: "<h2 style=\"text-decoration: underline;\">Vous venez d'installer le canevas de site internet proposé par CommunesPlone.</h2> <p><br /> Pour bien prendre en main cet outil, nous vous recommandons de lire la documentation suivante :</p> <ul> <li>une <a href=\"http://www.communesplone.org/support/documentation/tutoriels/cpskin3-le-site-communal-en-plone-3/\">documentation CPSkin3</a>, vous présentant le canevas de site internet CPSkin3.</li> <li>une <a href=\"http://www.communesplone.org/support/documentation/topic/section_internet\">documentation spécifique au site internet</a>, vous présentant les différents modules utilisés dans les sites internet ainsi que des tutoriaux vous aidant à concevoir votre site.</li> <li>une <a href=\"http://www.communesplone.org/support/documentation/topic/section_basic_use\">documentation général sur Plone</a>, vous présentant l'outil et son interface.</li> </ul> <p><br /> En tant qu'administrateur du site, vous pourrez effectuer (entre autres) les <span style=\"font-weight: bold;\">adaptations suivantes</span> :<br /> </p> <p>1) <span style=\"text-decoration: underline;\">Ajouter une page d'accueil dynamique</span></p> <p>Vous trouverez dans cette <a href=\"http://www.communesplone.org/support/documentation/tutoriels/integration-dune-page-daccueil\">documentation</a> les informations nécessaires pour intégrée une des pages d'accueils dynamique fournies avec le produit CPSkin3.</p> <p><br /> 2) <span style=\"text-decoration: underline;\">Modifier le logo</span> <br /> <br /> Il est nécessaire pour cela de se rendre dans la <a href=\"http://www.communesplone.org/support/documentation/glossary/zmi\">ZMI</a> et plus particulièrement dans /portal_skins/custom. Vous y trouverez un élément nommé logo.jpg. En cliquant sur cet élément, vous pourrez remplacer l'image proposée par une image de votre choix mais qui doit être de même dimension. <br /> Nous vous conseillons d'utiliser comme navigateur Firefox qui vous permettra d'ouvrir plusieurs onglets différents (par exemple un dans la ZMI et un dans Plone) et qui vous permettra également d'installer des modules complémentaires très utiles dans l'élaboration d'un site (Firebug, web developer, colorzilla, rainbowpicker, ...).<br /> <br /> 3) <span style=\"text-decoration: underline;\">Modifier la bannière supérieure</span><br /> <br /> La bannière peut être différente de dossier en dossier. C'est le cas après l'installation : la bannière est différente lorsque l'on se trouve dans un thème ou ses sous-dossiers. <br /> Afin de remplacer la bannière proposée par défaut (à la racine du site), il est nécessaire d'ouvrir l'élément appelé \"banner.jpg\". Vous trouverez cet élément en vous positionnant à la racine du site (dans Plone) et en cliquant sur l'onglet \"Contenu\". Cette vue très pratique affiche tous les éléments présents dans un dossier. Après avoir cliqué sur l'élément banner.jpg,&nbsp; vous pourrez le modifier via l'onglet \"Modifier\" et remplacer la bannière par une image de même dimension. <br /> Pour modifier les bannières utilisées dans les dossiers \"thème\", il suffit d'éditer l'élément \"banner.jpg\" se trouvant dans chaque dossier \"thème. <br /> Pour ajouter une nouvelle bannière qui sera affichée sur un dossier et ses sous-dossiers, il suffira de créer dans ce dossier une image dont l'id doit être \"banner.jpg\". <br /> <br /> 4) <span style=\"text-decoration: underline;\">Ajouter un thème</span><br /> <br /> En se positionnant à la racine du site et il suffit de rajouter un dossier et de le publier dans la navigation. Il est conseillé de ne pas créer plus de 5 thèmes.<br /> <br /> 5) <span style=\"text-decoration: underline;\">Créer du contenu dans les dossiers \"thème\"</span><br /> <br /> Afin que les éléments présents dans les dossiers \"Thème\" soient affichés correctement dans les menus, il est nécessaire de les créer suivant les recommandations indiquées dans la documentation. <br /> <br /> 6) <span style=\"text-decoration: underline;\">Donner à un utilisateur les droits de modification sur un dossier et son contenu</span> <br /> <br /> Par défaut, seul l'administrateur peut modifier ou créer des éléments à n'importe quel endroit du site. Un utilisateur \"normal\" ne le pourra pas. <br /> Pour donner à un utilisateur ou un groupe d'utilisateurs les droits de gestion sur un dossier particulier et son contenu (par exemple pour qu'un service puisse gérer le contenu du dossier le concernant), l'administrateur doit spécifier certains droits sur ce dossier. Cela peut être fait via l'onglet \"Partage\", comme expliqué dans <a href=\"http://www.communesplone.org/support/documentation/how-to/comment-gerer-les-roles-locaux\">cette documentation</a>.<br /> &nbsp;</p>"
+#: cpskin.core/cpskin/core/browser/templates/frontpage.pt:9
+msgid "cpskin-front-text"
+msgstr ""
+
+#. Default: "<h4>Comment encoder un élément sur le site ?</h4> <p>&nbsp;</p> <ul> <li>En premier lieu, vous devrez accéder à votre dossier personnel en utilisant le lien nommé \"mon dossier personnel\", situé généralement en haut à droite.</li> <li>Une fois dans votre dossier, vous pouvez ajouter un élément en cliquant sur le menu intitulé \"Ajout d'un élément\" et en sélectionnant un type d'élément. </li> <li>Dès que le formulaire d'encodage apparaît, vous pouvez compléter les zones voulues. <br /> Une zone marquée par un carré rouge doit obligatoirement être remplie.<br /> Une fois l'information entrée, vous pouvez sauvegarder celle-ci en cliquant sur le bouton \"Enregistrer\" situé en bas du formulaire. <br /> Vous pouvez retourner au formulaire d'édition en cliquant sur l'onglet \"Modifier\". </li> <li>Dès que vous estimez que votre élément est prêt à être publié, vous devez le proposer en cliquant sur le menu \"état: privé\" et en sélectionnant \"soumettre à la publication\". <br /> L'état de votre élément devient alors \"en attente de modération\".</li> <li>Dès que votre élément aura été approuvé pour publication, il sera dans l'état \"publié\" et événtuellement déplacé à un autre endroit du site.<br /> Pas d'inquiétude donc si vous ne voyez plus votre élément dans votre dossier personnel.</li> </ul> <p>&nbsp;</p>"
+#: cpskin.core/cpskin/core/browser/templates/helppage.pt:9
+msgid "cpskin-help-page"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/configure.zcml
@@ -77,9 +103,9 @@ msgstr ""
 msgid "error_reported"
 msgstr ""
 
-#. Default: "Merci de fournir le maximum d'information ainsi que tout renseignement qui permette de la valider (source)."
-#: cpskin.core/cpskin/core/browser/sendtomanager.py:30
-msgid "provide_maximum_informations"
+#. Default: "Sécurisé, fiable et rapide, ${Firefox} est gratuit et simple à installer."
+#: cpskin.core/cpskin/core/portlets/firefox.pt:6
+msgid "firefox_download_sentence"
 msgstr ""
 
 #. Default: "Report an error or missing information."
@@ -88,7 +114,7 @@ msgid "help_comment"
 msgstr ""
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/extender.py:37
+#: cpskin.core/cpskin/core/extender.py:38
 msgid "help_hidden_tags"
 msgstr ""
 
@@ -97,17 +123,13 @@ msgstr ""
 msgid "help_send_from"
 msgstr ""
 
-#: cpskin.core/cpskin/core/profiles/default/actions.xml
-msgid "Indicate an error"
-msgstr ""
-
 #. Default: "Change request"
 #: cpskin.core/cpskin/core/browser/interfaces.py:22
 msgid "label_comment"
 msgstr ""
 
 #. Default: "Hidden Tags"
-#: cpskin.core/cpskin/core/extender.py:36
+#: cpskin.core/cpskin/core/extender.py:37
 msgid "label_hidden_tags"
 msgstr ""
 
@@ -121,19 +143,29 @@ msgstr ""
 msgid "label_send_from"
 msgstr ""
 
-#. Default: "An error has been reported by"
-#: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:10
-msgid "sendtomanager_mail_error_reported"
-msgstr ""
-
 #. Default: "On the page"
 #: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:14
 msgid "on_the_page"
 msgstr ""
 
+#. Default: "Merci de fournir le maximum d'information ainsi que tout renseignement qui permette de la valider (source)."
+#: cpskin.core/cpskin/core/browser/sendtomanager.py:30
+msgid "provide_maximum_informations"
+msgstr ""
+
 #. Default: "Report an error to the site manager"
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:27
 msgid "report_error_to_site_manager"
+msgstr ""
+
+#. Default: "An error has been reported by"
+#: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:10
+msgid "sendtomanager_mail_error_reported"
+msgstr ""
+
+#. Default: "Ce site est optimisé pour le navigateur Firefox."
+#: cpskin.core/cpskin/core/portlets/firefox.pt:4
+msgid "site_optimise_pour_firefox"
 msgstr ""
 
 #. Default: "With the following comment"
