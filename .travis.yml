@@ -4,7 +4,10 @@ install:
   - mkdir -p buildout-cache/downloads
   - python bootstrap.py -c travis.cfg
   - bin/buildout -c travis.cfg -N
-script: bin/test
+script:
+  - bin/i18n cpskin
+  - bin/i18n plone
+  - bin/test
 notifications:
   email:
     recipients:
