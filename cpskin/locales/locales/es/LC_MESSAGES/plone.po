@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-05-28 08:21+0000\n"
+"POT-Creation-Date: 2014-05-28 08:22+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
@@ -207,6 +207,11 @@ msgstr ""
 msgid "help_send_from"
 msgstr ""
 
+#. Default: "Advanced Search…"
+#: cpskin/minisite/searchbox.pt:57
+msgid "label_advanced_search"
+msgstr ""
+
 #. Default: "Change request"
 #: cpskin.core/cpskin/core/browser/interfaces.py:22
 msgid "label_comment"
@@ -215,6 +220,16 @@ msgstr ""
 #. Default: "Hidden Tags"
 #: cpskin.core/cpskin/core/extender.py:37
 msgid "label_hidden_tags"
+msgstr ""
+
+#. Default: "Search"
+#: cpskin/minisite/searchbox.pt:29
+msgid "label_search"
+msgstr ""
+
+#. Default: "only in current section"
+#: cpskin/minisite/searchbox.pt:44
+msgid "label_searchbox_currentfolder_only"
 msgstr ""
 
 #. Default: "Send"
@@ -250,5 +265,15 @@ msgstr ""
 #. Default: "Home"
 #: cpskin.core/cpskin/core/portlets/navigation.pt:26
 msgid "tabs_home"
+msgstr ""
+
+#. Default: "Search Site"
+#: cpskin/minisite/searchbox.pt:12
+msgid "text_search"
+msgstr ""
+
+#. Default: "Search Site"
+#: cpskin/minisite/searchbox.pt:16
+msgid "title_search_site"
 msgstr ""
 
