@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-05-27 13:24+0000\n"
+"POT-Creation-Date: 2014-05-28 08:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
-msgid "Add 4th level navigation blabla"
+msgid "Add 4th level navigation"
 msgstr ""
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
