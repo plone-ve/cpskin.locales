@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-05-30 09:38+0000\n"
+"POT-Creation-Date: 2014-05-30 10:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,6 +28,14 @@ msgstr ""
 msgid "- Used for CPSkin site - Has three states: Created, Published and hidden (from navigation) and Published and shown (in navigation)"
 msgstr ""
 
+#: cpskin.menu/cpskin/menu/browser/navigationview.py:81
+msgid "4th level navigation disabled on content"
+msgstr ""
+
+#: cpskin.menu/cpskin/menu/browser/navigationview.py:75
+msgid "4th level navigation enabled on content"
+msgstr ""
+
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "Back to created"
@@ -37,12 +45,12 @@ msgstr ""
 msgid "Back to pending"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/banner.py:68
-msgid "Banner activated on content and sub-contents"
-msgstr ""
-
 #: cpskin.core/cpskin/core/browser/banner.py:76
 msgid "Banner disabled for content and sub-contents"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/banner.py:68
+msgid "Banner enabled on content and sub-contents"
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/controlpanel.py:29
@@ -65,6 +73,14 @@ msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/cpskin_readonly_workflow/definition.xml
 msgid "Comment about the last transition"
+msgstr ""
+
+#: cpskin.menu/cpskin/menu/browser/directaccessview.py:78
+msgid "Content added to direct access menu"
+msgstr ""
+
+#: cpskin.menu/cpskin/menu/browser/directaccessview.py:86
+msgid "Content removed from direct access menu"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
@@ -195,7 +211,7 @@ msgstr ""
 msgid "flux_rss_derniers_evenements"
 msgstr ""
 
-#. Default: "Sections"
+#. Default: "Navigation"
 #: cpskin.menu/cpskin/menu/browser/menu.pt:8
 #: cpskin.menu/cpskin/menu/overrides/plone.app.layout.viewlets.sections.pt:4
 msgid "heading_sections"
@@ -217,7 +233,7 @@ msgid "help_send_from"
 msgstr ""
 
 #. Default: "Advanced Search…"
-#: cpskin/minisite/searchbox.pt:57
+#: cpskin.minisite/cpskin/minisite/searchbox.pt:57
 msgid "label_advanced_search"
 msgstr ""
 
@@ -232,12 +248,12 @@ msgid "label_hidden_tags"
 msgstr ""
 
 #. Default: "Search"
-#: cpskin/minisite/searchbox.pt:29
+#: cpskin.minisite/cpskin/minisite/searchbox.pt:29
 msgid "label_search"
 msgstr ""
 
 #. Default: "only in current section"
-#: cpskin/minisite/searchbox.pt:44
+#: cpskin.minisite/cpskin/minisite/searchbox.pt:44
 msgid "label_searchbox_currentfolder_only"
 msgstr ""
 
@@ -277,12 +293,12 @@ msgid "tabs_home"
 msgstr ""
 
 #. Default: "Search Site"
-#: cpskin/minisite/searchbox.pt:12
+#: cpskin.minisite/cpskin/minisite/searchbox.pt:12
 msgid "text_search"
 msgstr ""
 
 #. Default: "Search Site"
-#: cpskin/minisite/searchbox.pt:16
+#: cpskin.minisite/cpskin/minisite/searchbox.pt:16
 msgid "title_search_site"
 msgstr ""
 

@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-05-30 09:39+0000\n"
+"POT-Creation-Date: 2014-05-30 10:34+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: support@communesplone.org\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,14 @@ msgstr ""
 "Language: \n"
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
 
+#: cpskin.menu/cpskin/menu/browser/navigationview.py:81
+msgid "4th level navigation disabled on content"
+msgstr ""
+
+#: cpskin.menu/cpskin/menu/browser/navigationview.py:75
+msgid "4th level navigation enabled on content"
+msgstr ""
+
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Add 4th level navigation"
 msgstr ""
@@ -28,12 +36,12 @@ msgstr ""
 msgid "Banner"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/banner.py:68
-msgid "Banner activated on content and sub-contents"
-msgstr ""
-
 #: cpskin.core/cpskin/core/browser/banner.py:76
 msgid "Banner disabled for content and sub-contents"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/banner.py:68
+msgid "Banner enabled on content and sub-contents"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/controlpanel.xml
@@ -46,6 +54,14 @@ msgstr ""
 
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:36
 msgid "Collection portlet with slider view"
+msgstr ""
+
+#: cpskin.menu/cpskin/menu/browser/directaccessview.py:78
+msgid "Content added to direct access menu"
+msgstr ""
+
+#: cpskin.menu/cpskin/menu/browser/directaccessview.py:86
+msgid "Content removed from direct access menu"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
