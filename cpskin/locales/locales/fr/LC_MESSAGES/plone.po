@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-05-27 13:24+0000\n"
+"POT-Creation-Date: 2014-05-30 10:34+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: support@communesplone.org\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,6 +28,14 @@ msgstr ""
 msgid "- Used for CPSkin site - Has three states: Created, Published and hidden (from navigation) and Published and shown (in navigation)"
 msgstr ""
 
+#: cpskin.menu/cpskin/menu/browser/navigationview.py:81
+msgid "4th level navigation disabled on content"
+msgstr ""
+
+#: cpskin.menu/cpskin/menu/browser/navigationview.py:75
+msgid "4th level navigation enabled on content"
+msgstr ""
+
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "Back to created"
@@ -37,9 +45,17 @@ msgstr "Remettre en création"
 msgid "Back to pending"
 msgstr "Remettre en attente de modération"
 
+#: cpskin.core/cpskin/core/browser/banner.py:76
+msgid "Banner disabled for content and sub-contents"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/banner.py:68
+msgid "Banner enabled on content and sub-contents"
+msgstr ""
+
 #: cpskin.core/cpskin/core/browser/controlpanel.py:29
 msgid "CPSkin settings"
-msgstr ""
+msgstr "Paramètres CPSkin"
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "CPSkin workflow"
@@ -59,12 +75,20 @@ msgstr ""
 msgid "Comment about the last transition"
 msgstr ""
 
+#: cpskin.menu/cpskin/menu/browser/directaccessview.py:78
+msgid "Content added to direct access menu"
+msgstr ""
+
+#: cpskin.menu/cpskin/menu/browser/directaccessview.py:86
+msgid "Content removed from direct access menu"
+msgstr ""
+
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "Created"
 msgstr "En création"
 
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:92
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:102
 msgid "Events"
 msgstr ""
 
@@ -84,7 +108,7 @@ msgstr ""
 msgid "My Folder"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:40
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:50
 msgid "News"
 msgstr ""
 
@@ -178,17 +202,18 @@ msgid "error_reported"
 msgstr ""
 
 #. Default: "Flux RSS des dernières actualités"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:47
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:57
 msgid "flux_rss_dernieres_actualites"
 msgstr ""
 
 #. Default: "Flux RSS des derniers évènements"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:99
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:109
 msgid "flux_rss_derniers_evenements"
 msgstr ""
 
-#. Default: "Sections"
+#. Default: "Navigation"
 #: cpskin.menu/cpskin/menu/browser/menu.pt:8
+#: cpskin.menu/cpskin/menu/overrides/plone.app.layout.viewlets.sections.pt:4
 msgid "heading_sections"
 msgstr ""
 
@@ -198,7 +223,7 @@ msgid "help_comment"
 msgstr ""
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/extender.py:38
+#: cpskin.core/cpskin/core/extender.py:52
 msgid "help_hidden_tags"
 msgstr ""
 
@@ -207,14 +232,29 @@ msgstr ""
 msgid "help_send_from"
 msgstr ""
 
+#. Default: "Advanced Search…"
+#: cpskin.minisite/cpskin/minisite/searchbox.pt:57
+msgid "label_advanced_search"
+msgstr ""
+
 #. Default: "Change request"
 #: cpskin.core/cpskin/core/browser/interfaces.py:22
 msgid "label_comment"
 msgstr ""
 
 #. Default: "Hidden Tags"
-#: cpskin.core/cpskin/core/extender.py:37
+#: cpskin.core/cpskin/core/extender.py:51
 msgid "label_hidden_tags"
+msgstr ""
+
+#. Default: "Search"
+#: cpskin.minisite/cpskin/minisite/searchbox.pt:29
+msgid "label_search"
+msgstr ""
+
+#. Default: "only in current section"
+#: cpskin.minisite/cpskin/minisite/searchbox.pt:44
+msgid "label_searchbox_currentfolder_only"
 msgstr ""
 
 #. Default: "Send"
@@ -228,7 +268,7 @@ msgid "label_send_from"
 msgstr ""
 
 #. Default: "[Modifier la zone statique]"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:23
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:33
 msgid "modifier_zone_statique"
 msgstr ""
 
@@ -250,5 +290,15 @@ msgstr ""
 #. Default: "Home"
 #: cpskin.core/cpskin/core/portlets/navigation.pt:26
 msgid "tabs_home"
+msgstr ""
+
+#. Default: "Search Site"
+#: cpskin.minisite/cpskin/minisite/searchbox.pt:12
+msgid "text_search"
+msgstr ""
+
+#. Default: "Search Site"
+#: cpskin.minisite/cpskin/minisite/searchbox.pt:16
+msgid "title_search_site"
 msgstr ""
 

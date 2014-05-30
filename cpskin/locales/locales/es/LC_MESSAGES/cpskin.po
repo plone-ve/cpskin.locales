@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-05-27 13:24+0000\n"
+"POT-Creation-Date: 2014-05-30 10:34+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
@@ -16,12 +16,32 @@ msgstr ""
 "Language: \n"
 "X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
 
+#: cpskin.menu/cpskin/menu/browser/navigationview.py:81
+msgid "4th level navigation disabled on content"
+msgstr ""
+
+#: cpskin.menu/cpskin/menu/browser/navigationview.py:75
+msgid "4th level navigation enabled on content"
+msgstr ""
+
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
-msgid "Add 4th level navigation blabla"
+msgid "Add 4th level navigation"
 msgstr ""
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Add direct access"
+msgstr ""
+
+#: cpskin.core/cpskin/core/viewlets/banner.pt:4
+msgid "Banner"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/banner.py:76
+msgid "Banner disabled for content and sub-contents"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/banner.py:68
+msgid "Banner enabled on content and sub-contents"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/controlpanel.xml
@@ -36,12 +56,24 @@ msgstr ""
 msgid "Collection portlet with slider view"
 msgstr ""
 
+#: cpskin.menu/cpskin/menu/browser/directaccessview.py:78
+msgid "Content added to direct access menu"
+msgstr ""
+
+#: cpskin.menu/cpskin/menu/browser/directaccessview.py:86
+msgid "Content removed from direct access menu"
+msgstr ""
+
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Hidden Tag"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Hidden Tags are used for webmaster organization of content"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles/default/actions.xml
+msgid "Hide banner"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
@@ -70,6 +102,10 @@ msgstr ""
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Remove the 4th level navigation"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles/default/actions.xml
+msgid "Show banner"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
@@ -130,7 +166,7 @@ msgid "help_comment"
 msgstr ""
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/extender.py:38
+#: cpskin.core/cpskin/core/extender.py:52
 msgid "help_hidden_tags"
 msgstr ""
 
@@ -145,7 +181,7 @@ msgid "label_comment"
 msgstr ""
 
 #. Default: "Hidden Tags"
-#: cpskin.core/cpskin/core/extender.py:37
+#: cpskin.core/cpskin/core/extender.py:51
 msgid "label_hidden_tags"
 msgstr ""
 
