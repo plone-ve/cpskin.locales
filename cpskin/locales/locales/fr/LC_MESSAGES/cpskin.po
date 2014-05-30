@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-05-28 08:22+0000\n"
+"POT-Creation-Date: 2014-05-30 09:39+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: support@communesplone.org\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,6 +24,18 @@ msgstr ""
 msgid "Add direct access"
 msgstr ""
 
+#: cpskin.core/cpskin/core/viewlets/banner.pt:4
+msgid "Banner"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/banner.py:68
+msgid "Banner activated on content and sub-contents"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/banner.py:76
+msgid "Banner disabled for content and sub-contents"
+msgstr ""
+
 #: cpskin.core/cpskin/core/profiles/default/controlpanel.xml
 msgid "CPSkin"
 msgstr ""
@@ -42,6 +54,10 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Hidden Tags are used for webmaster organization of content"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles/default/actions.xml
+msgid "Hide banner"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
@@ -70,6 +86,10 @@ msgstr ""
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Remove the 4th level navigation"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles/default/actions.xml
+msgid "Show banner"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
@@ -130,7 +150,7 @@ msgid "help_comment"
 msgstr "Signaler une erreur ou une information manquante."
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/extender.py:38
+#: cpskin.core/cpskin/core/extender.py:52
 msgid "help_hidden_tags"
 msgstr ""
 
@@ -145,7 +165,7 @@ msgid "label_comment"
 msgstr "Demande de modification"
 
 #. Default: "Hidden Tags"
-#: cpskin.core/cpskin/core/extender.py:37
+#: cpskin.core/cpskin/core/extender.py:51
 msgid "label_hidden_tags"
 msgstr ""
 

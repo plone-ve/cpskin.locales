@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-05-28 08:22+0000\n"
+"POT-Creation-Date: 2014-05-30 09:38+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
@@ -37,6 +37,14 @@ msgstr "Volver a la creación"
 msgid "Back to pending"
 msgstr "Volver a la espera de moderación"
 
+#: cpskin.core/cpskin/core/browser/banner.py:68
+msgid "Banner activated on content and sub-contents"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/banner.py:76
+msgid "Banner disabled for content and sub-contents"
+msgstr ""
+
 #: cpskin.core/cpskin/core/browser/controlpanel.py:29
 msgid "CPSkin settings"
 msgstr ""
@@ -64,7 +72,7 @@ msgstr ""
 msgid "Created"
 msgstr "Creado"
 
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:92
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:102
 msgid "Events"
 msgstr ""
 
@@ -84,7 +92,7 @@ msgstr ""
 msgid "My Folder"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:40
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:50
 msgid "News"
 msgstr ""
 
@@ -178,17 +186,18 @@ msgid "error_reported"
 msgstr ""
 
 #. Default: "Flux RSS des dernières actualités"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:47
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:57
 msgid "flux_rss_dernieres_actualites"
 msgstr ""
 
 #. Default: "Flux RSS des derniers évènements"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:99
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:109
 msgid "flux_rss_derniers_evenements"
 msgstr ""
 
 #. Default: "Sections"
 #: cpskin.menu/cpskin/menu/browser/menu.pt:8
+#: cpskin.menu/cpskin/menu/overrides/plone.app.layout.viewlets.sections.pt:4
 msgid "heading_sections"
 msgstr ""
 
@@ -198,7 +207,7 @@ msgid "help_comment"
 msgstr ""
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/extender.py:38
+#: cpskin.core/cpskin/core/extender.py:52
 msgid "help_hidden_tags"
 msgstr ""
 
@@ -218,7 +227,7 @@ msgid "label_comment"
 msgstr ""
 
 #. Default: "Hidden Tags"
-#: cpskin.core/cpskin/core/extender.py:37
+#: cpskin.core/cpskin/core/extender.py:51
 msgid "label_hidden_tags"
 msgstr ""
 
@@ -243,7 +252,7 @@ msgid "label_send_from"
 msgstr ""
 
 #. Default: "[Modifier la zone statique]"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:23
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:33
 msgid "modifier_zone_statique"
 msgstr ""
 
