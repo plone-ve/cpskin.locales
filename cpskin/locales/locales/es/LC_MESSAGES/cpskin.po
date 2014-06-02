@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-05-30 10:34+0000\n"
+"POT-Creation-Date: 2014-06-02 21:00+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
@@ -178,6 +178,11 @@ msgstr ""
 #. Default: "Change request"
 #: cpskin.core/cpskin/core/browser/interfaces.py:22
 msgid "label_comment"
+msgstr ""
+
+#. Default: "Filed under hidden tag:"
+#: cpskin.core/cpskin/core/viewlets/hiddentags.pt:7
+msgid "label_filed_under_hidden_tag"
 msgstr ""
 
 #. Default: "Hidden Tags"
