@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-06-02 21:00+0000\n"
+"POT-Creation-Date: 2014-06-04 09:26+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: support@communesplone.org\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -92,6 +92,10 @@ msgstr ""
 msgid "Lets you change the settings of CPSkin"
 msgstr ""
 
+#: cpskin.core/cpskin/core/profiles/default/registry.xml
+msgid "Links in social viewlet"
+msgstr ""
+
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:100
 msgid "Mail sent."
 msgstr ""
@@ -118,6 +122,10 @@ msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/configure.zcml
 msgid "Uninstalls CPSkin workflows"
+msgstr ""
+
+#: cpskin.core/cpskin/core/portlets/photo.pt:4
+msgid "Visuel"
 msgstr ""
 
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:37

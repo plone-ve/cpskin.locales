@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-06-02 21:00+0000\n"
+"POT-Creation-Date: 2014-06-04 09:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -88,7 +88,7 @@ msgstr ""
 msgid "Created"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:102
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:73
 msgid "Events"
 msgstr ""
 
@@ -108,7 +108,7 @@ msgstr ""
 msgid "My Folder"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:50
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:38
 msgid "News"
 msgstr ""
 
@@ -202,12 +202,12 @@ msgid "error_reported"
 msgstr ""
 
 #. Default: "Flux RSS des dernières actualités"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:57
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:45
 msgid "flux_rss_dernieres_actualites"
 msgstr ""
 
 #. Default: "Flux RSS des derniers évènements"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:109
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:80
 msgid "flux_rss_derniers_evenements"
 msgstr ""
 
@@ -268,7 +268,7 @@ msgid "label_send_from"
 msgstr ""
 
 #. Default: "[Modifier la zone statique]"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:33
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:20
 msgid "modifier_zone_statique"
 msgstr ""
 
