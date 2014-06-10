@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-06-04 09:26+0000\n"
+"POT-Creation-Date: 2014-06-10 09:46+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
@@ -174,7 +174,7 @@ msgid "help_comment"
 msgstr ""
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/extender.py:52
+#: cpskin.core/cpskin/core/extender.py:57
 msgid "help_hidden_tags"
 msgstr ""
 
@@ -194,7 +194,7 @@ msgid "label_filed_under_hidden_tag"
 msgstr ""
 
 #. Default: "Hidden Tags"
-#: cpskin.core/cpskin/core/extender.py:51
+#: cpskin.core/cpskin/core/extender.py:56
 msgid "label_hidden_tags"
 msgstr ""
 

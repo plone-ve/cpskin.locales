@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-06-04 09:26+0000\n"
+"POT-Creation-Date: 2014-06-10 09:45+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -88,7 +88,7 @@ msgstr ""
 msgid "Created"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:73
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:69
 msgid "Events"
 msgstr ""
 
@@ -104,11 +104,15 @@ msgstr ""
 msgid "Mail sent."
 msgstr ""
 
+#: cpskin.minisite/cpskin/minisite/minisites_panel.pt:13
+msgid "Minisites"
+msgstr ""
+
 #: cpskin.core/cpskin/core/profiles/members-config/actions.xml
 msgid "My Folder"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:38
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:40
 msgid "News"
 msgstr ""
 
@@ -164,8 +168,20 @@ msgstr ""
 msgid "Published and shown"
 msgstr ""
 
+#: cpskin.minisite/cpskin/minisite/minisites_panel.pt:20
+msgid "Read-only list of minisites."
+msgstr ""
+
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 msgid "Reviewer queue"
+msgstr ""
+
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:68
+msgid "Search results"
+msgstr ""
+
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:77
+msgid "Search results for ${term}"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/cpskin_readonly_workflow/definition.xml
@@ -174,6 +190,10 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
 msgid "The hidden tags configured by the webmaster"
+msgstr ""
+
+#: cpskin.minisite/cpskin/minisite/minisites_panel.pt:17
+msgid "There are no mini sites configured."
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:94
@@ -192,6 +212,26 @@ msgstr ""
 msgid "add a collection portlet with slider view"
 msgstr ""
 
+#. Default: "${number} items matching your search terms."
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:107
+msgid "batch_x_items_matching_your_criteria"
+msgstr ""
+
+#. Default: "last modified"
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:327
+msgid "box_last_modified"
+msgstr ""
+
+#. Default: "published"
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:317
+msgid "box_published"
+msgstr ""
+
+#. Default: "No results were found."
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:273
+msgid "description_no_results_found"
+msgstr ""
+
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:48
 msgid "edit a collection portlet with slider view"
 msgstr ""
@@ -201,13 +241,17 @@ msgstr ""
 msgid "error_reported"
 msgstr ""
 
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:340
+msgid "filed under:"
+msgstr ""
+
 #. Default: "Flux RSS des dernières actualités"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:45
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:44
 msgid "flux_rss_dernieres_actualites"
 msgstr ""
 
 #. Default: "Flux RSS des derniers évènements"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:80
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:73
 msgid "flux_rss_derniers_evenements"
 msgstr ""
 
@@ -223,7 +267,7 @@ msgid "help_comment"
 msgstr ""
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/extender.py:52
+#: cpskin.core/cpskin/core/extender.py:57
 msgid "help_hidden_tags"
 msgstr ""
 
@@ -233,8 +277,13 @@ msgid "help_send_from"
 msgstr ""
 
 #. Default: "Advanced Search…"
-#: cpskin.minisite/cpskin/minisite/searchbox.pt:57
+#: cpskin.minisite/cpskin/minisite/searchbox_in_minisite.pt:50
 msgid "label_advanced_search"
+msgstr ""
+
+#. Default: "by ${author}"
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:302
+msgid "label_by_author"
 msgstr ""
 
 #. Default: "Change request"
@@ -243,18 +292,24 @@ msgid "label_comment"
 msgstr ""
 
 #. Default: "Hidden Tags"
-#: cpskin.core/cpskin/core/extender.py:51
+#: cpskin.core/cpskin/core/extender.py:56
 msgid "label_hidden_tags"
 msgstr ""
 
-#. Default: "Search"
-#: cpskin.minisite/cpskin/minisite/searchbox.pt:29
-msgid "label_search"
+#. Default: "Item type"
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:128
+msgid "label_item_type"
 msgstr ""
 
-#. Default: "only in current section"
-#: cpskin.minisite/cpskin/minisite/searchbox.pt:44
-msgid "label_searchbox_currentfolder_only"
+#. Default: "New items since"
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:182
+msgid "label_new_items_since"
+msgstr ""
+
+#. Default: "Search"
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:59
+#: cpskin.minisite/cpskin/minisite/searchbox_in_minisite.pt:29
+msgid "label_search"
 msgstr ""
 
 #. Default: "Send"
@@ -267,6 +322,11 @@ msgstr ""
 msgid "label_send_from"
 msgstr ""
 
+#. Default: "Select All/None"
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:149
+msgid "label_toggle"
+msgstr ""
+
 #. Default: "[Modifier la zone statique]"
 #: cpskin.core/cpskin/core/browser/templates/folderview.pt:20
 msgid "modifier_zone_statique"
@@ -275,6 +335,11 @@ msgstr ""
 #. Default: "More…"
 #: cpskin.slider/cpskin/slider/portlets/slidercollectionportlet.pt:54
 msgid "more_url"
+msgstr ""
+
+#. Default: "Filter the results."
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:116
+msgid "narrow_search_options"
 msgstr ""
 
 #. Default: "Merci de fournir le maximum d'information ainsi que tout renseignement qui permette de la valider (source)."
@@ -287,18 +352,58 @@ msgstr ""
 msgid "report_error_to_site_manager"
 msgstr ""
 
+#. Default: "Sort by"
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:247
+msgid "sort_by"
+msgstr ""
+
 #. Default: "Home"
 #: cpskin.core/cpskin/core/portlets/navigation.pt:26
 msgid "tabs_home"
 msgstr ""
 
 #. Default: "Search Site"
-#: cpskin.minisite/cpskin/minisite/searchbox.pt:12
+#: cpskin.minisite/cpskin/minisite/searchbox_in_minisite.pt:12
 msgid "text_search"
 msgstr ""
 
+#. Default: "Located in"
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:360
+msgid "text_searchitem_location"
+msgstr ""
+
+#. Default: "Ever"
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:225
+msgid "time_ever"
+msgstr ""
+
+#. Default: "Last month"
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:217
+msgid "time_last_month"
+msgstr ""
+
+#. Default: "Last week"
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:209
+msgid "time_last_week"
+msgstr ""
+
+#. Default: "Yesterday"
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:201
+msgid "time_yesterday"
+msgstr ""
+
 #. Default: "Search Site"
-#: cpskin.minisite/cpskin/minisite/searchbox.pt:16
+#: cpskin.minisite/cpskin/minisite/searchbox_in_minisite.pt:16
 msgid "title_search_site"
+msgstr ""
+
+#. Default: "Search Site"
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:51
+msgid "title_search_title"
+msgstr ""
+
+#. Default: "Subscribe to an always-updated RSS feed."
+#: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:91
+msgid "title_subscribe_rss_feed"
 msgstr ""
 
