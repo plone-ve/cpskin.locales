@@ -18,31 +18,31 @@ msgstr ""
 
 #: cpskin.menu/cpskin/menu/browser/navigationview.py:84
 msgid "4th level navigation disabled on content"
-msgstr ""
+msgstr "Retirer du 4ème niveau du menu horizontal"
 
 #: cpskin.menu/cpskin/menu/browser/navigationview.py:78
 msgid "4th level navigation enabled on content"
-msgstr ""
+msgstr "Afficher dans le 4ème niveau du menu horizontal"
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Add 4th level navigation"
-msgstr ""
+msgstr "Ajouter un 4ème nivau au menu horizontal"
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Add direct access"
-msgstr ""
+msgstr "Ajouter à la liste d'accès direct"
 
 #: cpskin.core/cpskin/core/viewlets/banner.pt:4
 msgid "Banner"
-msgstr ""
+msgstr "Banner"
 
 #: cpskin.core/cpskin/core/browser/banner.py:76
 msgid "Banner disabled for content and sub-contents"
-msgstr ""
+msgstr "Cacher le banner"
 
 #: cpskin.core/cpskin/core/browser/banner.py:68
 msgid "Banner enabled on content and sub-contents"
-msgstr ""
+msgstr "Afficher le banner"
 
 #: cpskin.core/cpskin/core/profiles/default/controlpanel.xml
 msgid "CPSkin"
@@ -50,55 +50,55 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/browser/controlpanel.py:29
 msgid "CPSkin settings"
-msgstr ""
+msgstr "Configuration de CPSkin"
 
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:36
 msgid "Collection portlet with slider view"
-msgstr ""
+msgstr "Portlet collection avec vue slider"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Configure Folder View here"
-msgstr ""
+msgstr "Configuration de la vue index"
 
 #: cpskin.menu/cpskin/menu/browser/directaccessview.py:78
 msgid "Content added to direct access menu"
-msgstr ""
+msgstr "Contenu ajouté à la liste des accès directs"
 
 #: cpskin.menu/cpskin/menu/browser/directaccessview.py:86
 msgid "Content removed from direct access menu"
-msgstr ""
+msgstr "Contenu retiré de la liste des accès directs"
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Hidden Tag"
-msgstr ""
+msgstr "Mots clés cachés"
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Hidden Tags are used for webmaster organization of content"
-msgstr ""
+msgstr "Les mots clés cachés permettent au webmaster de faciliter l'organisation du contenu mais ne sont pas visibles pour l'internaute"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Hide banner"
-msgstr ""
+msgstr "Cacher le banner"
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "I Am Tag"
-msgstr ""
+msgstr "Mots clés cachés : Je suis"
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "I Am Tags are used for webmaster organization of content"
-msgstr ""
+msgstr "Les mots clés - Je suis - permettent d'afficher des éléments dans la navigation par facettes"
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "I Search Tag"
-msgstr ""
+msgstr "Mots clés cachés : Je trouve"
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "I Search Tags are used for webmaster organization of content"
-msgstr ""
+msgstr "Les mots clés - Je trouve - permettent d'afficher des éléments dans la navigation par facettes"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Indicate an error"
-msgstr "Signaler une erreur"
+msgstr "Signale une erreur"
 
 #: cpskin.workflow/cpskin/workflow/configure.zcml
 msgid "Installs CPSkin workflows"
@@ -110,31 +110,31 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/browser/controlpanel.py:30
 msgid "Lets you change the settings of CPSkin"
-msgstr ""
+msgstr "Vous permet de changer la configuration de CPSkin"
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Links in social viewlet"
-msgstr ""
+msgstr "Liens apparaissant dans le viewlet social"
 
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:100
 msgid "Mail sent."
-msgstr ""
+msgstr "Email envoyé"
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Remove direct access"
-msgstr ""
+msgstr "Retire les accès directs"
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Remove the 4th level navigation"
-msgstr ""
+msgstr "Retirer du 4ème niveau du menu horizontal"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Show banner"
-msgstr ""
+msgstr "Montrer le banner"
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Text"
-msgstr ""
+msgstr "Texte"
 
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:94
 msgid "Unable to send mail."
@@ -164,7 +164,7 @@ msgstr ""
 #. Default: "<h4>Comment encoder un élément sur le site ?</h4> <p>&nbsp;</p> <ul> <li>En premier lieu, vous devrez accéder à votre dossier personnel en utilisant le lien nommé \"mon dossier personnel\", situé généralement en haut à droite.</li> <li>Une fois dans votre dossier, vous pouvez ajouter un élément en cliquant sur le menu intitulé \"Ajout d'un élément\" et en sélectionnant un type d'élément. </li> <li>Dès que le formulaire d'encodage apparaît, vous pouvez compléter les zones voulues. <br /> Une zone marquée par un carré rouge doit obligatoirement être remplie.<br /> Une fois l'information entrée, vous pouvez sauvegarder celle-ci en cliquant sur le bouton \"Enregistrer\" situé en bas du formulaire. <br /> Vous pouvez retourner au formulaire d'édition en cliquant sur l'onglet \"Modifier\". </li> <li>Dès que vous estimez que votre élément est prêt à être publié, vous devez le proposer en cliquant sur le menu \"état: privé\" et en sélectionnant \"soumettre à la publication\". <br /> L'état de votre élément devient alors \"en attente de modération\".</li> <li>Dès que votre élément aura été approuvé pour publication, il sera dans l'état \"publié\" et événtuellement déplacé à un autre endroit du site.<br /> Pas d'inquiétude donc si vous ne voyez plus votre élément dans votre dossier personnel.</li> </ul> <p>&nbsp;</p>"
 #: cpskin.core/cpskin/core/browser/templates/helppage.pt:9
 msgid "cpskin-help-page"
-msgstr ""
+msgstr "Page d'aide de CPSkin"
 
 #: cpskin.workflow/cpskin/workflow/configure.zcml
 msgid "cpskin.workflows"
@@ -200,17 +200,17 @@ msgstr "Signaler une erreur ou une information manquante."
 #. Default: "Hidden Tags are used for webmaster organization of content."
 #: cpskin.core/cpskin/core/extender.py:119
 msgid "help_hidden_tags"
-msgstr ""
+msgstr "Aide pour les mots clés cachés"
 
 #. Default: "I Am Tags are used for webmaster organization of content."
 #: cpskin.core/cpskin/core/extender.py:87
 msgid "help_iam_tags"
-msgstr ""
+msgstr "Aide pour les mots clés Je suis"
 
 #. Default: "I Search Tags are used for webmaster organization of content."
 #: cpskin.core/cpskin/core/extender.py:103
 msgid "help_isearch_tags"
-msgstr ""
+msgstr "Aide pour les mots clés Je trouve"
 
 #. Default: "Your email address."
 #: cpskin.core/cpskin/core/browser/interfaces.py:16
@@ -240,7 +240,7 @@ msgstr ""
 #. Default: "Hidden Tags"
 #: cpskin.core/cpskin/core/extender.py:118
 msgid "label_hidden_tags"
-msgstr ""
+msgstr "Mots clés cachés"
 
 #. Default: "I Am Tags"
 #: cpskin.core/cpskin/core/extender.py:86
