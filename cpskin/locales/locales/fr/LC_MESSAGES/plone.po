@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-06-10 09:45+0000\n"
+"POT-Creation-Date: 2014-06-27 10:03+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: support@communesplone.org\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,11 +28,11 @@ msgstr ""
 msgid "- Used for CPSkin site - Has three states: Created, Published and hidden (from navigation) and Published and shown (in navigation)"
 msgstr ""
 
-#: cpskin.menu/cpskin/menu/browser/navigationview.py:81
+#: cpskin.menu/cpskin/menu/browser/navigationview.py:84
 msgid "4th level navigation disabled on content"
 msgstr ""
 
-#: cpskin.menu/cpskin/menu/browser/navigationview.py:75
+#: cpskin.menu/cpskin/menu/browser/navigationview.py:78
 msgid "4th level navigation enabled on content"
 msgstr ""
 
@@ -88,12 +88,20 @@ msgstr ""
 msgid "Created"
 msgstr "En création"
 
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:69
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:68
 msgid "Events"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
 msgid "Hidden Tags"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
+msgid "I Am Tags"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
+msgid "I Search Tags"
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/controlpanel.py:30
@@ -112,12 +120,16 @@ msgstr ""
 msgid "My Folder"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:40
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:39
 msgid "News"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/cpskin_readonly_workflow/definition.xml
 msgid "Owner readonly, Single State Workflow"
+msgstr ""
+
+#: cpskin.minisite/cpskin/minisite/minisites_panel.pt:32
+msgid "Path ${search_path}<br /> Domain ${domain}<br /> <span class=\"discreet\">in file ${filename}</span>"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
@@ -184,6 +196,14 @@ msgstr ""
 msgid "Search results for ${term}"
 msgstr ""
 
+#: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
+msgid "The I am tags configured by the webmaster"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
+msgid "The I search tags configured by the webmaster"
+msgstr ""
+
 #: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/cpskin_readonly_workflow/definition.xml
 msgid "The ID of the user who performed the previous transition"
 msgstr ""
@@ -202,6 +222,10 @@ msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/cpskin_readonly_workflow/definition.xml
 msgid "Visible to owner but not editable."
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/folderview.py:95
+msgid "Vue index avec collections configurée."
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/cpskin_readonly_workflow/definition.xml
@@ -246,12 +270,12 @@ msgid "filed under:"
 msgstr ""
 
 #. Default: "Flux RSS des dernières actualités"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:44
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:43
 msgid "flux_rss_dernieres_actualites"
 msgstr ""
 
 #. Default: "Flux RSS des derniers évènements"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:73
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:72
 msgid "flux_rss_derniers_evenements"
 msgstr ""
 
@@ -267,8 +291,18 @@ msgid "help_comment"
 msgstr ""
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/extender.py:57
+#: cpskin.core/cpskin/core/extender.py:119
 msgid "help_hidden_tags"
+msgstr ""
+
+#. Default: "I Am Tags are used for webmaster organization of content."
+#: cpskin.core/cpskin/core/extender.py:87
+msgid "help_iam_tags"
+msgstr ""
+
+#. Default: "I Search Tags are used for webmaster organization of content."
+#: cpskin.core/cpskin/core/extender.py:103
+msgid "help_isearch_tags"
 msgstr ""
 
 #. Default: "Your email address."
@@ -292,8 +326,18 @@ msgid "label_comment"
 msgstr ""
 
 #. Default: "Hidden Tags"
-#: cpskin.core/cpskin/core/extender.py:56
+#: cpskin.core/cpskin/core/extender.py:118
 msgid "label_hidden_tags"
+msgstr ""
+
+#. Default: "I Am Tags"
+#: cpskin.core/cpskin/core/extender.py:86
+msgid "label_iam_tags"
+msgstr ""
+
+#. Default: "I Search Tags"
+#: cpskin.core/cpskin/core/extender.py:102
+msgid "label_isearch_tags"
 msgstr ""
 
 #. Default: "Item type"
