@@ -26,7 +26,7 @@ msgstr "Afficher dans le 4ème niveau du menu horizontal"
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Add 4th level navigation"
-msgstr "Ajouter un 4ème nivau au menu horizontal"
+msgstr "Ajouter un 4ème niveau au menu horizontal"
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Add direct access"
@@ -86,7 +86,7 @@ msgstr "Mots clés cachés : Je suis"
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "I Am Tags are used for webmaster organization of content"
-msgstr "Les mots clés - Je suis - permettent d'afficher des éléments dans la navigation par facettes"
+msgstr "Les mots clés cachés - Je suis - permettent d'afficher des éléments dans la navigation par facettes"
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "I Search Tag"
@@ -94,7 +94,7 @@ msgstr "Mots clés cachés : Je trouve"
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "I Search Tags are used for webmaster organization of content"
-msgstr "Les mots clés - Je trouve - permettent d'afficher des éléments dans la navigation par facettes"
+msgstr "Les mots clés cachés - Je trouve - permettent d'afficher des éléments dans la navigation par facettes"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Indicate an error"
