@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-06-27 10:03+0000\n"
+"POT-Creation-Date: 2014-06-30 09:56+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: support@communesplone.org\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -68,6 +68,10 @@ msgstr "Contenu ajouté à la liste des accès directs"
 msgid "Content removed from direct access menu"
 msgstr "Contenu retiré de la liste des accès directs"
 
+#: cpskin.minisite/cpskin/minisite/minisite_in_minisite.pt:5
+msgid "Display in ${portal_url}"
+msgstr "Afficher ces pages dans ${portal_url}"
+
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Hidden Tag"
 msgstr "Mots clés cachés"
@@ -120,6 +124,18 @@ msgstr "Liens apparaissant dans le viewlet social"
 msgid "Mail sent."
 msgstr "Email envoyé"
 
+#: cpskin.minisite/cpskin/minisite/minisites_panel.pt:13
+msgid "Minisites"
+msgstr ""
+
+#: cpskin.minisite/cpskin/minisite/minisites_panel.pt:32
+msgid "Path ${search_path}<br /> Domain ${domain}<br /> <span class=\"discreet\">in file ${filename}</span>"
+msgstr ""
+
+#: cpskin.minisite/cpskin/minisite/minisites_panel.pt:20
+msgid "Read-only list of minisites."
+msgstr ""
+
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Remove direct access"
 msgstr "Retire les accès directs"
@@ -135,6 +151,10 @@ msgstr "Montrer le banner"
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Text"
 msgstr "Texte"
+
+#: cpskin.minisite/cpskin/minisite/minisites_panel.pt:17
+msgid "There are no mini sites configured."
+msgstr ""
 
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:94
 msgid "Unable to send mail."

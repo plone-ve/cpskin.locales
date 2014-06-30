@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-06-27 10:03+0000\n"
+"POT-Creation-Date: 2014-06-30 09:56+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -112,10 +112,6 @@ msgstr ""
 msgid "Mail sent."
 msgstr ""
 
-#: cpskin.minisite/cpskin/minisite/minisites_panel.pt:13
-msgid "Minisites"
-msgstr ""
-
 #: cpskin.core/cpskin/core/profiles/members-config/actions.xml
 msgid "My Folder"
 msgstr ""
@@ -126,10 +122,6 @@ msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/cpskin_readonly_workflow/definition.xml
 msgid "Owner readonly, Single State Workflow"
-msgstr ""
-
-#: cpskin.minisite/cpskin/minisite/minisites_panel.pt:32
-msgid "Path ${search_path}<br /> Domain ${domain}<br /> <span class=\"discreet\">in file ${filename}</span>"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
@@ -180,10 +172,6 @@ msgstr ""
 msgid "Published and shown"
 msgstr ""
 
-#: cpskin.minisite/cpskin/minisite/minisites_panel.pt:20
-msgid "Read-only list of minisites."
-msgstr ""
-
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 msgid "Reviewer queue"
 msgstr ""
@@ -210,10 +198,6 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
 msgid "The hidden tags configured by the webmaster"
-msgstr ""
-
-#: cpskin.minisite/cpskin/minisite/minisites_panel.pt:17
-msgid "There are no mini sites configured."
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:94
