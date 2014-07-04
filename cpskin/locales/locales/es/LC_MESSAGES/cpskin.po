@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-06-30 09:56+0000\n"
+"POT-Creation-Date: 2014-07-04 12:20+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
@@ -36,11 +36,11 @@ msgstr ""
 msgid "Banner"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/banner.py:76
+#: cpskin.core/cpskin/core/browser/banner.py:77
 msgid "Banner disabled for content and sub-contents"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/banner.py:68
+#: cpskin.core/cpskin/core/browser/banner.py:69
 msgid "Banner enabled on content and sub-contents"
 msgstr ""
 
@@ -82,6 +82,10 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Hide banner"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles/default/actions.xml
+msgid "Hide media"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
@@ -128,6 +132,14 @@ msgstr ""
 msgid "Minisites"
 msgstr ""
 
+#: cpskin.core/cpskin/core/browser/media.py:74
+msgid "Multimedia viewlet disabled for content"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/media.py:65
+msgid "Multimedia viewlet enabled on content"
+msgstr ""
+
 #: cpskin.minisite/cpskin/minisite/minisites_panel.pt:32
 msgid "Path ${search_path}<br /> Domain ${domain}<br /> <span class=\"discreet\">in file ${filename}</span>"
 msgstr ""
@@ -146,6 +158,14 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Show banner"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles/default/actions.xml
+msgid "Show media"
+msgstr ""
+
+#: cpskin.slider/cpskin/slider/browser/configure.zcml
+msgid "Slider view"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
@@ -170,6 +190,10 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/browser/folderview.py:95
 msgid "Vue index avec collections configurée."
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/configure.zcml
+msgid "Vue index avec collections et slider"
 msgstr ""
 
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:37

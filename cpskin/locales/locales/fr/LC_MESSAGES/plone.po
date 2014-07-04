@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-06-30 09:56+0000\n"
+"POT-Creation-Date: 2014-07-04 12:20+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: support@communesplone.org\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,11 +45,11 @@ msgstr "Remettre en création"
 msgid "Back to pending"
 msgstr "Remettre en attente de modération"
 
-#: cpskin.core/cpskin/core/browser/banner.py:76
+#: cpskin.core/cpskin/core/browser/banner.py:77
 msgid "Banner disabled for content and sub-contents"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/banner.py:68
+#: cpskin.core/cpskin/core/browser/banner.py:69
 msgid "Banner enabled on content and sub-contents"
 msgstr ""
 
@@ -88,7 +88,7 @@ msgstr ""
 msgid "Created"
 msgstr "En création"
 
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:68
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:69
 msgid "Events"
 msgstr ""
 
@@ -112,11 +112,19 @@ msgstr ""
 msgid "Mail sent."
 msgstr ""
 
+#: cpskin.core/cpskin/core/browser/media.py:74
+msgid "Multimedia viewlet disabled for content"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/media.py:65
+msgid "Multimedia viewlet enabled on content"
+msgstr ""
+
 #: cpskin.core/cpskin/core/profiles/members-config/actions.xml
 msgid "My Folder"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:39
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:38
 msgid "News"
 msgstr ""
 
@@ -182,6 +190,10 @@ msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:77
 msgid "Search results for ${term}"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:62
+msgid "Show all"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
@@ -254,12 +266,12 @@ msgid "filed under:"
 msgstr ""
 
 #. Default: "Flux RSS des dernières actualités"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:43
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:42
 msgid "flux_rss_dernieres_actualites"
 msgstr ""
 
 #. Default: "Flux RSS des derniers évènements"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:72
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:73
 msgid "flux_rss_derniers_evenements"
 msgstr ""
 
@@ -356,7 +368,7 @@ msgid "label_toggle"
 msgstr ""
 
 #. Default: "[Modifier la zone statique]"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:20
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:19
 msgid "modifier_zone_statique"
 msgstr ""
 

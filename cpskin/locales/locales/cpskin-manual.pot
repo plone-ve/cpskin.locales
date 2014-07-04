@@ -39,3 +39,11 @@ msgstr ""
 #: cpskin.workflow/cpskin/workflow/configure.zcml
 msgid "Uninstalls CPSkin workflows"
 msgstr ""
+
+#: cpskin.core/cpskin/core/browser/configure.zcml
+msgid "Vue index avec collections et slider"
+msgstr ""
+
+#: cpskin.slider/cpskin/slider/browser/configure.zcml
+msgid "Slider view"
+msgstr ""
