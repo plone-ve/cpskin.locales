@@ -6,7 +6,7 @@ msgstr ""
 "Last-Translator: support@communesplone.org\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8Vue index avec collections configurée\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Language-Code: fr\n"
@@ -189,7 +189,7 @@ msgid "Visuel"
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/folderview.py:95
-msgid "Vue index avec collections configurées"
+msgid "Vue index avec collections configurée."
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/configure.zcml
