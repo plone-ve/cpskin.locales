@@ -86,7 +86,7 @@ msgstr "Cacher le banner"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Hide media"
-msgstr ""
+msgstr "Cacher la zone médias"
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "I Am Tag"
@@ -162,7 +162,7 @@ msgstr "Montrer le banner"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Show media"
-msgstr ""
+msgstr "Montrer la zone multimedia"
 
 #: cpskin.slider/cpskin/slider/browser/configure.zcml
 msgid "Slider view"
@@ -174,7 +174,7 @@ msgstr "Texte"
 
 #: cpskin.minisite/cpskin/minisite/minisites_panel.pt:17
 msgid "There are no mini sites configured."
-msgstr ""
+msgstr "Aucun mini site n'est configuré"
 
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:94
 msgid "Unable to send mail."
@@ -189,7 +189,7 @@ msgid "Visuel"
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/folderview.py:95
-msgid "Vue index avec collections configurée."
+msgid "Vue index avec collections configurées"
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/configure.zcml
@@ -208,7 +208,7 @@ msgstr ""
 #. Default: "<h4>Comment encoder un élément sur le site ?</h4> <p>&nbsp;</p> <ul> <li>En premier lieu, vous devrez accéder à votre dossier personnel en utilisant le lien nommé \"mon dossier personnel\", situé généralement en haut à droite.</li> <li>Une fois dans votre dossier, vous pouvez ajouter un élément en cliquant sur le menu intitulé \"Ajout d'un élément\" et en sélectionnant un type d'élément. </li> <li>Dès que le formulaire d'encodage apparaît, vous pouvez compléter les zones voulues. <br /> Une zone marquée par un carré rouge doit obligatoirement être remplie.<br /> Une fois l'information entrée, vous pouvez sauvegarder celle-ci en cliquant sur le bouton \"Enregistrer\" situé en bas du formulaire. <br /> Vous pouvez retourner au formulaire d'édition en cliquant sur l'onglet \"Modifier\". </li> <li>Dès que vous estimez que votre élément est prêt à être publié, vous devez le proposer en cliquant sur le menu \"état: privé\" et en sélectionnant \"soumettre à la publication\". <br /> L'état de votre élément devient alors \"en attente de modération\".</li> <li>Dès que votre élément aura été approuvé pour publication, il sera dans l'état \"publié\" et événtuellement déplacé à un autre endroit du site.<br /> Pas d'inquiétude donc si vous ne voyez plus votre élément dans votre dossier personnel.</li> </ul> <p>&nbsp;</p>"
 #: cpskin.core/cpskin/core/browser/templates/helppage.pt:9
 msgid "cpskin-help-page"
-msgstr "Page d'aide de CPSkin"
+msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/configure.zcml
 msgid "cpskin.workflows"
@@ -244,17 +244,17 @@ msgstr "Signaler une erreur ou une information manquante."
 #. Default: "Hidden Tags are used for webmaster organization of content."
 #: cpskin.core/cpskin/core/extender.py:119
 msgid "help_hidden_tags"
-msgstr "Aide pour les mots clés cachés"
+msgstr "Les mots clés cachés sont utilisés par le webmaster pour organiser divers modes de consultation de l'information"
 
 #. Default: "I Am Tags are used for webmaster organization of content."
 #: cpskin.core/cpskin/core/extender.py:87
 msgid "help_iam_tags"
-msgstr "Aide pour les mots clés Je suis"
+msgstr "Les mots clés - Je suis - sont utilisés dans le câdre de la navigation par facettes"
 
 #. Default: "I Search Tags are used for webmaster organization of content."
 #: cpskin.core/cpskin/core/extender.py:103
 msgid "help_isearch_tags"
-msgstr "Aide pour les mots clés Je trouve"
+msgstr "Les mots clés - Je trouve - sont utilisés dans le câdre de la navigation par facettes"
 
 #. Default: "Your email address."
 #: cpskin.core/cpskin/core/browser/interfaces.py:16
@@ -289,12 +289,12 @@ msgstr "Mots clés cachés"
 #. Default: "I Am Tags"
 #: cpskin.core/cpskin/core/extender.py:86
 msgid "label_iam_tags"
-msgstr ""
+msgstr "Mots clés cachés : Je suis"
 
 #. Default: "I Search Tags"
 #: cpskin.core/cpskin/core/extender.py:102
 msgid "label_isearch_tags"
-msgstr ""
+msgstr "Mots clés cachés : Je cherche"
 
 #. Default: "Send"
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:38
@@ -319,12 +319,12 @@ msgstr ""
 #. Default: "Report an error to the site manager"
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:27
 msgid "report_error_to_site_manager"
-msgstr ""
+msgstr "Signaler une erreur au webmaster"
 
 #. Default: "An error has been reported by"
 #: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:10
 msgid "sendtomanager_mail_error_reported"
-msgstr ""
+msgstr "Une erreur vous est signalée"
 
 #. Default: "Ce site est optimisé pour le navigateur Firefox."
 #: cpskin.core/cpskin/core/portlets/firefox.pt:4
