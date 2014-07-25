@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-07-04 12:20+0000\n"
+"POT-Creation-Date: 2014-07-25 10:26+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
@@ -83,14 +83,18 @@ msgstr ""
 msgid "Content removed from direct access menu"
 msgstr ""
 
+#: cpskin.core/cpskin/core/browser/folderview.py:197
+msgid "Contenu ajouté à la vue index."
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/folderview.py:207
+msgid "Contenu retiré de la vue index."
+msgstr ""
+
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "Created"
 msgstr "Creado"
-
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:69
-msgid "Events"
-msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
 msgid "Hidden Tags"
@@ -112,20 +116,16 @@ msgstr ""
 msgid "Mail sent."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/media.py:74
+#: cpskin.core/cpskin/core/browser/media.py:75
 msgid "Multimedia viewlet disabled for content"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/media.py:65
+#: cpskin.core/cpskin/core/browser/media.py:66
 msgid "Multimedia viewlet enabled on content"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/members-config/actions.xml
 msgid "My Folder"
-msgstr ""
-
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:38
-msgid "News"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/cpskin_readonly_workflow/definition.xml
@@ -192,10 +192,6 @@ msgstr ""
 msgid "Search results for ${term}"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:62
-msgid "Show all"
-msgstr ""
-
 #: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
 msgid "The I am tags configured by the webmaster"
 msgstr ""
@@ -220,7 +216,7 @@ msgstr ""
 msgid "Visible to owner but not editable."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:95
+#: cpskin.core/cpskin/core/browser/folderview.py:143
 msgid "Vue index avec collections configurée."
 msgstr ""
 
@@ -247,6 +243,11 @@ msgstr ""
 msgid "box_published"
 msgstr ""
 
+#. Default: "A portlet which shows minisite link"
+#: cpskin.minisite/cpskin/minisite/profiles/default/portlets.xml
+msgid "description_minisite_portlet"
+msgstr ""
+
 #. Default: "No results were found."
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:273
 msgid "description_no_results_found"
@@ -265,16 +266,6 @@ msgstr ""
 msgid "filed under:"
 msgstr ""
 
-#. Default: "Flux RSS des dernières actualités"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:42
-msgid "flux_rss_dernieres_actualites"
-msgstr ""
-
-#. Default: "Flux RSS des derniers évènements"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:73
-msgid "flux_rss_derniers_evenements"
-msgstr ""
-
 #. Default: "Navigation"
 #: cpskin.menu/cpskin/menu/browser/menu.pt:8
 #: cpskin.menu/cpskin/menu/overrides/plone.app.layout.viewlets.sections.pt:4
@@ -287,23 +278,29 @@ msgid "help_comment"
 msgstr ""
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/extender.py:119
+#: cpskin.core/cpskin/core/behaviors/metadata.py:19
+#: cpskin.core/cpskin/core/extender.py:76
 msgid "help_hidden_tags"
 msgstr ""
 
 #. Default: "I Am Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/extender.py:87
+#: cpskin.core/cpskin/core/extender.py:46
 msgid "help_iam_tags"
 msgstr ""
 
 #. Default: "I Search Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/extender.py:103
+#: cpskin.core/cpskin/core/extender.py:61
 msgid "help_isearch_tags"
 msgstr ""
 
 #. Default: "Your email address."
 #: cpskin.core/cpskin/core/browser/interfaces.py:16
 msgid "help_send_from"
+msgstr ""
+
+#. Default: "Hidden tags"
+#: cpskin.core/cpskin/core/behaviors/metadata.py:18
+msgid "hidden_tags"
 msgstr ""
 
 #. Default: "Advanced Search…"
@@ -322,17 +319,17 @@ msgid "label_comment"
 msgstr ""
 
 #. Default: "Hidden Tags"
-#: cpskin.core/cpskin/core/extender.py:118
+#: cpskin.core/cpskin/core/extender.py:75
 msgid "label_hidden_tags"
 msgstr ""
 
 #. Default: "I Am Tags"
-#: cpskin.core/cpskin/core/extender.py:86
+#: cpskin.core/cpskin/core/extender.py:45
 msgid "label_iam_tags"
 msgstr ""
 
 #. Default: "I Search Tags"
-#: cpskin.core/cpskin/core/extender.py:102
+#: cpskin.core/cpskin/core/extender.py:60
 msgid "label_isearch_tags"
 msgstr ""
 
@@ -344,6 +341,11 @@ msgstr ""
 #. Default: "New items since"
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:182
 msgid "label_new_items_since"
+msgstr ""
+
+#. Default: "Categorization"
+#: cpskin.core/cpskin/core/behaviors/metadata.py:13
+msgid "label_schema_categorization"
 msgstr ""
 
 #. Default: "Search"
@@ -365,11 +367,6 @@ msgstr ""
 #. Default: "Select All/None"
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:149
 msgid "label_toggle"
-msgstr ""
-
-#. Default: "[Modifier la zone statique]"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:19
-msgid "modifier_zone_statique"
 msgstr ""
 
 #. Default: "More…"
@@ -430,6 +427,11 @@ msgstr ""
 #. Default: "Yesterday"
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:201
 msgid "time_yesterday"
+msgstr ""
+
+#. Default: "Mini Site"
+#: cpskin.minisite/cpskin/minisite/profiles/default/portlets.xml
+msgid "title_minisite_portlet"
 msgstr ""
 
 #. Default: "Search Site"
