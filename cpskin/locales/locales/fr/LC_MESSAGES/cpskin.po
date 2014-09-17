@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-07-25 10:28+0000\n"
+"POT-Creation-Date: 2014-09-17 13:58+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: support@communesplone.org\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,17 +32,33 @@ msgstr "Ajouter un 4ème niveau au menu horizontal"
 msgid "Add direct access"
 msgstr "Ajouter à la liste d'accès direct"
 
-#: cpskin.core/cpskin/core/viewlets/banner.pt:18
+#: cpskin.core/cpskin/core/viewlets/banner.pt:19
 msgid "Banner"
 msgstr "Banner"
 
-#: cpskin.core/cpskin/core/browser/banner.py:77
-msgid "Banner disabled for content and sub-contents"
-msgstr "Cacher le banner"
+#: cpskin.core/cpskin/core/browser/banner.py:107
+msgid "Banner disabled for content"
+msgstr "Cacher le banner local"
 
-#: cpskin.core/cpskin/core/browser/banner.py:69
+#: cpskin.core/cpskin/core/browser/banner.py:82
+msgid "Banner disabled for content and sub-contents"
+msgstr "Cacher le banner global"
+
+#: cpskin.core/cpskin/core/browser/banner.py:99
+msgid "Banner enabled on content"
+msgstr "Afficher le banner local"
+
+#: cpskin.core/cpskin/core/browser/banner.py:74
 msgid "Banner enabled on content and sub-contents"
-msgstr "Afficher le banner"
+msgstr "Afficher le banner global"
+
+#: cpskin.core/cpskin/core/browser/folderview.py:310
+msgid "Big images are not used anymore on this folder view."
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/folderview.py:300
+msgid "Big images are now used on this folder view."
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/controlpanel.xml
 msgid "CPSkin"
@@ -68,11 +84,11 @@ msgstr "Contenu ajouté à la liste des accès directs"
 msgid "Content removed from direct access menu"
 msgstr "Contenu retiré de la liste des accès directs"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:197
+#: cpskin.core/cpskin/core/browser/folderview.py:234
 msgid "Contenu ajouté à la vue index."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:207
+#: cpskin.core/cpskin/core/browser/folderview.py:244
 msgid "Contenu retiré de la vue index."
 msgstr ""
 
@@ -90,7 +106,11 @@ msgstr "Les mots clés cachés permettent au webmaster de faciliter l'organisati
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Hide banner"
-msgstr "Cacher le banner"
+msgstr "Cacher le banner global"
+
+#: cpskin.core/cpskin/core/profiles/default/actions.xml
+msgid "Hide local banner"
+msgstr "Cacher le banner local"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Hide media"
@@ -132,7 +152,7 @@ msgstr "Vous permet de changer la configuration de CPSkin"
 msgid "Links in social viewlet"
 msgstr "Liens apparaissant dans le viewlet social"
 
-#: cpskin.core/cpskin/core/viewlets/banner.pt:11
+#: cpskin.core/cpskin/core/viewlets/banner.pt:9
 msgid "Logo"
 msgstr ""
 
@@ -148,7 +168,7 @@ msgstr ""
 msgid "Minisites"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/media.py:75
+#: cpskin.core/cpskin/core/browser/media.py:84
 msgid "Multimedia viewlet disabled for content"
 msgstr ""
 
@@ -178,7 +198,11 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Show banner"
-msgstr "Montrer le banner"
+msgstr "Montrer le banner global"
+
+#: cpskin.core/cpskin/core/profiles/default/actions.xml
+msgid "Show local banner"
+msgstr "Montrer le banner local"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Show media"
@@ -186,6 +210,18 @@ msgstr "Montrer la zone multimedia"
 
 #: cpskin.slider/cpskin/slider/browser/configure.zcml
 msgid "Slider view"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles/default/registry.xml
+msgid "Standard Tag"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles/default/registry.xml
+msgid "Standard Tags are used for webmaster organization of content"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles/default/actions.xml
+msgid "Stop using big images"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
@@ -204,11 +240,15 @@ msgstr ""
 msgid "Uninstalls CPSkin workflows"
 msgstr ""
 
+#: cpskin.core/cpskin/core/profiles/default/actions.xml
+msgid "Use big images"
+msgstr ""
+
 #: cpskin.core/cpskin/core/portlets/photo.pt:4
 msgid "Visuel"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:143
+#: cpskin.core/cpskin/core/browser/folderview.py:145
 msgid "Vue index avec collections configurée."
 msgstr ""
 
@@ -251,39 +291,9 @@ msgstr ""
 msgid "error_reported"
 msgstr "Erreur signalée"
 
-#. Default: "à"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:84
-msgid "evenement_a"
-msgstr ""
-
-#. Default: "au"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:89
-msgid "evenement_au"
-msgstr ""
-
-#. Default: "de"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:82
-msgid "evenement_de"
-msgstr ""
-
-#. Default: "du"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:87
-msgid "evenement_du"
-msgstr ""
-
-#. Default: "le"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:79
-msgid "evenement_le"
-msgstr ""
-
 #. Default: "Sécurisé, fiable et rapide, ${Firefox} est gratuit et simple à installer."
 #: cpskin.core/cpskin/core/portlets/firefox.pt:6
 msgid "firefox_download_sentence"
-msgstr ""
-
-#. Default: "Flux RSS"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:48
-msgid "flux_rss"
 msgstr ""
 
 #. Default: "Report an error or missing information."
@@ -292,18 +302,19 @@ msgid "help_comment"
 msgstr "Signaler une erreur ou une information manquante."
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:19
-#: cpskin.core/cpskin/core/extender.py:76
+#: cpskin.core/cpskin/core/behaviors/metadata.py:24
+#: cpskin.core/cpskin/core/extender.py:95
 msgid "help_hidden_tags"
 msgstr "Les mots clés cachés sont utilisés par le webmaster pour organiser divers modes de consultation de l'information"
 
 #. Default: "I Am Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/extender.py:46
+#: cpskin.core/cpskin/core/extender.py:65
 msgid "help_iam_tags"
 msgstr "Les mots clés - Je suis - sont utilisés dans le câdre de la navigation par facettes"
 
 #. Default: "I Search Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/extender.py:61
+#: cpskin.core/cpskin/core/behaviors/metadata.py:45
+#: cpskin.core/cpskin/core/extender.py:80
 msgid "help_isearch_tags"
 msgstr "Les mots clés - Je trouve - sont utilisés dans le câdre de la navigation par facettes"
 
@@ -312,9 +323,9 @@ msgstr "Les mots clés - Je trouve - sont utilisés dans le câdre de la navigat
 msgid "help_send_from"
 msgstr "Votre adresse courriel."
 
-#. Default: "Hidden tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:18
-msgid "hidden_tags"
+#. Default: "Standard Tags are used for webmaster organization of content."
+#: cpskin.core/cpskin/core/extender.py:50
+msgid "help_standard_tags"
 msgstr ""
 
 #. Default: "Change request"
@@ -337,23 +348,30 @@ msgstr ""
 msgid "label_filed_under_isearch_tag"
 msgstr ""
 
+#. Default: "Filed under standard tag:"
+#: cpskin.core/cpskin/core/viewlets/standardtags.pt:7
+msgid "label_filed_under_standard_tag"
+msgstr ""
+
 #. Default: "Hidden Tags"
-#: cpskin.core/cpskin/core/extender.py:75
+#: cpskin.core/cpskin/core/behaviors/metadata.py:23
+#: cpskin.core/cpskin/core/extender.py:94
 msgid "label_hidden_tags"
 msgstr "Mots clés cachés"
 
 #. Default: "I Am Tags"
-#: cpskin.core/cpskin/core/extender.py:45
+#: cpskin.core/cpskin/core/extender.py:64
 msgid "label_iam_tags"
 msgstr "Mots clés cachés : Je suis"
 
 #. Default: "I Search Tags"
-#: cpskin.core/cpskin/core/extender.py:60
+#: cpskin.core/cpskin/core/behaviors/metadata.py:44
+#: cpskin.core/cpskin/core/extender.py:79
 msgid "label_isearch_tags"
 msgstr "Mots clés cachés : Je cherche"
 
 #. Default: "Categorization"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:13
+#: cpskin.core/cpskin/core/behaviors/metadata.py:17
 msgid "label_schema_categorization"
 msgstr ""
 
@@ -367,8 +385,13 @@ msgstr "Envoyer"
 msgid "label_send_from"
 msgstr "Expéditeur"
 
+#. Default: "Standard Tags"
+#: cpskin.core/cpskin/core/extender.py:49
+msgid "label_standard_tags"
+msgstr ""
+
 #. Default: "[Modifier la zone statique]"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:116
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:57
 msgid "modifier_zone_statique"
 msgstr ""
 
@@ -395,11 +418,6 @@ msgstr "Une erreur vous est signalée"
 #. Default: "Ce site est optimisé pour le navigateur Firefox."
 #: cpskin.core/cpskin/core/portlets/firefox.pt:4
 msgid "site_optimise_pour_firefox"
-msgstr ""
-
-#. Default: "Voir l'ensemble des"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:107
-msgid "voir_lensemble_des"
 msgstr ""
 
 #. Default: "With the following comment"
