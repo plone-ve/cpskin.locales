@@ -83,7 +83,7 @@ msgstr "Processus de publication CPSkin avec modération"
 
 #: cpskin.core/cpskin/core/profiles/default/sharing.xml
 msgid "Can manage portlets"
-msgstr "Peut gérer (portlets et mots-clés)"
+msgstr "Peut gérer les portlets"
 
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:36
 #: cpskin.slider/cpskin/slider/profiles/default/portlets.xml
