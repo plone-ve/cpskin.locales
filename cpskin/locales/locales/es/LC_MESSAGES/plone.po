@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-07-25 10:26+0000\n"
+"POT-Creation-Date: 2014-11-19 04:52+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
@@ -28,11 +28,11 @@ msgstr ""
 msgid "- Used for CPSkin site - Has three states: Created, Published and hidden (from navigation) and Published and shown (in navigation)"
 msgstr ""
 
-#: cpskin.menu/cpskin/menu/browser/navigationview.py:84
+#: cpskin.menu/cpskin/menu/browser/navigationview.py:86
 msgid "4th level navigation disabled on content"
 msgstr ""
 
-#: cpskin.menu/cpskin/menu/browser/navigationview.py:78
+#: cpskin.menu/cpskin/menu/browser/navigationview.py:79
 msgid "4th level navigation enabled on content"
 msgstr ""
 
@@ -45,15 +45,31 @@ msgstr "Volver a la creación"
 msgid "Back to pending"
 msgstr "Volver a la espera de moderación"
 
-#: cpskin.core/cpskin/core/browser/banner.py:77
+#: cpskin.core/cpskin/core/browser/banner.py:107
+msgid "Banner disabled for content"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/banner.py:82
 msgid "Banner disabled for content and sub-contents"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/banner.py:69
+#: cpskin.core/cpskin/core/browser/banner.py:99
+msgid "Banner enabled on content"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/banner.py:74
 msgid "Banner enabled on content and sub-contents"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:29
+#: cpskin.core/cpskin/core/browser/folderview.py:324
+msgid "Big images are not used anymore on this folder view."
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/folderview.py:314
+msgid "Big images are now used on this folder view."
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/controlpanel.py:38
 msgid "CPSkin settings"
 msgstr ""
 
@@ -65,6 +81,10 @@ msgstr "Procesos de publicación CPSkin son moderados"
 msgid "CPSkin workflow with moderation"
 msgstr "Procesos de publicación CPSkin están en moderación"
 
+#: cpskin.core/cpskin/core/profiles/default/sharing.xml
+msgid "Can manage portlets"
+msgstr ""
+
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:36
 #: cpskin.slider/cpskin/slider/profiles/default/portlets.xml
 #: cpskin.slider/cpskin/slider/profiles/uninstall/portlets.xml
@@ -75,19 +95,19 @@ msgstr ""
 msgid "Comment about the last transition"
 msgstr ""
 
-#: cpskin.menu/cpskin/menu/browser/directaccessview.py:78
+#: cpskin.menu/cpskin/menu/browser/directaccessview.py:79
 msgid "Content added to direct access menu"
 msgstr ""
 
-#: cpskin.menu/cpskin/menu/browser/directaccessview.py:86
+#: cpskin.menu/cpskin/menu/browser/directaccessview.py:88
 msgid "Content removed from direct access menu"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:197
+#: cpskin.core/cpskin/core/browser/folderview.py:248
 msgid "Contenu ajouté à la vue index."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:207
+#: cpskin.core/cpskin/core/browser/folderview.py:258
 msgid "Contenu retiré de la vue index."
 msgstr ""
 
@@ -108,15 +128,25 @@ msgstr ""
 msgid "I Search Tags"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:30
+#: cpskin.core/cpskin/core/interfaces.py:56
+#: cpskin.core/cpskin/core/setuphandlers.py:333
+msgid "Is level 1 menu load page at click?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/controlpanel.py:39
 msgid "Lets you change the settings of CPSkin"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:55
+#: cpskin.core/cpskin/core/setuphandlers.py:332
+msgid "Load page menu"
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:100
 msgid "Mail sent."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/media.py:75
+#: cpskin.core/cpskin/core/browser/media.py:84
 msgid "Multimedia viewlet disabled for content"
 msgstr ""
 
@@ -193,6 +223,10 @@ msgid "Search results for ${term}"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
+msgid "Standard Tags"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
 msgid "The I am tags configured by the webmaster"
 msgstr ""
 
@@ -208,6 +242,10 @@ msgstr ""
 msgid "The hidden tags configured by the webmaster"
 msgstr ""
 
+#: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
+msgid "The standard tags configured by the webmaster"
+msgstr ""
+
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:94
 msgid "Unable to send mail."
 msgstr ""
@@ -216,7 +254,7 @@ msgstr ""
 msgid "Visible to owner but not editable."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:143
+#: cpskin.core/cpskin/core/browser/folderview.py:145
 msgid "Vue index avec collections configurée."
 msgstr ""
 
@@ -266,8 +304,13 @@ msgstr ""
 msgid "filed under:"
 msgstr ""
 
+#. Default: "Document Actions"
+#: cpskin.theme/cpskin/theme/static/overrides/collective.iconifieddocumentactions.browser.iconified_document_actions.pt:5
+msgid "heading_document_actions"
+msgstr ""
+
 #. Default: "Navigation"
-#: cpskin.menu/cpskin/menu/browser/menu.pt:8
+#: cpskin.menu/cpskin/menu/browser/menu.pt:14
 #: cpskin.menu/cpskin/menu/overrides/plone.app.layout.viewlets.sections.pt:4
 msgid "heading_sections"
 msgstr ""
@@ -278,18 +321,19 @@ msgid "help_comment"
 msgstr ""
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:19
-#: cpskin.core/cpskin/core/extender.py:76
+#: cpskin.core/cpskin/core/behaviors/metadata.py:22
+#: cpskin.core/cpskin/core/extender.py:95
 msgid "help_hidden_tags"
 msgstr ""
 
 #. Default: "I Am Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/extender.py:46
+#: cpskin.core/cpskin/core/extender.py:65
 msgid "help_iam_tags"
 msgstr ""
 
 #. Default: "I Search Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/extender.py:61
+#: cpskin.core/cpskin/core/behaviors/metadata.py:43
+#: cpskin.core/cpskin/core/extender.py:80
 msgid "help_isearch_tags"
 msgstr ""
 
@@ -298,9 +342,9 @@ msgstr ""
 msgid "help_send_from"
 msgstr ""
 
-#. Default: "Hidden tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:18
-msgid "hidden_tags"
+#. Default: "Standard Tags are used for webmaster organization of content."
+#: cpskin.core/cpskin/core/extender.py:50
+msgid "help_standard_tags"
 msgstr ""
 
 #. Default: "Advanced Search…"
@@ -319,17 +363,19 @@ msgid "label_comment"
 msgstr ""
 
 #. Default: "Hidden Tags"
-#: cpskin.core/cpskin/core/extender.py:75
+#: cpskin.core/cpskin/core/behaviors/metadata.py:21
+#: cpskin.core/cpskin/core/extender.py:94
 msgid "label_hidden_tags"
 msgstr ""
 
 #. Default: "I Am Tags"
-#: cpskin.core/cpskin/core/extender.py:45
+#: cpskin.core/cpskin/core/extender.py:64
 msgid "label_iam_tags"
 msgstr ""
 
 #. Default: "I Search Tags"
-#: cpskin.core/cpskin/core/extender.py:60
+#: cpskin.core/cpskin/core/behaviors/metadata.py:42
+#: cpskin.core/cpskin/core/extender.py:79
 msgid "label_isearch_tags"
 msgstr ""
 
@@ -344,7 +390,7 @@ msgid "label_new_items_since"
 msgstr ""
 
 #. Default: "Categorization"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:13
+#: cpskin.core/cpskin/core/behaviors/metadata.py:15
 msgid "label_schema_categorization"
 msgstr ""
 
@@ -362,6 +408,11 @@ msgstr ""
 #. Default: "From"
 #: cpskin.core/cpskin/core/browser/interfaces.py:14
 msgid "label_send_from"
+msgstr ""
+
+#. Default: "Standard Tags"
+#: cpskin.core/cpskin/core/extender.py:49
+msgid "label_standard_tags"
 msgstr ""
 
 #. Default: "Select All/None"
