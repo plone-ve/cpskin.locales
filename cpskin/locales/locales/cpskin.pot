@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-09-17 13:58+0000\n"
+"POT-Creation-Date: 2014-11-19 04:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,11 +16,11 @@ msgstr ""
 "Language: \n"
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
 
-#: cpskin.menu/cpskin/menu/browser/navigationview.py:84
+#: cpskin.menu/cpskin/menu/browser/navigationview.py:86
 msgid "4th level navigation disabled on content"
 msgstr ""
 
-#: cpskin.menu/cpskin/menu/browser/navigationview.py:78
+#: cpskin.menu/cpskin/menu/browser/navigationview.py:79
 msgid "4th level navigation enabled on content"
 msgstr ""
 
@@ -52,11 +52,11 @@ msgstr ""
 msgid "Banner enabled on content and sub-contents"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:310
+#: cpskin.core/cpskin/core/browser/folderview.py:324
 msgid "Big images are not used anymore on this folder view."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:300
+#: cpskin.core/cpskin/core/browser/folderview.py:314
 msgid "Big images are now used on this folder view."
 msgstr ""
 
@@ -64,7 +64,7 @@ msgstr ""
 msgid "CPSkin"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:29
+#: cpskin.core/cpskin/core/browser/controlpanel.py:38
 msgid "CPSkin settings"
 msgstr ""
 
@@ -76,19 +76,19 @@ msgstr ""
 msgid "Configure Folder View here"
 msgstr ""
 
-#: cpskin.menu/cpskin/menu/browser/directaccessview.py:78
+#: cpskin.menu/cpskin/menu/browser/directaccessview.py:79
 msgid "Content added to direct access menu"
 msgstr ""
 
-#: cpskin.menu/cpskin/menu/browser/directaccessview.py:86
+#: cpskin.menu/cpskin/menu/browser/directaccessview.py:88
 msgid "Content removed from direct access menu"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:234
+#: cpskin.core/cpskin/core/browser/folderview.py:248
 msgid "Contenu ajouté à la vue index."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:244
+#: cpskin.core/cpskin/core/browser/folderview.py:258
 msgid "Contenu retiré de la vue index."
 msgstr ""
 
@@ -144,12 +144,22 @@ msgstr ""
 msgid "Installs members configuration workflow"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:30
+#: cpskin.core/cpskin/core/interfaces.py:56
+#: cpskin.core/cpskin/core/setuphandlers.py:333
+msgid "Is level 1 menu load page at click?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/controlpanel.py:39
 msgid "Lets you change the settings of CPSkin"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Links in social viewlet"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:55
+#: cpskin.core/cpskin/core/setuphandlers.py:332
+msgid "Load page menu"
 msgstr ""
 
 #: cpskin.core/cpskin/core/viewlets/banner.pt:9
@@ -302,7 +312,7 @@ msgid "help_comment"
 msgstr ""
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:24
+#: cpskin.core/cpskin/core/behaviors/metadata.py:22
 #: cpskin.core/cpskin/core/extender.py:95
 msgid "help_hidden_tags"
 msgstr ""
@@ -313,7 +323,7 @@ msgid "help_iam_tags"
 msgstr ""
 
 #. Default: "I Search Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:45
+#: cpskin.core/cpskin/core/behaviors/metadata.py:43
 #: cpskin.core/cpskin/core/extender.py:80
 msgid "help_isearch_tags"
 msgstr ""
@@ -354,7 +364,7 @@ msgid "label_filed_under_standard_tag"
 msgstr ""
 
 #. Default: "Hidden Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:23
+#: cpskin.core/cpskin/core/behaviors/metadata.py:21
 #: cpskin.core/cpskin/core/extender.py:94
 msgid "label_hidden_tags"
 msgstr ""
@@ -365,13 +375,13 @@ msgid "label_iam_tags"
 msgstr ""
 
 #. Default: "I Search Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:44
+#: cpskin.core/cpskin/core/behaviors/metadata.py:42
 #: cpskin.core/cpskin/core/extender.py:79
 msgid "label_isearch_tags"
 msgstr ""
 
 #. Default: "Categorization"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:17
+#: cpskin.core/cpskin/core/behaviors/metadata.py:15
 msgid "label_schema_categorization"
 msgstr ""
 

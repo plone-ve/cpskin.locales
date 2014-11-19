@@ -4,7 +4,8 @@ Changelog
 0.3 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Add missing translations
+  [laulaz]
 
 
 0.2 (2014-08-21)
