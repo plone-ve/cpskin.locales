@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-11-19 04:52+0000\n"
+"POT-Creation-Date: 2014-12-03 14:03+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: support@communesplone.org\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -61,11 +61,11 @@ msgstr ""
 msgid "Banner enabled on content and sub-contents"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:324
+#: cpskin.core/cpskin/core/browser/folderview.py:257
 msgid "Big images are not used anymore on this folder view."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:314
+#: cpskin.core/cpskin/core/browser/folderview.py:247
 msgid "Big images are now used on this folder view."
 msgstr ""
 
@@ -82,8 +82,8 @@ msgid "CPSkin workflow with moderation"
 msgstr "Processus de publication CPSkin avec modération"
 
 #: cpskin.core/cpskin/core/profiles/default/sharing.xml
-msgid "Can manage portlets"
-msgstr "Peut gérer les portlets"
+msgid "Can manage portlets and keywords"
+msgstr "Peut gérer (portlets et mots-clés)"
 
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:36
 #: cpskin.slider/cpskin/slider/profiles/default/portlets.xml
@@ -103,11 +103,11 @@ msgstr ""
 msgid "Content removed from direct access menu"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:248
+#: cpskin.core/cpskin/core/browser/folderview.py:181
 msgid "Contenu ajouté à la vue index."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:258
+#: cpskin.core/cpskin/core/browser/folderview.py:191
 msgid "Contenu retiré de la vue index."
 msgstr ""
 
@@ -129,7 +129,7 @@ msgid "I Search Tags"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:56
-#: cpskin.core/cpskin/core/setuphandlers.py:333
+#: cpskin.core/cpskin/core/setuphandlers.py:336
 msgid "Is level 1 menu load page at click?"
 msgstr ""
 
@@ -138,7 +138,7 @@ msgid "Lets you change the settings of CPSkin"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:55
-#: cpskin.core/cpskin/core/setuphandlers.py:332
+#: cpskin.core/cpskin/core/setuphandlers.py:335
 msgid "Load page menu"
 msgstr ""
 
@@ -254,7 +254,7 @@ msgstr ""
 msgid "Visible to owner but not editable."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:145
+#: cpskin.core/cpskin/core/browser/folderview.py:78
 msgid "Vue index avec collections configurée."
 msgstr ""
 
