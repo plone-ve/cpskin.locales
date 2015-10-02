@@ -165,12 +165,12 @@ msgstr ""
 #: cpskin.core/cpskin/core/interfaces.py:56
 #: cpskin.core/cpskin/core/setuphandlers.py:344
 msgid "Is level 1 menu load page at click?"
-msgstr ""
+msgstr "Charger la page au click du niveau 1 du menu"
 
 #: cpskin.core/cpskin/core/interfaces.py:63
 #: cpskin.core/cpskin/core/setuphandlers.py:359
 msgid "Is level 2 menu persist?"
-msgstr ""
+msgstr "Activer la persistance du menu de niveau 2"
 
 #: cpskin.core/cpskin/core/interfaces.py:70
 #: cpskin.core/cpskin/core/setuphandlers.py:374
