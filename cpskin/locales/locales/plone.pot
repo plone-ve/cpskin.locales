@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2014-12-03 14:03+0000\n"
+"POT-Creation-Date: 2015-10-02 09:19+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,6 +34,11 @@ msgstr ""
 
 #: cpskin.menu/cpskin/menu/browser/navigationview.py:79
 msgid "4th level navigation enabled on content"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:69
+#: cpskin.core/cpskin/core/setuphandlers.py:373
+msgid "Auto play slider"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
@@ -69,7 +74,7 @@ msgstr ""
 msgid "Big images are now used on this folder view."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:38
+#: cpskin.core/cpskin/core/browser/controlpanel.py:69
 msgid "CPSkin settings"
 msgstr ""
 
@@ -83,6 +88,15 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/sharing.xml
 msgid "Can manage portlets and keywords"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:83
+#: cpskin.core/cpskin/core/setuphandlers.py:408
+msgid "City name"
+msgstr ""
+
+#: cpskin.core/cpskin/core/setuphandlers.py:409
+msgid "City name variable used in some template."
 msgstr ""
 
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:36
@@ -129,21 +143,39 @@ msgid "I Search Tags"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:56
-#: cpskin.core/cpskin/core/setuphandlers.py:336
+#: cpskin.core/cpskin/core/setuphandlers.py:344
 msgid "Is level 1 menu load page at click?"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:39
+#: cpskin.core/cpskin/core/interfaces.py:63
+#: cpskin.core/cpskin/core/setuphandlers.py:359
+msgid "Is level 2 menu persist?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:70
+#: cpskin.core/cpskin/core/setuphandlers.py:374
+msgid "Is the front page slider automatically play?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/controlpanel.py:70
 msgid "Lets you change the settings of CPSkin"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:55
-#: cpskin.core/cpskin/core/setuphandlers.py:335
+#: cpskin.core/cpskin/core/setuphandlers.py:343
 msgid "Load page menu"
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:100
 msgid "Mail sent."
+msgstr ""
+
+#: cpskin.minisite/cpskin/minisite/browser/hnavigation.py:76
+msgid "Minisite horizontal Navigation disabled on content"
+msgstr ""
+
+#: cpskin.minisite/cpskin/minisite/browser/hnavigation.py:65
+msgid "Minisite horizontal Navigation enabled on content"
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/media.py:84
@@ -156,6 +188,18 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/members-config/actions.xml
 msgid "My Folder"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:84
+msgid "Name of city is used in some templates."
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:77
+msgid "Number of milliseconds between each transition."
+msgstr ""
+
+#: cpskin.core/cpskin/core/setuphandlers.py:389
+msgid "Number of seconds between each transition."
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/cpskin_readonly_workflow/definition.xml
@@ -222,8 +266,18 @@ msgstr ""
 msgid "Search results for ${term}"
 msgstr ""
 
+#: cpskin.core/cpskin/core/interfaces.py:76
+#: cpskin.core/cpskin/core/setuphandlers.py:388
+msgid "Slider timer"
+msgstr ""
+
 #: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
 msgid "Standard Tags"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:62
+#: cpskin.core/cpskin/core/setuphandlers.py:358
+msgid "Sub menu persistence"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
@@ -310,8 +364,9 @@ msgid "heading_document_actions"
 msgstr ""
 
 #. Default: "Navigation"
-#: cpskin.menu/cpskin/menu/browser/menu.pt:14
+#: cpskin.menu/cpskin/menu/browser/menu.pt:8
 #: cpskin.menu/cpskin/menu/overrides/plone.app.layout.viewlets.sections.pt:4
+#: cpskin.minisite/cpskin/minisite/minisite_menu.pt:4
 msgid "heading_sections"
 msgstr ""
 
