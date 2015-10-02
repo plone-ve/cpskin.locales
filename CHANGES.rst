@@ -4,6 +4,9 @@ Changelog
 0.3 (unreleased)
 ----------------
 
+- Add missing menu persistance translation
+  [bsuttor]
+
 - Add missing translations
   [laulaz]
 
