@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.3 (unreleased)
+0.3 (2015-10-02)
 ----------------
 
 - Add missing menu persistance translation
