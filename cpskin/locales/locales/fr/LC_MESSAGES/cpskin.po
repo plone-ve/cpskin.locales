@@ -35,7 +35,7 @@ msgstr "Ajouter à la liste d'accès direct"
 #: cpskin.core/cpskin/core/interfaces.py:69
 #: cpskin.core/cpskin/core/setuphandlers.py:373
 msgid "Auto play slider"
-msgstr ""
+msgstr "Démarrer automatiquement le slider"
 
 #: cpskin.core/cpskin/core/viewlets/banner.pt:19
 msgid "Banner"
@@ -59,15 +59,15 @@ msgstr "Afficher le banner global"
 
 #: cpskin.core/cpskin/core/browser/folderview.py:257
 msgid "Big images are not used anymore on this folder view."
-msgstr ""
+msgstr "Les grandes images ne sont plus utlisées pour ce dossier"
 
 #: cpskin.core/cpskin/core/browser/folderview.py:247
 msgid "Big images are now used on this folder view."
-msgstr ""
+msgstr "Les grandes images sont maintenant utlisées pour ce dossier"
 
 #: cpskin.core/cpskin/core/profiles/default/controlpanel.xml
 msgid "CPSkin"
-msgstr ""
+msgstr "CPSkin"
 
 #: cpskin.core/cpskin/core/browser/controlpanel.py:69
 msgid "CPSkin settings"
@@ -76,11 +76,11 @@ msgstr "Configuration de CPSkin"
 #: cpskin.core/cpskin/core/interfaces.py:83
 #: cpskin.core/cpskin/core/setuphandlers.py:408
 msgid "City name"
-msgstr ""
+msgstr "Nom de la ville"
 
 #: cpskin.core/cpskin/core/setuphandlers.py:409
 msgid "City name variable used in some template."
-msgstr ""
+msgstr "Le nom de la ville peut être utilisé dans le site"
 
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:36
 msgid "Collection portlet with slider view"
@@ -100,11 +100,11 @@ msgstr "Contenu retiré de la liste des accès directs"
 
 #: cpskin.core/cpskin/core/browser/folderview.py:181
 msgid "Contenu ajouté à la vue index."
-msgstr ""
+msgstr "Contenu ajouté à la vue index."
 
 #: cpskin.core/cpskin/core/browser/folderview.py:191
 msgid "Contenu retiré de la vue index."
-msgstr ""
+msgstr "Contenu retiré de la vue index."
 
 #: cpskin.minisite/cpskin/minisite/minisite_in_minisite.pt:5
 msgid "Display in ${portal_url}"
@@ -132,7 +132,7 @@ msgstr "Cacher la zone médias"
 
 #: cpskin.minisite/cpskin/minisite/profiles/default/actions.xml
 msgid "Hide minisite horizontal navigation menu"
-msgstr ""
+msgstr "Cacher le menu horizontal du minisite"
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "I Am Tag"
@@ -156,7 +156,7 @@ msgstr "Signale une erreur"
 
 #: cpskin.workflow/cpskin/workflow/configure.zcml
 msgid "Installs CPSkin workflows"
-msgstr ""
+msgstr "Installer le workflow de CPSkin"
 
 #: cpskin.workflow/cpskin/workflow/configure.zcml
 msgid "Installs members configuration workflow"
@@ -175,7 +175,7 @@ msgstr "Activer la persistance du menu de niveau 2"
 #: cpskin.core/cpskin/core/interfaces.py:70
 #: cpskin.core/cpskin/core/setuphandlers.py:374
 msgid "Is the front page slider automatically play?"
-msgstr ""
+msgstr "Le slider de la page d'accueil est automatiquement démarrer ?"
 
 #: cpskin.core/cpskin/core/browser/controlpanel.py:70
 msgid "Lets you change the settings of CPSkin"
@@ -188,7 +188,7 @@ msgstr "Liens apparaissant dans le viewlet social"
 #: cpskin.core/cpskin/core/interfaces.py:55
 #: cpskin.core/cpskin/core/setuphandlers.py:343
 msgid "Load page menu"
-msgstr ""
+msgstr "Charger le menu de la page"
 
 #: cpskin.core/cpskin/core/viewlets/banner.pt:9
 msgid "Logo"
@@ -204,11 +204,11 @@ msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/browser/hnavigation.py:76
 msgid "Minisite horizontal Navigation disabled on content"
-msgstr ""
+msgstr "Désactiver le menu horizontal de navigation du minisite"
 
 #: cpskin.minisite/cpskin/minisite/browser/hnavigation.py:65
 msgid "Minisite horizontal Navigation enabled on content"
-msgstr ""
+msgstr "Activer le menu horizontal de navigation du minisite"
 
 #: cpskin.minisite/cpskin/minisite/minisites_panel.pt:13
 msgid "Minisites"
@@ -216,23 +216,23 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/browser/media.py:84
 msgid "Multimedia viewlet disabled for content"
-msgstr ""
+msgstr "Désactiver la viewlet multimedia"
 
 #: cpskin.core/cpskin/core/browser/media.py:66
 msgid "Multimedia viewlet enabled on content"
-msgstr ""
+msgstr "Activer la viewlet multimedia"
 
 #: cpskin.core/cpskin/core/interfaces.py:84
 msgid "Name of city is used in some templates."
-msgstr ""
+msgstr "Le nom de la ville peut être utile dans le site."
 
 #: cpskin.core/cpskin/core/interfaces.py:77
 msgid "Number of milliseconds between each transition."
-msgstr ""
+msgstr "Nombre de millisecondes entre chaque transition"
 
 #: cpskin.core/cpskin/core/setuphandlers.py:389
 msgid "Number of seconds between each transition."
-msgstr ""
+msgstr "Nombre de millisecondes entre chaque transition."
 
 #: cpskin.minisite/cpskin/minisite/minisites_panel.pt:32
 msgid "Path ${search_path}<br /> Domain ${domain}<br /> <span class=\"discreet\">in file ${filename}</span>"
@@ -240,7 +240,7 @@ msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/minisites_panel.pt:19
 msgid "Read-only list of minisites."
-msgstr ""
+msgstr "Liste des minisites en lecture seule"
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Remove direct access"
@@ -252,7 +252,7 @@ msgstr "Retirer du 4ème niveau du menu horizontal"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Remove this content from folder view"
-msgstr ""
+msgstr "Retirer ce contenu de la vue"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Show banner"
@@ -268,16 +268,16 @@ msgstr "Montrer la zone multimedia"
 
 #: cpskin.minisite/cpskin/minisite/profiles/default/actions.xml
 msgid "Show minisite horizontal navigation menu"
-msgstr ""
+msgstr "Montrer le menu de navigation horizontal des minisites"
 
 #: cpskin.core/cpskin/core/interfaces.py:76
 #: cpskin.core/cpskin/core/setuphandlers.py:388
 msgid "Slider timer"
-msgstr ""
+msgstr "Minuteur du slider"
 
 #: cpskin.slider/cpskin/slider/browser/configure.zcml
 msgid "Slider view"
-msgstr ""
+msgstr "Vue du slider"
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Standard Tag"
@@ -285,16 +285,16 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Standard Tags are used for webmaster organization of content"
-msgstr ""
+msgstr "Les 'standard tags' sont utilisé par le webmaster pour organiser le contenu"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Stop using big images"
-msgstr ""
+msgstr "Ne plus utiliser les grandes images"
 
 #: cpskin.core/cpskin/core/interfaces.py:62
 #: cpskin.core/cpskin/core/setuphandlers.py:358
 msgid "Sub menu persistence"
-msgstr ""
+msgstr "Persistence du sous-menu"
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Text"
@@ -314,7 +314,7 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Use big images"
-msgstr ""
+msgstr "Utiliser les grandes images"
 
 #: cpskin.core/cpskin/core/portlets/photo.pt:4
 msgid "Visuel"
@@ -330,7 +330,7 @@ msgstr ""
 
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:37
 msgid "add a collection portlet with slider view"
-msgstr ""
+msgstr "Ajouter une portlet collection avec une vue slider"
 
 #. Default: "<p>Déclaration en matière de cookies - <strong>Ville de ${DYNAMIC_CONTENT}</strong><br /> &nbsp;</p> <h2>Déclaration en matière de cookies</h2> <p>La déclaration en matière de cookies précise l'utilisation des fichiers \"cookies\" sur le site web de la <strong>Ville de ${DYNAMIC_CONTENT}</strong> l'utilité des différents types de cookies, et la méthode pour les désactiver.</p> <h2>Parties impliquées</h2> <p>Dans cette déclaration en matière de cookies (Cookie Statement), on entend par:<br /> <strong>Ville de ${DYNAMIC_CONTENT}</strong> &nbsp; :</p> <p><br /> \"Utilisateur\":</p> <p>toute personne physique ou morale en relation, quelle que soit sa nature, avec la <strong>Ville de ${DYNAMIC_CONTENT}</strong> par le biais de son site en ligne Loi du 10 juillet 2012 portant des dispositions diverses en matière de communications électroniques (appelée loi Télécom)</p> <h2><br /> Définition</h2> <p>Un cookie est un petit fichier de données ou de texte qui est placé sur l'ordinateur des internautes par des sites web. Il en existe de différentes sortes comme, par exemple, les cookies techniques qui sont utilisés pour paramétrer la langue du site web, les cookies de sessions (également appelés cookies temporaires) et les cookies de pistage installés afin d’optimiser le site web en fonction de votre comportement.</p> <h2>Utilité</h2> <p>La <strong>Ville de ${DYNAMIC_CONTENT}</strong> veut informer au mieux l'utilisateur de la législation belge relative à la communication électronique (transposition de la loi Télécoms) quant aux cookies utilisés. Ces cookies aident la <strong>Ville de ${DYNAMIC_CONTENT}</strong> à optimiser la visite sur son site web, à mémoriser des choix techniques (par exemple un choix de langue, une lettre d'information, etc.). Les cookies utilisés sont considérés comme sûrs et aident la <strong>Ville de ${DYNAMIC_CONTENT}</strong> entre autre, à identifier d’éventuelles erreurs.<br /> Si un utilisateur veut consulter le site web de la <strong>Ville de ${DYNAMIC_CONTENT}</strong>, il lui est recommandé d'accepter les cookies. Cependant, chaque utilisateur est libre de ne pas les accepter (voir également le titre Gestion des cookies).</p> <br /> <h2>Cookies utilisés</h2> <p>La <strong>Ville de ${DYNAMIC_CONTENT}</strong>&nbsp; utilise les types de cookies suivants:</p> <h3>Cookies strictement nécessaires</h3> <p>Ce sont les cookies qui permettent aux visiteurs d'utiliser certaines fonctionnalités sur le site web. Si l'utilisation de ces cookies est désactivée, certaines parties du site web peuvent ne pas fonctionner correctement.</p> <h3>Cookies de performance</h3> <p>Ce sont des cookies qui ont pour but de collecter des informations se rapportant à la manière dont les visiteurs utilisent le site web, telle que les informations concernant les pages consultées ou le nombre de messages d'erreur apparus, afin d'analyser et d'optimiser l'utilisation du site.</p> <br /> <h3>Cookies fonctionnels</h3> <p>Ce sont des cookies qui permettent à la<strong> Ville de ${DYNAMIC_CONTENT}</strong> de se rappeler des choix et des préférences (tels que le choix de la langue) des visiteurs afin d'augmenter la facilité d'utilisation du site web et de pouvoir présenter des informations plus pertinentes<br /> aux visiteurs.</p> <h2>Consultation du site</h2> <p>Pour la consultation du site web dela <strong>Ville de ${DYNAMIC_CONTENT}</strong>, il est recommandé à l'utilisateur d'activer les cookies sur son ordinateur, sa tablette ou son smartphone. Si les cookies ne sont pas activés, la <strong>Ville de ${DYNAMIC_CONTENT}</strong> ne peut pas garantir une utilisation<br /> qualitative et performante de son site web. Néanmoins, si l'utilisateur préfère limiter les cookies de la <strong>Ville de ${DYNAMIC_CONTENT}</strong>, les bloquer ou les supprimer, il peut gérer les paramètres de son navigateur comme décrit ci-dessous.</p> <h2>Gestion des cookies</h2> <p>Pour désactiver les cookies dans son navigateur, l'utilisateur devra effectuer des manipulations qui varient selon le navigateur.</p> <h3>Internet Explorer</h3> <p>Dans Internet Explorer, cliquer sur les \"options Internet\"' dans le menu \"Outils\"<br /> Dans l'onglet \"Confidentialité\", déplacer le curseur vers \"basse\" ou \"accepter tous les cookies\" (les paramètres supérieurs à<br /> 'moyenne' désactivent les cookies)<br /> Cliquer sur \"OK\"</p> <h3>Mozilla Firefox</h3> <p>Cliquer sur \"Firefox\" dans le coin en haut à gauche de votre navigateur et cliquer ensuite sur \"Options\"<br /> Dans l'onglet \"Vie privée\", ne pas cocher \"Indiquer aux sites que je ne souhaite pas être pisté\"<br /> Cliquer sur \"OK\"</p> <h3>Google Chrome</h3> <p>Cliquer sur \"Paramètres\" en haut de la fenêtre de votre navigateur<br /> Dans la section \"Confidentialité\", cocher la case \"Envoyer une requête Interdire le suivi\" avec le trafic de navigation<br /> Dans l’onglet \"Paramètres de contenu &gt; Cookies\", cocher \"Bloquer les cookies et les données de site tiers\"</p> <h3>Safari</h3> <p>Cliquer sur le pictogramme \"Cog\" en haut de la fenêtre de votre navigateur et sélectionner l'option \"Préférences\"<br /> Cliquer sur \"Confidentialité\" puis cocher l'option : \"Bloquer les cookies de tiers et les cookies publicitaires\"<br /> Cliquer sur \"Enregistrer\"<br /> En cas de questions ou remarques concernant les cookies après la lecture de cette déclaration concernant les cookies, la <strong>Ville de ${DYNAMIC_CONTENT} </strong> peut être contactée à l'adresse <a href=\"${DYNAMIC_CONTENT}\">${DYNAMIC_CONTENT}</a><br /> A noter: l'utilisateur peut, à tout moment, revenir sur ses intentions et changer ses paramètres en matière de cookies.<br /></p> <p>&nbsp;</p>"
 #: cpskin.policy/cpskin/policy/browser/templates/cookies.pt:91
@@ -361,7 +361,7 @@ msgstr ""
 
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:48
 msgid "edit a collection portlet with slider view"
-msgstr ""
+msgstr "Modifier une portlet collection avec une vue slider"
 
 #. Default: "Error reported"
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:57
@@ -371,7 +371,7 @@ msgstr "Erreur signalée"
 #. Default: "Sécurisé, fiable et rapide, ${Firefox} est gratuit et simple à installer."
 #: cpskin.core/cpskin/core/portlets/firefox.pt:6
 msgid "firefox_download_sentence"
-msgstr ""
+msgstr "Télécharger firefox"
 
 #. Default: "Report an error or missing information."
 #: cpskin.core/cpskin/core/browser/interfaces.py:24
@@ -495,10 +495,9 @@ msgstr "Une erreur vous est signalée"
 #. Default: "Ce site est optimisé pour le navigateur Firefox."
 #: cpskin.core/cpskin/core/portlets/firefox.pt:4
 msgid "site_optimise_pour_firefox"
-msgstr ""
+msgstr "Site optimisé pour Firefox"
 
 #. Default: "With the following comment"
 #: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:18
 msgid "with_the_following_comment"
 msgstr "Avec le commentaire suivant"
-
