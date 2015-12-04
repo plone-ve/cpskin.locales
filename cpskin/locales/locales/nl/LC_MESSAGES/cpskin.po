@@ -1,77 +1,75 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: 0.1\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2015-12-04 14:36+0000\n"
-"PO-Revision-Date: 2014-05-06 11:41+0000\n"
-"Last-Translator: support@imio.be\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"Language-Code: fr\n"
-"Language-Name: French\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
 "Preferred-Encodings: utf-8 latin1\n"
-"Domain: cpskin\n"
-"Language: \n"
-"X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
+"Domain: DOMAIN\n"
 
 #: cpskin.menu/cpskin/menu/browser/navigationview.py:86
 msgid "4th level navigation disabled on content"
-msgstr "Retirer du 4ème niveau du menu horizontal"
+msgstr ""
 
 #: cpskin.menu/cpskin/menu/browser/navigationview.py:79
 msgid "4th level navigation enabled on content"
-msgstr "Afficher dans le 4ème niveau du menu horizontal"
+msgstr ""
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Add 4th level navigation"
-msgstr "Ajouter un 4ème niveau au menu horizontal"
+msgstr ""
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Add direct access"
-msgstr "Ajouter à la liste d'accès direct"
+msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:68
 #: cpskin.core/cpskin/core/setuphandlers.py:388
 msgid "Auto play slider"
-msgstr "Démarrer automatiquement le slider"
+msgstr ""
 
 #: cpskin.core/cpskin/core/viewlets/banner.pt:19
 msgid "Banner"
-msgstr "Banner"
+msgstr ""
 
 #: cpskin.core/cpskin/core/browser/banner.py:107
 msgid "Banner disabled for content"
-msgstr "Cacher le banner local"
+msgstr ""
 
 #: cpskin.core/cpskin/core/browser/banner.py:82
 msgid "Banner disabled for content and sub-contents"
-msgstr "Cacher le banner global"
+msgstr ""
 
 #: cpskin.core/cpskin/core/browser/banner.py:99
 msgid "Banner enabled on content"
-msgstr "Afficher le banner local"
+msgstr ""
 
 #: cpskin.core/cpskin/core/browser/banner.py:74
 msgid "Banner enabled on content and sub-contents"
-msgstr "Afficher le banner global"
+msgstr ""
 
 #: cpskin.core/cpskin/core/browser/folderview.py:263
 msgid "Big images are not used anymore on this folder view."
-msgstr "Les grandes images ne sont plus utlisées pour ce dossier"
+msgstr ""
 
 #: cpskin.core/cpskin/core/browser/folderview.py:253
 msgid "Big images are now used on this folder view."
-msgstr "Les grandes images sont maintenant utlisées pour ce dossier"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/controlpanel.xml
 msgid "CPSkin"
-msgstr "CPSkin"
+msgstr ""
 
 #: cpskin.core/cpskin/core/browser/controlpanel.py:77
 msgid "CPSkin settings"
-msgstr "Configuration de CPSkin"
+msgstr ""
 
 #: cpskin.core/cpskin/core/setuphandlers.py:441
 msgid "Choose an horizontal or vertical slider."
@@ -80,87 +78,87 @@ msgstr ""
 #: cpskin.core/cpskin/core/interfaces.py:82
 #: cpskin.core/cpskin/core/setuphandlers.py:423
 msgid "City name"
-msgstr "Nom de la ville"
+msgstr ""
 
 #: cpskin.core/cpskin/core/setuphandlers.py:424
 msgid "City name variable used in some template."
-msgstr "Le nom de la ville peut être utilisé dans le site"
+msgstr ""
 
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:36
 msgid "Collection portlet with slider view"
-msgstr "Portlet collection avec vue slider"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Configure Folder View here"
-msgstr "Configuration de la vue index"
+msgstr ""
 
 #: cpskin.menu/cpskin/menu/browser/directaccessview.py:79
 msgid "Content added to direct access menu"
-msgstr "Contenu ajouté à la liste des accès directs"
+msgstr ""
 
 #: cpskin.menu/cpskin/menu/browser/directaccessview.py:88
 msgid "Content removed from direct access menu"
-msgstr "Contenu retiré de la liste des accès directs"
+msgstr ""
 
 #: cpskin.core/cpskin/core/browser/folderview.py:187
 msgid "Contenu ajouté à la vue index."
-msgstr "Contenu ajouté à la vue index."
+msgstr ""
 
 #: cpskin.core/cpskin/core/browser/folderview.py:197
 msgid "Contenu retiré de la vue index."
-msgstr "Contenu retiré de la vue index."
+msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/minisite_in_minisite.pt:5
 msgid "Display in ${portal_url}"
-msgstr "Afficher ces pages dans ${portal_url}"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Hidden Tag"
-msgstr "Mots clés cachés"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Hidden Tags are used for webmaster organization of content"
-msgstr "Les mots clés cachés permettent au webmaster de faciliter l'organisation du contenu mais ne sont pas visibles pour l'internaute"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Hide banner"
-msgstr "Cacher le banner global"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Hide local banner"
-msgstr "Cacher le banner local"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Hide media"
-msgstr "Cacher la zone médias"
+msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/profiles/default/actions.xml
 msgid "Hide minisite horizontal navigation menu"
-msgstr "Cacher le menu horizontal du minisite"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "I Am Tag"
-msgstr "Mots clés cachés : Je suis"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "I Am Tags are used for webmaster organization of content"
-msgstr "Les mots clés cachés - Je suis - permettent d'afficher des éléments dans la navigation par facettes"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "I Search Tag"
-msgstr "Mots clés cachés : Je trouve"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "I Search Tags are used for webmaster organization of content"
-msgstr "Les mots clés cachés - Je trouve - permettent d'afficher des éléments dans la navigation par facettes"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Indicate an error"
-msgstr "Signale une erreur"
+msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/configure.zcml
 msgid "Installs CPSkin workflows"
-msgstr "Installer le workflow de CPSkin"
+msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/configure.zcml
 msgid "Installs members configuration workflow"
@@ -169,30 +167,30 @@ msgstr ""
 #: cpskin.core/cpskin/core/interfaces.py:55
 #: cpskin.core/cpskin/core/setuphandlers.py:359
 msgid "Is level 1 menu load page at click?"
-msgstr "Charger la page au click du niveau 1 du menu"
+msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:62
 #: cpskin.core/cpskin/core/setuphandlers.py:374
 msgid "Is level 2 menu persist?"
-msgstr "Activer la persistance du menu de niveau 2"
+msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:69
 #: cpskin.core/cpskin/core/setuphandlers.py:389
 msgid "Is the front page slider automatically play?"
-msgstr "Le slider de la page d'accueil est automatiquement démarrer ?"
+msgstr ""
 
 #: cpskin.core/cpskin/core/browser/controlpanel.py:78
 msgid "Lets you change the settings of CPSkin"
-msgstr "Vous permet de changer la configuration de CPSkin"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Links in social viewlet"
-msgstr "Liens apparaissant dans le viewlet social"
+msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:54
 #: cpskin.core/cpskin/core/setuphandlers.py:358
 msgid "Load page menu"
-msgstr "Charger le menu de la page"
+msgstr ""
 
 #: cpskin.core/cpskin/core/viewlets/banner.pt:9
 msgid "Logo"
@@ -200,19 +198,19 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:100
 msgid "Mail sent."
-msgstr "Email envoyé"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Make this content appear in folder view"
-msgstr "Afficher ce contenu dans la 'folder view'"
+msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/browser/hnavigation.py:84
 msgid "Minisite horizontal Navigation disabled on content"
-msgstr "Désactiver le menu horizontal de navigation du minisite"
+msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/browser/hnavigation.py:73
 msgid "Minisite horizontal Navigation enabled on content"
-msgstr "Activer le menu horizontal de navigation du minisite"
+msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/minisites_panel.pt:13
 msgid "Minisites"
@@ -220,23 +218,23 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/browser/media.py:84
 msgid "Multimedia viewlet disabled for content"
-msgstr "Désactiver la viewlet multimedia"
+msgstr ""
 
 #: cpskin.core/cpskin/core/browser/media.py:66
 msgid "Multimedia viewlet enabled on content"
-msgstr "Activer la viewlet multimedia"
+msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:83
 msgid "Name of city is used in some templates."
-msgstr "Le nom de la ville peut être utile dans le site."
+msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:76
 msgid "Number of milliseconds between each transition."
-msgstr "Nombre de millisecondes entre chaque transition"
+msgstr ""
 
 #: cpskin.core/cpskin/core/setuphandlers.py:404
 msgid "Number of seconds between each transition."
-msgstr "Nombre de millisecondes entre chaque transition."
+msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/minisites_panel.pt:32
 msgid "Path ${search_path}<br /> Domain ${domain}<br /> <span class=\"discreet\">in file ${filename}</span>"
@@ -244,40 +242,40 @@ msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/minisites_panel.pt:19
 msgid "Read-only list of minisites."
-msgstr "Liste des minisites en lecture seule"
+msgstr ""
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Remove direct access"
-msgstr "Retire les accès directs"
+msgstr ""
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Remove the 4th level navigation"
-msgstr "Retirer du 4ème niveau du menu horizontal"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Remove this content from folder view"
-msgstr "Retirer ce contenu de la vue"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Show banner"
-msgstr "Montrer le banner global"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Show local banner"
-msgstr "Montrer le banner local"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Show media"
-msgstr "Montrer la zone multimedia"
+msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/profiles/default/actions.xml
 msgid "Show minisite horizontal navigation menu"
-msgstr "Montrer le menu de navigation horizontal des minisites"
+msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:75
 #: cpskin.core/cpskin/core/setuphandlers.py:403
 msgid "Slider timer"
-msgstr "Minuteur du slider"
+msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:89
 #: cpskin.core/cpskin/core/setuphandlers.py:440
@@ -290,7 +288,7 @@ msgstr ""
 
 #: cpskin.slider/cpskin/slider/browser/configure.zcml
 msgid "Slider view"
-msgstr "Vue du slider"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Standard Tag"
@@ -298,28 +296,28 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Standard Tags are used for webmaster organization of content"
-msgstr "Les 'standard tags' sont utilisé par le webmaster pour organiser le contenu"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Stop using big images"
-msgstr "Ne plus utiliser les grandes images"
+msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:61
 #: cpskin.core/cpskin/core/setuphandlers.py:373
 msgid "Sub menu persistence"
-msgstr "Persistence du sous-menu"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Text"
-msgstr "Texte"
+msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/minisites_panel.pt:17
 msgid "There are no mini sites configured."
-msgstr "Aucun mini site n'est configuré"
+msgstr ""
 
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:94
 msgid "Unable to send mail."
-msgstr "Impossible d'envoyer un courriel"
+msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/configure.zcml
 msgid "Uninstalls CPSkin workflows"
@@ -327,7 +325,7 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Use big images"
-msgstr "Utiliser les grandes images"
+msgstr ""
 
 #: cpskin.core/cpskin/core/portlets/photo.pt:4
 msgid "Visuel"
@@ -335,15 +333,15 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/browser/folderview.py:80
 msgid "Vue index avec collections configurée."
-msgstr "Vue index avec collections configurées."
+msgstr ""
 
 #: cpskin.core/cpskin/core/browser/configure.zcml
 msgid "Vue index avec collections et slider"
-msgstr "Vue index avec collections et slider"
+msgstr ""
 
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:37
 msgid "add a collection portlet with slider view"
-msgstr "Ajouter une portlet collection avec une vue slider"
+msgstr ""
 
 #. Default: "<h2 style=\"text-decoration: underline;\">Vous venez d'installer le canevas de site internet proposé par CommunesPlone.</h2> <p><br /> Pour bien prendre en main cet outil, nous vous recommandons de lire la documentation suivante :</p> <ul> <li>une <a href=\"http://www.communesplone.org/support/documentation/tutoriels/cpskin3-le-site-communal-en-plone-3/\">documentation CPSkin3</a>, vous présentant le canevas de site internet CPSkin3.</li> <li>une <a href=\"http://www.communesplone.org/support/documentation/topic/section_internet\">documentation spécifique au site internet</a>, vous présentant les différents modules utilisés dans les sites internet ainsi que des tutoriaux vous aidant à concevoir votre site.</li> <li>une <a href=\"http://www.communesplone.org/support/documentation/topic/section_basic_use\">documentation général sur Plone</a>, vous présentant l'outil et son interface.</li> </ul> <p><br /> En tant qu'administrateur du site, vous pourrez effectuer (entre autres) les <span style=\"font-weight: bold;\">adaptations suivantes</span> :<br /> </p> <p>1) <span style=\"text-decoration: underline;\">Ajouter une page d'accueil dynamique</span></p> <p>Vous trouverez dans cette <a href=\"http://www.communesplone.org/support/documentation/tutoriels/integration-dune-page-daccueil\">documentation</a> les informations nécessaires pour intégrée une des pages d'accueils dynamique fournies avec le produit CPSkin3.</p> <p><br /> 2) <span style=\"text-decoration: underline;\">Modifier le logo</span> <br /> <br /> Il est nécessaire pour cela de se rendre dans la <a href=\"http://www.communesplone.org/support/documentation/glossary/zmi\">ZMI</a> et plus particulièrement dans /portal_skins/custom. Vous y trouverez un élément nommé logo.jpg. En cliquant sur cet élément, vous pourrez remplacer l'image proposée par une image de votre choix mais qui doit être de même dimension. <br /> Nous vous conseillons d'utiliser comme navigateur Firefox qui vous permettra d'ouvrir plusieurs onglets différents (par exemple un dans la ZMI et un dans Plone) et qui vous permettra également d'installer des modules complémentaires très utiles dans l'élaboration d'un site (Firebug, web developer, colorzilla, rainbowpicker, ...).<br /> <br /> 3) <span style=\"text-decoration: underline;\">Modifier la bannière supérieure</span><br /> <br /> La bannière peut être différente de dossier en dossier. C'est le cas après l'installation : la bannière est différente lorsque l'on se trouve dans un thème ou ses sous-dossiers. <br /> Afin de remplacer la bannière proposée par défaut (à la racine du site), il est nécessaire d'ouvrir l'élément appelé \"banner.jpg\". Vous trouverez cet élément en vous positionnant à la racine du site (dans Plone) et en cliquant sur l'onglet \"Contenu\". Cette vue très pratique affiche tous les éléments présents dans un dossier. Après avoir cliqué sur l'élément banner.jpg,&nbsp; vous pourrez le modifier via l'onglet \"Modifier\" et remplacer la bannière par une image de même dimension. <br /> Pour modifier les bannières utilisées dans les dossiers \"thème\", il suffit d'éditer l'élément \"banner.jpg\" se trouvant dans chaque dossier \"thème. <br /> Pour ajouter une nouvelle bannière qui sera affichée sur un dossier et ses sous-dossiers, il suffira de créer dans ce dossier une image dont l'id doit être \"banner.jpg\". <br /> <br /> 4) <span style=\"text-decoration: underline;\">Ajouter un thème</span><br /> <br /> En se positionnant à la racine du site et il suffit de rajouter un dossier et de le publier dans la navigation. Il est conseillé de ne pas créer plus de 5 thèmes.<br /> <br /> 5) <span style=\"text-decoration: underline;\">Créer du contenu dans les dossiers \"thème\"</span><br /> <br /> Afin que les éléments présents dans les dossiers \"Thème\" soient affichés correctement dans les menus, il est nécessaire de les créer suivant les recommandations indiquées dans la documentation. <br /> <br /> 6) <span style=\"text-decoration: underline;\">Donner à un utilisateur les droits de modification sur un dossier et son contenu</span> <br /> <br /> Par défaut, seul l'administrateur peut modifier ou créer des éléments à n'importe quel endroit du site. Un utilisateur \"normal\" ne le pourra pas. <br /> Pour donner à un utilisateur ou un groupe d'utilisateurs les droits de gestion sur un dossier particulier et son contenu (par exemple pour qu'un service puisse gérer le contenu du dossier le concernant), l'administrateur doit spécifier certains droits sur ce dossier. Cela peut être fait via l'onglet \"Partage\", comme expliqué dans <a href=\"http://www.communesplone.org/support/documentation/how-to/comment-gerer-les-roles-locaux\">cette documentation</a>.<br /> &nbsp;</p>"
 #: cpskin.core/cpskin/core/browser/templates/frontpage.pt:9
@@ -369,12 +367,12 @@ msgstr ""
 
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:48
 msgid "edit a collection portlet with slider view"
-msgstr "Modifier une portlet collection avec une vue slider"
+msgstr ""
 
 #. Default: "Error reported"
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:57
 msgid "error_reported"
-msgstr "Erreur signalée"
+msgstr ""
 
 #. Default: "à"
 #: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:88
@@ -404,7 +402,7 @@ msgstr ""
 #. Default: "Sécurisé, fiable et rapide, ${Firefox} est gratuit et simple à installer."
 #: cpskin.core/cpskin/core/portlets/firefox.pt:6
 msgid "firefox_download_sentence"
-msgstr "Télécharger firefox"
+msgstr ""
 
 #. Default: "Flux RSS"
 #: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:20
@@ -414,30 +412,30 @@ msgstr ""
 #. Default: "Report an error or missing information."
 #: cpskin.core/cpskin/core/browser/interfaces.py:24
 msgid "help_comment"
-msgstr "Signaler une erreur ou une information manquante."
+msgstr ""
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
 #: cpskin.core/cpskin/core/behaviors/metadata.py:22
 #: cpskin.core/cpskin/core/extender.py:95
 msgid "help_hidden_tags"
-msgstr "Les mots clés cachés sont utilisés par le webmaster pour organiser divers modes de consultation de l'information"
+msgstr ""
 
 #. Default: "I Am Tags are used for webmaster organization of content."
 #: cpskin.core/cpskin/core/behaviors/metadata.py:63
 #: cpskin.core/cpskin/core/extender.py:65
 msgid "help_iam_tags"
-msgstr "Les mots clés - Je suis - sont utilisés dans le câdre de la navigation par facettes"
+msgstr ""
 
 #. Default: "I Search Tags are used for webmaster organization of content."
 #: cpskin.core/cpskin/core/behaviors/metadata.py:43
 #: cpskin.core/cpskin/core/extender.py:80
 msgid "help_isearch_tags"
-msgstr "Les mots clés - Je trouve - sont utilisés dans le câdre de la navigation par facettes"
+msgstr ""
 
 #. Default: "Your email address."
 #: cpskin.core/cpskin/core/browser/interfaces.py:16
 msgid "help_send_from"
-msgstr "Votre adresse courriel."
+msgstr ""
 
 #. Default: "Standard Tags are used for webmaster organization of content."
 #: cpskin.core/cpskin/core/extender.py:50
@@ -447,7 +445,7 @@ msgstr ""
 #. Default: "Change request"
 #: cpskin.core/cpskin/core/browser/interfaces.py:22
 msgid "label_comment"
-msgstr "Demande de modification"
+msgstr ""
 
 #. Default: "Filed under hidden tag:"
 #: cpskin.core/cpskin/core/viewlets/hiddentags.pt:7
@@ -473,19 +471,19 @@ msgstr ""
 #: cpskin.core/cpskin/core/behaviors/metadata.py:21
 #: cpskin.core/cpskin/core/extender.py:94
 msgid "label_hidden_tags"
-msgstr "Mots clés cachés"
+msgstr ""
 
 #. Default: "I Am Tags"
 #: cpskin.core/cpskin/core/behaviors/metadata.py:62
 #: cpskin.core/cpskin/core/extender.py:64
 msgid "label_iam_tags"
-msgstr "Mots clés cachés : Je suis"
+msgstr ""
 
 #. Default: "I Search Tags"
 #: cpskin.core/cpskin/core/behaviors/metadata.py:42
 #: cpskin.core/cpskin/core/extender.py:79
 msgid "label_isearch_tags"
-msgstr "Mots clés cachés : Je cherche"
+msgstr ""
 
 #. Default: "Categorization"
 #: cpskin.core/cpskin/core/behaviors/metadata.py:15
@@ -495,12 +493,12 @@ msgstr ""
 #. Default: "Send"
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:38
 msgid "label_send"
-msgstr "Envoyer"
+msgstr ""
 
 #. Default: "From"
 #: cpskin.core/cpskin/core/browser/interfaces.py:14
 msgid "label_send_from"
-msgstr "Expéditeur"
+msgstr ""
 
 #. Default: "Standard Tags"
 #: cpskin.core/cpskin/core/extender.py:49
@@ -510,12 +508,12 @@ msgstr ""
 #. Default: "[Modifier la zone statique]"
 #: cpskin.core/cpskin/core/browser/templates/folderview.pt:69
 msgid "modifier_zone_statique"
-msgstr "[Modifier la zone statique]"
+msgstr ""
 
 #. Default: "On the page"
 #: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:14
 msgid "on_the_page"
-msgstr "Sur la page"
+msgstr ""
 
 #. Default: "<h1>Politique en matière de cookies</h1> <h2>Qu’est-ce qu’un cookie ?</h2> <p>Les cookies sont de petits fichiers textes que le serveur d'un site web enregistre sur votre ordinateur ou votre appareil mobile (smartphone, tablette...) lorsque vous visitez le site à l'aide de votre navigateur. Un cookie contient des informations qui permettent au site visité d'identifier votre navigateur et de retenir vos activités antérieures (p.ex. choix de la langue…). Le serveur du site web ne peut lire que les cookies qu’il a enregistrés lui-même. Il n’a pas accès aux autres fichiers qui se trouvent sur votre ordinateur ou appareil mobile.</p> <h2>Quels sont les cookies utilisés ce site web</h2> <p>Nous utilisons des cookies pour simplifier l’utilisation du site et accélérer les opérations lors de vos prochaines visites.</p> <p>Nous nous servons aussi des cookies pour produire des statistiques anonymes sur l’utilisation de notre site web, dans le but d’en améliorer la structure et le contenu. Ces données statistiques ne permettent cependant pas de vous identifier personnellement.</p> <p>Vous trouverez ci-dessous une description complète des cookies que nous utilisons.</p> <h2>Cookies techniques</h2> <p>Ces cookies sont essentiels au bon fonctionnement de notre site web.</p> <p>Ils vous permettent par exemple de naviguer entre les différentes parties du site et d’en exploiter certaines fonctionnalités.</p> <p>Les cookies techniques ne permettent pas de vous identifier personnellement. Si vous refusez ces cookies, il est possible que certaines parties du site web ne fonctionnent pas ou fonctionnent de façon incomplète.</p> <h2>Cookies fonctionnels</h2> <p>Ces cookies mémorisent vos choix (p.ex. choix de la langue) afin de personnaliser votre visite sur le site. Les cookies fonctionnels ne permettent pas de vous identifier personnellement. Si vous refusez ces cookies, il est possible que certaines parties du site web ne fonctionnent pas ou fonctionnent de façon incomplète.</p> <br /> <p>Les cookies techniques et fonctionnels sont des cookies propres ou ‘first party’ : ils proviennent du serveur de notre site web.</p> <h2>Comment gérer ou supprimer les cookies ?</h2> <p>La plupart des navigateurs Internet sont paramétrés pour accepter automatiquement les cookies. Vous pouvez modifier vos préférences pour bloquer les cookies ou pour être averti quand un cookie est enregistré sur votre ordinateur ou appareil mobile. Pour plus de détails sur le paramétrage de votre navigateur, consultez ses instructions d'utilisation ou ses écrans d'aide.</p>"
 #: cpskin.policy/cpskin/policy/browser/templates/cookies.pt:16
@@ -525,22 +523,22 @@ msgstr ""
 #. Default: "Merci de fournir le maximum d'information ainsi que tout renseignement qui permette de la valider (source)."
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:30
 msgid "provide_maximum_informations"
-msgstr "Merci de fournir le maximum d'information ainsi que tout renseignement qui permette de la valider (source)."
+msgstr ""
 
 #. Default: "Report an error to the site manager"
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:27
 msgid "report_error_to_site_manager"
-msgstr "Signaler une erreur au webmaster"
+msgstr ""
 
 #. Default: "An error has been reported by"
 #: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:10
 msgid "sendtomanager_mail_error_reported"
-msgstr "Une erreur vous est signalée"
+msgstr ""
 
 #. Default: "Ce site est optimisé pour le navigateur Firefox."
 #: cpskin.core/cpskin/core/portlets/firefox.pt:4
 msgid "site_optimise_pour_firefox"
-msgstr "Site optimisé pour Firefox"
+msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:92
 msgid "slider_view"
@@ -558,5 +556,5 @@ msgstr ""
 #. Default: "With the following comment"
 #: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:18
 msgid "with_the_following_comment"
-msgstr "Avec le commentaire suivant"
+msgstr ""
 

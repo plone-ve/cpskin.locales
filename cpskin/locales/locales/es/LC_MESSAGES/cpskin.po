@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2015-10-02 09:19+0000\n"
+"POT-Creation-Date: 2015-12-04 14:36+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
@@ -32,8 +32,8 @@ msgstr ""
 msgid "Add direct access"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:69
-#: cpskin.core/cpskin/core/setuphandlers.py:373
+#: cpskin.core/cpskin/core/interfaces.py:68
+#: cpskin.core/cpskin/core/setuphandlers.py:388
 msgid "Auto play slider"
 msgstr ""
 
@@ -57,11 +57,11 @@ msgstr ""
 msgid "Banner enabled on content and sub-contents"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:257
+#: cpskin.core/cpskin/core/browser/folderview.py:263
 msgid "Big images are not used anymore on this folder view."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:247
+#: cpskin.core/cpskin/core/browser/folderview.py:253
 msgid "Big images are now used on this folder view."
 msgstr ""
 
@@ -69,16 +69,20 @@ msgstr ""
 msgid "CPSkin"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:69
+#: cpskin.core/cpskin/core/browser/controlpanel.py:77
 msgid "CPSkin settings"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:83
-#: cpskin.core/cpskin/core/setuphandlers.py:408
+#: cpskin.core/cpskin/core/setuphandlers.py:441
+msgid "Choose an horizontal or vertical slider."
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:82
+#: cpskin.core/cpskin/core/setuphandlers.py:423
 msgid "City name"
 msgstr ""
 
-#: cpskin.core/cpskin/core/setuphandlers.py:409
+#: cpskin.core/cpskin/core/setuphandlers.py:424
 msgid "City name variable used in some template."
 msgstr ""
 
@@ -98,11 +102,11 @@ msgstr ""
 msgid "Content removed from direct access menu"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:181
+#: cpskin.core/cpskin/core/browser/folderview.py:187
 msgid "Contenu ajouté à la vue index."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:191
+#: cpskin.core/cpskin/core/browser/folderview.py:197
 msgid "Contenu retiré de la vue index."
 msgstr ""
 
@@ -162,22 +166,22 @@ msgstr ""
 msgid "Installs members configuration workflow"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:56
-#: cpskin.core/cpskin/core/setuphandlers.py:344
+#: cpskin.core/cpskin/core/interfaces.py:55
+#: cpskin.core/cpskin/core/setuphandlers.py:359
 msgid "Is level 1 menu load page at click?"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:63
-#: cpskin.core/cpskin/core/setuphandlers.py:359
+#: cpskin.core/cpskin/core/interfaces.py:62
+#: cpskin.core/cpskin/core/setuphandlers.py:374
 msgid "Is level 2 menu persist?"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:70
-#: cpskin.core/cpskin/core/setuphandlers.py:374
+#: cpskin.core/cpskin/core/interfaces.py:69
+#: cpskin.core/cpskin/core/setuphandlers.py:389
 msgid "Is the front page slider automatically play?"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:70
+#: cpskin.core/cpskin/core/browser/controlpanel.py:78
 msgid "Lets you change the settings of CPSkin"
 msgstr ""
 
@@ -185,8 +189,8 @@ msgstr ""
 msgid "Links in social viewlet"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:55
-#: cpskin.core/cpskin/core/setuphandlers.py:343
+#: cpskin.core/cpskin/core/interfaces.py:54
+#: cpskin.core/cpskin/core/setuphandlers.py:358
 msgid "Load page menu"
 msgstr ""
 
@@ -202,11 +206,11 @@ msgstr ""
 msgid "Make this content appear in folder view"
 msgstr ""
 
-#: cpskin.minisite/cpskin/minisite/browser/hnavigation.py:76
+#: cpskin.minisite/cpskin/minisite/browser/hnavigation.py:84
 msgid "Minisite horizontal Navigation disabled on content"
 msgstr ""
 
-#: cpskin.minisite/cpskin/minisite/browser/hnavigation.py:65
+#: cpskin.minisite/cpskin/minisite/browser/hnavigation.py:73
 msgid "Minisite horizontal Navigation enabled on content"
 msgstr ""
 
@@ -222,15 +226,15 @@ msgstr ""
 msgid "Multimedia viewlet enabled on content"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:84
+#: cpskin.core/cpskin/core/interfaces.py:83
 msgid "Name of city is used in some templates."
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:77
+#: cpskin.core/cpskin/core/interfaces.py:76
 msgid "Number of milliseconds between each transition."
 msgstr ""
 
-#: cpskin.core/cpskin/core/setuphandlers.py:389
+#: cpskin.core/cpskin/core/setuphandlers.py:404
 msgid "Number of seconds between each transition."
 msgstr ""
 
@@ -270,9 +274,18 @@ msgstr ""
 msgid "Show minisite horizontal navigation menu"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:76
-#: cpskin.core/cpskin/core/setuphandlers.py:388
+#: cpskin.core/cpskin/core/interfaces.py:75
+#: cpskin.core/cpskin/core/setuphandlers.py:403
 msgid "Slider timer"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:89
+#: cpskin.core/cpskin/core/setuphandlers.py:440
+msgid "Slider type"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:90
+msgid "Slider type (slider_view / slider_view_vertical)."
 msgstr ""
 
 #: cpskin.slider/cpskin/slider/browser/configure.zcml
@@ -291,8 +304,8 @@ msgstr ""
 msgid "Stop using big images"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:62
-#: cpskin.core/cpskin/core/setuphandlers.py:358
+#: cpskin.core/cpskin/core/interfaces.py:61
+#: cpskin.core/cpskin/core/setuphandlers.py:373
 msgid "Sub menu persistence"
 msgstr ""
 
@@ -320,7 +333,7 @@ msgstr ""
 msgid "Visuel"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:78
+#: cpskin.core/cpskin/core/browser/folderview.py:80
 msgid "Vue index avec collections configurée."
 msgstr ""
 
@@ -330,11 +343,6 @@ msgstr ""
 
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:37
 msgid "add a collection portlet with slider view"
-msgstr ""
-
-#. Default: "<p>Déclaration en matière de cookies - <strong>Ville de ${DYNAMIC_CONTENT}</strong><br /> &nbsp;</p> <h2>Déclaration en matière de cookies</h2> <p>La déclaration en matière de cookies précise l'utilisation des fichiers \"cookies\" sur le site web de la <strong>Ville de ${DYNAMIC_CONTENT}</strong> l'utilité des différents types de cookies, et la méthode pour les désactiver.</p> <h2>Parties impliquées</h2> <p>Dans cette déclaration en matière de cookies (Cookie Statement), on entend par:<br /> <strong>Ville de ${DYNAMIC_CONTENT}</strong> &nbsp; :</p> <p><br /> \"Utilisateur\":</p> <p>toute personne physique ou morale en relation, quelle que soit sa nature, avec la <strong>Ville de ${DYNAMIC_CONTENT}</strong> par le biais de son site en ligne Loi du 10 juillet 2012 portant des dispositions diverses en matière de communications électroniques (appelée loi Télécom)</p> <h2><br /> Définition</h2> <p>Un cookie est un petit fichier de données ou de texte qui est placé sur l'ordinateur des internautes par des sites web. Il en existe de différentes sortes comme, par exemple, les cookies techniques qui sont utilisés pour paramétrer la langue du site web, les cookies de sessions (également appelés cookies temporaires) et les cookies de pistage installés afin d’optimiser le site web en fonction de votre comportement.</p> <h2>Utilité</h2> <p>La <strong>Ville de ${DYNAMIC_CONTENT}</strong> veut informer au mieux l'utilisateur de la législation belge relative à la communication électronique (transposition de la loi Télécoms) quant aux cookies utilisés. Ces cookies aident la <strong>Ville de ${DYNAMIC_CONTENT}</strong> à optimiser la visite sur son site web, à mémoriser des choix techniques (par exemple un choix de langue, une lettre d'information, etc.). Les cookies utilisés sont considérés comme sûrs et aident la <strong>Ville de ${DYNAMIC_CONTENT}</strong> entre autre, à identifier d’éventuelles erreurs.<br /> Si un utilisateur veut consulter le site web de la <strong>Ville de ${DYNAMIC_CONTENT}</strong>, il lui est recommandé d'accepter les cookies. Cependant, chaque utilisateur est libre de ne pas les accepter (voir également le titre Gestion des cookies).</p> <br /> <h2>Cookies utilisés</h2> <p>La <strong>Ville de ${DYNAMIC_CONTENT}</strong>&nbsp; utilise les types de cookies suivants:</p> <h3>Cookies strictement nécessaires</h3> <p>Ce sont les cookies qui permettent aux visiteurs d'utiliser certaines fonctionnalités sur le site web. Si l'utilisation de ces cookies est désactivée, certaines parties du site web peuvent ne pas fonctionner correctement.</p> <h3>Cookies de performance</h3> <p>Ce sont des cookies qui ont pour but de collecter des informations se rapportant à la manière dont les visiteurs utilisent le site web, telle que les informations concernant les pages consultées ou le nombre de messages d'erreur apparus, afin d'analyser et d'optimiser l'utilisation du site.</p> <br /> <h3>Cookies fonctionnels</h3> <p>Ce sont des cookies qui permettent à la<strong> Ville de ${DYNAMIC_CONTENT}</strong> de se rappeler des choix et des préférences (tels que le choix de la langue) des visiteurs afin d'augmenter la facilité d'utilisation du site web et de pouvoir présenter des informations plus pertinentes<br /> aux visiteurs.</p> <h2>Consultation du site</h2> <p>Pour la consultation du site web dela <strong>Ville de ${DYNAMIC_CONTENT}</strong>, il est recommandé à l'utilisateur d'activer les cookies sur son ordinateur, sa tablette ou son smartphone. Si les cookies ne sont pas activés, la <strong>Ville de ${DYNAMIC_CONTENT}</strong> ne peut pas garantir une utilisation<br /> qualitative et performante de son site web. Néanmoins, si l'utilisateur préfère limiter les cookies de la <strong>Ville de ${DYNAMIC_CONTENT}</strong>, les bloquer ou les supprimer, il peut gérer les paramètres de son navigateur comme décrit ci-dessous.</p> <h2>Gestion des cookies</h2> <p>Pour désactiver les cookies dans son navigateur, l'utilisateur devra effectuer des manipulations qui varient selon le navigateur.</p> <h3>Internet Explorer</h3> <p>Dans Internet Explorer, cliquer sur les \"options Internet\"' dans le menu \"Outils\"<br /> Dans l'onglet \"Confidentialité\", déplacer le curseur vers \"basse\" ou \"accepter tous les cookies\" (les paramètres supérieurs à<br /> 'moyenne' désactivent les cookies)<br /> Cliquer sur \"OK\"</p> <h3>Mozilla Firefox</h3> <p>Cliquer sur \"Firefox\" dans le coin en haut à gauche de votre navigateur et cliquer ensuite sur \"Options\"<br /> Dans l'onglet \"Vie privée\", ne pas cocher \"Indiquer aux sites que je ne souhaite pas être pisté\"<br /> Cliquer sur \"OK\"</p> <h3>Google Chrome</h3> <p>Cliquer sur \"Paramètres\" en haut de la fenêtre de votre navigateur<br /> Dans la section \"Confidentialité\", cocher la case \"Envoyer une requête Interdire le suivi\" avec le trafic de navigation<br /> Dans l’onglet \"Paramètres de contenu &gt; Cookies\", cocher \"Bloquer les cookies et les données de site tiers\"</p> <h3>Safari</h3> <p>Cliquer sur le pictogramme \"Cog\" en haut de la fenêtre de votre navigateur et sélectionner l'option \"Préférences\"<br /> Cliquer sur \"Confidentialité\" puis cocher l'option : \"Bloquer les cookies de tiers et les cookies publicitaires\"<br /> Cliquer sur \"Enregistrer\"<br /> En cas de questions ou remarques concernant les cookies après la lecture de cette déclaration concernant les cookies, la <strong>Ville de ${DYNAMIC_CONTENT} </strong> peut être contactée à l'adresse <a href=\"${DYNAMIC_CONTENT}\">${DYNAMIC_CONTENT}</a><br /> A noter: l'utilisateur peut, à tout moment, revenir sur ses intentions et changer ses paramètres en matière de cookies.<br /></p> <p>&nbsp;</p>"
-#: cpskin.policy/cpskin/policy/browser/templates/cookies.pt:91
-msgid "cpskin-cookie-page"
 msgstr ""
 
 #. Default: "<h2 style=\"text-decoration: underline;\">Vous venez d'installer le canevas de site internet proposé par CommunesPlone.</h2> <p><br /> Pour bien prendre en main cet outil, nous vous recommandons de lire la documentation suivante :</p> <ul> <li>une <a href=\"http://www.communesplone.org/support/documentation/tutoriels/cpskin3-le-site-communal-en-plone-3/\">documentation CPSkin3</a>, vous présentant le canevas de site internet CPSkin3.</li> <li>une <a href=\"http://www.communesplone.org/support/documentation/topic/section_internet\">documentation spécifique au site internet</a>, vous présentant les différents modules utilisés dans les sites internet ainsi que des tutoriaux vous aidant à concevoir votre site.</li> <li>une <a href=\"http://www.communesplone.org/support/documentation/topic/section_basic_use\">documentation général sur Plone</a>, vous présentant l'outil et son interface.</li> </ul> <p><br /> En tant qu'administrateur du site, vous pourrez effectuer (entre autres) les <span style=\"font-weight: bold;\">adaptations suivantes</span> :<br /> </p> <p>1) <span style=\"text-decoration: underline;\">Ajouter une page d'accueil dynamique</span></p> <p>Vous trouverez dans cette <a href=\"http://www.communesplone.org/support/documentation/tutoriels/integration-dune-page-daccueil\">documentation</a> les informations nécessaires pour intégrée une des pages d'accueils dynamique fournies avec le produit CPSkin3.</p> <p><br /> 2) <span style=\"text-decoration: underline;\">Modifier le logo</span> <br /> <br /> Il est nécessaire pour cela de se rendre dans la <a href=\"http://www.communesplone.org/support/documentation/glossary/zmi\">ZMI</a> et plus particulièrement dans /portal_skins/custom. Vous y trouverez un élément nommé logo.jpg. En cliquant sur cet élément, vous pourrez remplacer l'image proposée par une image de votre choix mais qui doit être de même dimension. <br /> Nous vous conseillons d'utiliser comme navigateur Firefox qui vous permettra d'ouvrir plusieurs onglets différents (par exemple un dans la ZMI et un dans Plone) et qui vous permettra également d'installer des modules complémentaires très utiles dans l'élaboration d'un site (Firebug, web developer, colorzilla, rainbowpicker, ...).<br /> <br /> 3) <span style=\"text-decoration: underline;\">Modifier la bannière supérieure</span><br /> <br /> La bannière peut être différente de dossier en dossier. C'est le cas après l'installation : la bannière est différente lorsque l'on se trouve dans un thème ou ses sous-dossiers. <br /> Afin de remplacer la bannière proposée par défaut (à la racine du site), il est nécessaire d'ouvrir l'élément appelé \"banner.jpg\". Vous trouverez cet élément en vous positionnant à la racine du site (dans Plone) et en cliquant sur l'onglet \"Contenu\". Cette vue très pratique affiche tous les éléments présents dans un dossier. Après avoir cliqué sur l'élément banner.jpg,&nbsp; vous pourrez le modifier via l'onglet \"Modifier\" et remplacer la bannière par une image de même dimension. <br /> Pour modifier les bannières utilisées dans les dossiers \"thème\", il suffit d'éditer l'élément \"banner.jpg\" se trouvant dans chaque dossier \"thème. <br /> Pour ajouter une nouvelle bannière qui sera affichée sur un dossier et ses sous-dossiers, il suffira de créer dans ce dossier une image dont l'id doit être \"banner.jpg\". <br /> <br /> 4) <span style=\"text-decoration: underline;\">Ajouter un thème</span><br /> <br /> En se positionnant à la racine du site et il suffit de rajouter un dossier et de le publier dans la navigation. Il est conseillé de ne pas créer plus de 5 thèmes.<br /> <br /> 5) <span style=\"text-decoration: underline;\">Créer du contenu dans les dossiers \"thème\"</span><br /> <br /> Afin que les éléments présents dans les dossiers \"Thème\" soient affichés correctement dans les menus, il est nécessaire de les créer suivant les recommandations indiquées dans la documentation. <br /> <br /> 6) <span style=\"text-decoration: underline;\">Donner à un utilisateur les droits de modification sur un dossier et son contenu</span> <br /> <br /> Par défaut, seul l'administrateur peut modifier ou créer des éléments à n'importe quel endroit du site. Un utilisateur \"normal\" ne le pourra pas. <br /> Pour donner à un utilisateur ou un groupe d'utilisateurs les droits de gestion sur un dossier particulier et son contenu (par exemple pour qu'un service puisse gérer le contenu du dossier le concernant), l'administrateur doit spécifier certains droits sur ce dossier. Cela peut être fait via l'onglet \"Partage\", comme expliqué dans <a href=\"http://www.communesplone.org/support/documentation/how-to/comment-gerer-les-roles-locaux\">cette documentation</a>.<br /> &nbsp;</p>"
@@ -368,9 +376,39 @@ msgstr ""
 msgid "error_reported"
 msgstr ""
 
+#. Default: "à"
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:88
+msgid "evenement_a"
+msgstr ""
+
+#. Default: "au"
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:93
+msgid "evenement_au"
+msgstr ""
+
+#. Default: "de"
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:86
+msgid "evenement_de"
+msgstr ""
+
+#. Default: "du"
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:91
+msgid "evenement_du"
+msgstr ""
+
+#. Default: "le"
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:83
+msgid "evenement_le"
+msgstr ""
+
 #. Default: "Sécurisé, fiable et rapide, ${Firefox} est gratuit et simple à installer."
 #: cpskin.core/cpskin/core/portlets/firefox.pt:6
 msgid "firefox_download_sentence"
+msgstr ""
+
+#. Default: "Flux RSS"
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:20
+msgid "flux_rss"
 msgstr ""
 
 #. Default: "Report an error or missing information."
@@ -385,6 +423,7 @@ msgid "help_hidden_tags"
 msgstr ""
 
 #. Default: "I Am Tags are used for webmaster organization of content."
+#: cpskin.core/cpskin/core/behaviors/metadata.py:63
 #: cpskin.core/cpskin/core/extender.py:65
 msgid "help_iam_tags"
 msgstr ""
@@ -437,6 +476,7 @@ msgid "label_hidden_tags"
 msgstr ""
 
 #. Default: "I Am Tags"
+#: cpskin.core/cpskin/core/behaviors/metadata.py:62
 #: cpskin.core/cpskin/core/extender.py:64
 msgid "label_iam_tags"
 msgstr ""
@@ -468,13 +508,18 @@ msgid "label_standard_tags"
 msgstr ""
 
 #. Default: "[Modifier la zone statique]"
-#: cpskin.core/cpskin/core/browser/templates/folderview.pt:65
+#: cpskin.core/cpskin/core/browser/templates/folderview.pt:69
 msgid "modifier_zone_statique"
 msgstr ""
 
 #. Default: "On the page"
 #: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:14
 msgid "on_the_page"
+msgstr ""
+
+#. Default: "<h1>Politique en matière de cookies</h1> <h2>Qu’est-ce qu’un cookie ?</h2> <p>Les cookies sont de petits fichiers textes que le serveur d'un site web enregistre sur votre ordinateur ou votre appareil mobile (smartphone, tablette...) lorsque vous visitez le site à l'aide de votre navigateur. Un cookie contient des informations qui permettent au site visité d'identifier votre navigateur et de retenir vos activités antérieures (p.ex. choix de la langue…). Le serveur du site web ne peut lire que les cookies qu’il a enregistrés lui-même. Il n’a pas accès aux autres fichiers qui se trouvent sur votre ordinateur ou appareil mobile.</p> <h2>Quels sont les cookies utilisés ce site web</h2> <p>Nous utilisons des cookies pour simplifier l’utilisation du site et accélérer les opérations lors de vos prochaines visites.</p> <p>Nous nous servons aussi des cookies pour produire des statistiques anonymes sur l’utilisation de notre site web, dans le but d’en améliorer la structure et le contenu. Ces données statistiques ne permettent cependant pas de vous identifier personnellement.</p> <p>Vous trouverez ci-dessous une description complète des cookies que nous utilisons.</p> <h2>Cookies techniques</h2> <p>Ces cookies sont essentiels au bon fonctionnement de notre site web.</p> <p>Ils vous permettent par exemple de naviguer entre les différentes parties du site et d’en exploiter certaines fonctionnalités.</p> <p>Les cookies techniques ne permettent pas de vous identifier personnellement. Si vous refusez ces cookies, il est possible que certaines parties du site web ne fonctionnent pas ou fonctionnent de façon incomplète.</p> <h2>Cookies fonctionnels</h2> <p>Ces cookies mémorisent vos choix (p.ex. choix de la langue) afin de personnaliser votre visite sur le site. Les cookies fonctionnels ne permettent pas de vous identifier personnellement. Si vous refusez ces cookies, il est possible que certaines parties du site web ne fonctionnent pas ou fonctionnent de façon incomplète.</p> <br /> <p>Les cookies techniques et fonctionnels sont des cookies propres ou ‘first party’ : ils proviennent du serveur de notre site web.</p> <h2>Comment gérer ou supprimer les cookies ?</h2> <p>La plupart des navigateurs Internet sont paramétrés pour accepter automatiquement les cookies. Vous pouvez modifier vos préférences pour bloquer les cookies ou pour être averti quand un cookie est enregistré sur votre ordinateur ou appareil mobile. Pour plus de détails sur le paramétrage de votre navigateur, consultez ses instructions d'utilisation ou ses écrans d'aide.</p>"
+#: cpskin.policy/cpskin/policy/browser/templates/cookies.pt:16
+msgid "politique-en-matiere-de-cookies"
 msgstr ""
 
 #. Default: "Merci de fournir le maximum d'information ainsi que tout renseignement qui permette de la valider (source)."
@@ -495,6 +540,19 @@ msgstr ""
 #. Default: "Ce site est optimisé pour le navigateur Firefox."
 #: cpskin.core/cpskin/core/portlets/firefox.pt:4
 msgid "site_optimise_pour_firefox"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:92
+msgid "slider_view"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:92
+msgid "slider_view_vertical"
+msgstr ""
+
+#. Default: "Voir l'ensemble des"
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:110
+msgid "voir_lensemble_des"
 msgstr ""
 
 #. Default: "With the following comment"
