@@ -551,7 +551,7 @@ msgstr ""
 #. Default: "Voir l'ensemble des"
 #: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:110
 msgid "voir_lensemble_des"
-msgstr ""
+msgstr "Alle"
 
 #. Default: "With the following comment"
 #: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:18
