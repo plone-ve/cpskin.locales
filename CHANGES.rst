@@ -4,7 +4,8 @@ Changelog
 0.4 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Add missing transalation for 'voir_lensemble_des'.
+  [mgennart]
 
 
 0.3 (2015-10-02)
