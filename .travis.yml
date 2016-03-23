@@ -7,7 +7,6 @@ install:
 script:
   - bin/i18n cpskin
   - bin/i18n plone
-  - bin/test
 notifications:
   email:
     recipients:
