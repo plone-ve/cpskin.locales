@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5 (unreleased)
+0.5 (2016-05-10)
 ----------------
 
 - Add plone.app.event domain.
