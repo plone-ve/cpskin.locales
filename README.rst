@@ -13,6 +13,7 @@ To generate and merge translations (there are 2 domains), run ::
 
     bin/i18n plone
     bin/i18n cpskin
+    bin/i18n plone.app.event
 
 
 Tests

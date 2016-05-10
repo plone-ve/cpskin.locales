@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-03-23 09:50+0000\n"
+"POT-Creation-Date: 2016-05-10 12:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,6 +22,15 @@ msgstr ""
 msgid "4th level navigation enabled on content"
 msgstr ""
 
+#: cpskin.core/cpskin/core/browser/folderview.py:334
+#: cpskin.policy/cpskin/policy/setuphandlers.py:133
+msgid "Actualités"
+msgstr ""
+
+#: cpskin.policy/cpskin/policy/setuphandlers.py:134
+msgid "Actualités du site"
+msgstr ""
+
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Add 4th level navigation"
 msgstr ""
@@ -30,8 +39,8 @@ msgstr ""
 msgid "Add direct access"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:68
-#: cpskin.core/cpskin/core/setuphandlers.py:388
+#: cpskin.core/cpskin/core/interfaces.py:69
+#: cpskin.core/cpskin/core/setuphandlers.py:406
 msgid "Auto play slider"
 msgstr ""
 
@@ -55,11 +64,11 @@ msgstr ""
 msgid "Banner enabled on content and sub-contents"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:263
+#: cpskin.core/cpskin/core/browser/folderview.py:257
 msgid "Big images are not used anymore on this folder view."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:253
+#: cpskin.core/cpskin/core/browser/folderview.py:249
 msgid "Big images are now used on this folder view."
 msgstr ""
 
@@ -67,20 +76,20 @@ msgstr ""
 msgid "CPSkin"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:77
+#: cpskin.core/cpskin/core/browser/controlpanel.py:86
 msgid "CPSkin settings"
 msgstr ""
 
-#: cpskin.core/cpskin/core/setuphandlers.py:441
+#: cpskin.core/cpskin/core/setuphandlers.py:459
 msgid "Choose an horizontal or vertical slider."
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:82
-#: cpskin.core/cpskin/core/setuphandlers.py:423
+#: cpskin.core/cpskin/core/interfaces.py:83
+#: cpskin.core/cpskin/core/setuphandlers.py:441
 msgid "City name"
 msgstr ""
 
-#: cpskin.core/cpskin/core/setuphandlers.py:424
+#: cpskin.core/cpskin/core/setuphandlers.py:442
 msgid "City name variable used in some template."
 msgstr ""
 
@@ -100,11 +109,11 @@ msgstr ""
 msgid "Content removed from direct access menu"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:187
+#: cpskin.core/cpskin/core/browser/folderview.py:191
 msgid "Contenu ajouté à la vue index."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:197
+#: cpskin.core/cpskin/core/browser/folderview.py:199
 msgid "Contenu retiré de la vue index."
 msgstr ""
 
@@ -136,6 +145,11 @@ msgstr ""
 msgid "Hide minisite horizontal navigation menu"
 msgstr ""
 
+#: cpskin.core/cpskin/core/interfaces.py:98
+#: cpskin.core/cpskin/core/setuphandlers.py:475
+msgid "Homepage keywords"
+msgstr ""
+
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "I Am Tag"
 msgstr ""
@@ -164,22 +178,22 @@ msgstr ""
 msgid "Installs members configuration workflow"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:55
-#: cpskin.core/cpskin/core/setuphandlers.py:359
+#: cpskin.core/cpskin/core/interfaces.py:56
+#: cpskin.core/cpskin/core/setuphandlers.py:377
 msgid "Is level 1 menu load page at click?"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:62
-#: cpskin.core/cpskin/core/setuphandlers.py:374
+#: cpskin.core/cpskin/core/interfaces.py:63
+#: cpskin.core/cpskin/core/setuphandlers.py:392
 msgid "Is level 2 menu persist?"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:69
-#: cpskin.core/cpskin/core/setuphandlers.py:389
+#: cpskin.core/cpskin/core/interfaces.py:70
+#: cpskin.core/cpskin/core/setuphandlers.py:407
 msgid "Is the front page slider automatically play?"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:78
+#: cpskin.core/cpskin/core/browser/controlpanel.py:87
 msgid "Lets you change the settings of CPSkin"
 msgstr ""
 
@@ -187,8 +201,8 @@ msgstr ""
 msgid "Links in social viewlet"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:54
-#: cpskin.core/cpskin/core/setuphandlers.py:358
+#: cpskin.core/cpskin/core/interfaces.py:55
+#: cpskin.core/cpskin/core/setuphandlers.py:376
 msgid "Load page menu"
 msgstr ""
 
@@ -216,28 +230,33 @@ msgstr ""
 msgid "Minisites"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/media.py:84
+#: cpskin.core/cpskin/core/browser/media.py:83
 msgid "Multimedia viewlet disabled for content"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/media.py:66
+#: cpskin.core/cpskin/core/browser/media.py:65
 msgid "Multimedia viewlet enabled on content"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:83
+#: cpskin.core/cpskin/core/interfaces.py:84
 msgid "Name of city is used in some templates."
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:76
+#: cpskin.core/cpskin/core/interfaces.py:77
 msgid "Number of milliseconds between each transition."
 msgstr ""
 
-#: cpskin.core/cpskin/core/setuphandlers.py:404
+#: cpskin.core/cpskin/core/setuphandlers.py:422
 msgid "Number of seconds between each transition."
 msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/minisites_panel.pt:32
 msgid "Path ${search_path}<br /> Domain ${domain}<br /> <span class=\"discreet\">in file ${filename}</span>"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:99
+#: cpskin.core/cpskin/core/setuphandlers.py:476
+msgid "Please select which hidden keywords is use by collections for homepage."
 msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/minisites_panel.pt:19
@@ -272,17 +291,22 @@ msgstr ""
 msgid "Show minisite horizontal navigation menu"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:75
-#: cpskin.core/cpskin/core/setuphandlers.py:403
+#. Default: "Site réalisé en collaboration avec <a href=\"http://www.imio.be\" target=\"_blank\">IMIO</a>x&nbsp; <a href=\"x\" target=\"_blank\">x</a> - &copy; <abbr>${DYNAMIC_CONTENT}</abbr>"
+#: cpskin.core/cpskin/core/viewlets/footer.pt:7
+msgid "Site realise en collaboration avec"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:76
+#: cpskin.core/cpskin/core/setuphandlers.py:421
 msgid "Slider timer"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:89
-#: cpskin.core/cpskin/core/setuphandlers.py:440
+#: cpskin.core/cpskin/core/interfaces.py:90
+#: cpskin.core/cpskin/core/setuphandlers.py:458
 msgid "Slider type"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:90
+#: cpskin.core/cpskin/core/interfaces.py:91
 msgid "Slider type (slider_view / slider_view_vertical)."
 msgstr ""
 
@@ -302,8 +326,8 @@ msgstr ""
 msgid "Stop using big images"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:61
-#: cpskin.core/cpskin/core/setuphandlers.py:373
+#: cpskin.core/cpskin/core/interfaces.py:62
+#: cpskin.core/cpskin/core/setuphandlers.py:391
 msgid "Sub menu persistence"
 msgstr ""
 
@@ -327,11 +351,15 @@ msgstr ""
 msgid "Use big images"
 msgstr ""
 
-#: cpskin.core/cpskin/core/portlets/photo.pt:4
-msgid "Visuel"
+#: cpskin.core/cpskin/core/behaviors/metadata.py:112
+msgid "Use keyword for homepage"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:80
+#: cpskin.core/cpskin/core/behaviors/metadata.py:113
+msgid "Use keyword(s) define in CPSkin settings."
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/folderview.py:74
 msgid "Vue index avec collections configurée."
 msgstr ""
 
@@ -375,27 +403,32 @@ msgid "error_reported"
 msgstr ""
 
 #. Default: "à"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:88
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:83
+#: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:48
 msgid "evenement_a"
 msgstr ""
 
 #. Default: "au"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:93
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:88
+#: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:54
 msgid "evenement_au"
 msgstr ""
 
 #. Default: "de"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:86
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:81
+#: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:46
 msgid "evenement_de"
 msgstr ""
 
 #. Default: "du"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:91
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:86
+#: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:52
 msgid "evenement_du"
 msgstr ""
 
 #. Default: "le"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:83
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:78
+#: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:43
 msgid "evenement_le"
 msgstr ""
 
@@ -415,19 +448,19 @@ msgid "help_comment"
 msgstr ""
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:22
+#: cpskin.core/cpskin/core/behaviors/metadata.py:45
 #: cpskin.core/cpskin/core/extender.py:95
 msgid "help_hidden_tags"
 msgstr ""
 
 #. Default: "I Am Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:63
+#: cpskin.core/cpskin/core/behaviors/metadata.py:86
 #: cpskin.core/cpskin/core/extender.py:65
 msgid "help_iam_tags"
 msgstr ""
 
 #. Default: "I Search Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:43
+#: cpskin.core/cpskin/core/behaviors/metadata.py:66
 #: cpskin.core/cpskin/core/extender.py:80
 msgid "help_isearch_tags"
 msgstr ""
@@ -438,6 +471,7 @@ msgid "help_send_from"
 msgstr ""
 
 #. Default: "Standard Tags are used for webmaster organization of content."
+#: cpskin.core/cpskin/core/behaviors/metadata.py:24
 #: cpskin.core/cpskin/core/extender.py:50
 msgid "help_standard_tags"
 msgstr ""
@@ -468,25 +502,25 @@ msgid "label_filed_under_standard_tag"
 msgstr ""
 
 #. Default: "Hidden Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:21
+#: cpskin.core/cpskin/core/behaviors/metadata.py:44
 #: cpskin.core/cpskin/core/extender.py:94
 msgid "label_hidden_tags"
 msgstr ""
 
 #. Default: "I Am Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:62
+#: cpskin.core/cpskin/core/behaviors/metadata.py:85
 #: cpskin.core/cpskin/core/extender.py:64
 msgid "label_iam_tags"
 msgstr ""
 
 #. Default: "I Search Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:42
+#: cpskin.core/cpskin/core/behaviors/metadata.py:65
 #: cpskin.core/cpskin/core/extender.py:79
 msgid "label_isearch_tags"
 msgstr ""
 
 #. Default: "Categorization"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:15
+#: cpskin.core/cpskin/core/behaviors/metadata.py:17
 msgid "label_schema_categorization"
 msgstr ""
 
@@ -501,8 +535,17 @@ msgid "label_send_from"
 msgstr ""
 
 #. Default: "Standard Tags"
+#: cpskin.core/cpskin/core/behaviors/metadata.py:23
+msgid "label_standardTags"
+msgstr ""
+
+#. Default: "Standard Tags"
 #: cpskin.core/cpskin/core/extender.py:49
 msgid "label_standard_tags"
+msgstr ""
+
+#: cpskin.core/cpskin/core/viewlets/footer.pt:4
+msgid "libre"
 msgstr ""
 
 #. Default: "[Modifier la zone statique]"
@@ -515,7 +558,7 @@ msgstr ""
 msgid "on_the_page"
 msgstr ""
 
-#. Default: "<h1>Politique en matière de cookies</h1> <h2>Qu’est-ce qu’un cookie ?</h2> <p>Les cookies sont de petits fichiers textes que le serveur d'un site web enregistre sur votre ordinateur ou votre appareil mobile (smartphone, tablette...) lorsque vous visitez le site à l'aide de votre navigateur. Un cookie contient des informations qui permettent au site visité d'identifier votre navigateur et de retenir vos activités antérieures (p.ex. choix de la langue…). Le serveur du site web ne peut lire que les cookies qu’il a enregistrés lui-même. Il n’a pas accès aux autres fichiers qui se trouvent sur votre ordinateur ou appareil mobile.</p> <h2>Quels sont les cookies utilisés ce site web</h2> <p>Nous utilisons des cookies pour simplifier l’utilisation du site et accélérer les opérations lors de vos prochaines visites.</p> <p>Nous nous servons aussi des cookies pour produire des statistiques anonymes sur l’utilisation de notre site web, dans le but d’en améliorer la structure et le contenu. Ces données statistiques ne permettent cependant pas de vous identifier personnellement.</p> <p>Vous trouverez ci-dessous une description complète des cookies que nous utilisons.</p> <h2>Cookies techniques</h2> <p>Ces cookies sont essentiels au bon fonctionnement de notre site web.</p> <p>Ils vous permettent par exemple de naviguer entre les différentes parties du site et d’en exploiter certaines fonctionnalités.</p> <p>Les cookies techniques ne permettent pas de vous identifier personnellement. Si vous refusez ces cookies, il est possible que certaines parties du site web ne fonctionnent pas ou fonctionnent de façon incomplète.</p> <h2>Cookies fonctionnels</h2> <p>Ces cookies mémorisent vos choix (p.ex. choix de la langue) afin de personnaliser votre visite sur le site. Les cookies fonctionnels ne permettent pas de vous identifier personnellement. Si vous refusez ces cookies, il est possible que certaines parties du site web ne fonctionnent pas ou fonctionnent de façon incomplète.</p> <br /> <p>Les cookies techniques et fonctionnels sont des cookies propres ou ‘first party’ : ils proviennent du serveur de notre site web.</p> <h2>Comment gérer ou supprimer les cookies ?</h2> <p>La plupart des navigateurs Internet sont paramétrés pour accepter automatiquement les cookies. Vous pouvez modifier vos préférences pour bloquer les cookies ou pour être averti quand un cookie est enregistré sur votre ordinateur ou appareil mobile. Pour plus de détails sur le paramétrage de votre navigateur, consultez ses instructions d'utilisation ou ses écrans d'aide.</p>"
+#. Default: "<h1>Politique en matière de cookies</h1> <h2>Qu’est-ce qu’un cookie ?</h2> <p>Les cookies sont des petits fichiers textes que le serveur d'un site web enregistre sur votre ordinateur ou votre appareil mobile (smartphone, tablette...) lorsque vous visitez un site à l'aide de votre navigateur. Un cookie contient des informations qui permettent au site visité d'identifier votre navigateur et de retenir vos activités antérieures (p.ex. choix de la langue…). Le serveur du site web ne peut lire que les cookies qu’il a enregistré lui-même. Il n’a pas accès aux autres fichiers qui se trouvent sur votre ordinateur ou appareil mobile.</p> <h2>Quels sont les cookies utilisés ?</h2> <p>Nous utilisons des cookies pour simplifier l’utilisation du site et accélérer les opérations lors de vos prochaines visites.</p> <p>Nous nous servons aussi des cookies pour produire des statistiques anonymes sur l’utilisation de notre site web dans le but d’en améliorer la structure et le contenu. Ces données statistiques ne permettent cependant pas de vous identifier personnellement.</p> <p>Vous trouverez ci-dessous une description complète des cookies que nous utilisons.</p> <h3>Cookies techniques</h3> <p>Ces cookies sont essentiels au bon fonctionnement de notre site web.</p> <p>Ils vous permettent par exemple de naviguer entre les différentes parties du site et d’en exploiter certaines fonctionnalités.</p> <p>Les cookies techniques ne permettent pas de vous identifier personnellement. Si vous refusez ces cookies, il est possible que certaines parties du site web ne fonctionnent pas ou fonctionnent de façon incomplète.</p> <h3>Cookies fonctionnels</h3> <p>Ces cookies mémorisent vos choix (p.ex. choix de la langue) afin de personnaliser votre visite sur le site. Les cookies fonctionnels ne permettent pas de vous identifier personnellement. Si vous refusez ces cookies, il est possible que certaines parties du site web ne fonctionnent pas ou fonctionnent de façon incomplète.</p> <br /> <p>Les cookies techniques et fonctionnels sont des cookies propres ou ‘first party’ : ils proviennent du serveur de notre site web.</p> <h2>Comment gérer ou supprimer les cookies ?</h2> <p>La plupart des navigateurs Internet sont paramétrés pour accepter automatiquement les cookies. Vous pouvez modifier vos préférences pour bloquer les cookies ou pour être averti quand un cookie est enregistré sur votre ordinateur ou appareil mobile. Pour plus de détails sur le paramétrage de votre navigateur, consultez les instructions d'utilisation ou les écrans d'aide.</p>"
 #: cpskin.policy/cpskin/policy/browser/templates/cookies.pt:16
 msgid "politique-en-matiere-de-cookies"
 msgstr ""
@@ -540,21 +583,49 @@ msgstr ""
 msgid "site_optimise_pour_firefox"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:92
+#: cpskin.core/cpskin/core/interfaces.py:93
 msgid "slider_view"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:92
+#: cpskin.core/cpskin/core/interfaces.py:93
 msgid "slider_view_vertical"
 msgstr ""
 
+#: cpskin.core/cpskin/core/viewlets/footer.pt:3
+msgid "sous licence"
+msgstr ""
+
+#. Default: "http://fr.wikipedia.org/wiki/Free_Software_Foundation"
+#: cpskin.core/cpskin/core/viewlets/footer.pt:4
+msgid "string:http://fr.wikipedia.org/wiki/Free_Software_Foundation"
+msgstr ""
+
+#. Default: "Visuel"
+#: cpskin.core/cpskin/core/portlets/photo.pt:4
+msgid "visuel"
+msgstr ""
+
 #. Default: "Voir l'ensemble des"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:110
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:105
 msgid "voir_lensemble_des"
 msgstr "Alle"
 
 #. Default: "With the following comment"
 #: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:18
 msgid "with_the_following_comment"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/folderview.py:312
+#: cpskin.policy/cpskin/policy/setuphandlers.py:224
+msgid "À la une"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/folderview.py:359
+#: cpskin.policy/cpskin/policy/setuphandlers.py:173
+msgid "Événements"
+msgstr ""
+
+#: cpskin.policy/cpskin/policy/setuphandlers.py:174
+msgid "Événements du site"
 msgstr ""
 
