@@ -4,7 +4,8 @@ Changelog
 0.5 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Add plone.app.event domain.
+  [bsuttor]
 
 
 0.4 (2016-03-23)
