@@ -1,8 +1,8 @@
 Changelog
 =========
 
-0.6 (unreleased)
-----------------
+0.5.1 (2016-05-11)
+------------------
 
 - Fix bad compilation of cpskin.po.
   [bsuttor]
