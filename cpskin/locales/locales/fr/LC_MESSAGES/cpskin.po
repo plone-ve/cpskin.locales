@@ -31,7 +31,7 @@ msgstr "Actualités"
 
 #: cpskin.policy/cpskin/policy/setuphandlers.py:134
 msgid "Actualités du site"
-msgstr "Actualités du site""
+msgstr "Actualités du site"
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Add 4th level navigation"
@@ -630,4 +630,3 @@ msgstr "Événements"
 #: cpskin.policy/cpskin/policy/setuphandlers.py:174
 msgid "Événements du site"
 msgstr "Événements du site"
-
