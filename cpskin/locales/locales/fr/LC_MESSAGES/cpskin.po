@@ -501,7 +501,7 @@ msgstr "Sous mots clés cachés je cherche"
 #. Default: "Filed under standard tag:"
 #: cpskin.core/cpskin/core/viewlets/standardtags.pt:7
 msgid "label_filed_under_standard_tag"
-msgstr Sous mots clés standards""
+msgstr "Sous mots clés standards"
 
 #. Default: "Hidden Tags"
 #: cpskin.core/cpskin/core/behaviors/metadata.py:44

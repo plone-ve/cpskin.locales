@@ -4,7 +4,8 @@ Changelog
 0.5.2 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Refix bad compilation of cpskin.po.
+  [bsuttor]
 
 
 0.5.1 (2016-05-11)
