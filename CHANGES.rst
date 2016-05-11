@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.2 (unreleased)
+0.5.2 (2016-05-11)
 ------------------
 
 - Refix bad compilation of cpskin.po.
