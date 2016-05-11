@@ -1,7 +1,9 @@
 language: python
 python: 2.7
+before_install:
+  - sudo apt-get -qq update
+  - sudo apt-get install -y gettext
 install:
-  - apt-get install gettext
   - mkdir -p buildout-cache/downloads
   - python bootstrap.py -c travis.cfg 
   - bin/buildout -c travis.cfg -N
