@@ -4,7 +4,8 @@ Changelog
 0.5.3 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add new cpskin.agenda package
+  [laulaz]
 
 
 0.5.2 (2016-05-11)
