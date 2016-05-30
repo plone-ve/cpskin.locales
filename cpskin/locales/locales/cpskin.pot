@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2016-05-30 11:06+0000\n"
+"POT-Creation-Date: 2016-05-30 12:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -112,6 +112,7 @@ msgid "Configure Folder View here"
 msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:36
+#: cpskin.agenda/cpskin/agenda/viewlets/related_contacts.pt:8
 msgid "Contact"
 msgstr ""
 
@@ -229,6 +230,7 @@ msgid "Load page menu"
 msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:20
+#: cpskin.agenda/cpskin/agenda/viewlets/related_contacts.pt:13
 msgid "Location"
 msgstr ""
 
@@ -277,6 +279,7 @@ msgid "Number of seconds between each transition."
 msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:28
+#: cpskin.agenda/cpskin/agenda/viewlets/related_contacts.pt:4
 msgid "Organizer"
 msgstr ""
 
@@ -285,6 +288,7 @@ msgid "Partner"
 msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:44
+#: cpskin.agenda/cpskin/agenda/viewlets/related_contacts.pt:18
 msgid "Partners"
 msgstr ""
 
