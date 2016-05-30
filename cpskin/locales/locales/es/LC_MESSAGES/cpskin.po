@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2016-05-10 12:31+0000\n"
+"POT-Creation-Date: 2016-05-30 11:06+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
@@ -74,6 +74,14 @@ msgstr ""
 msgid "Big images are now used on this folder view."
 msgstr ""
 
+#: cpskin.core/cpskin/core/behaviors/metadata.py:149
+msgid "By default, you see only description for related contacts located above content."
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/metadata.py:170
+msgid "By default, you see only title for related contacts located below content."
+msgstr ""
+
 #: cpskin.core/cpskin/core/profiles/default/controlpanel.xml
 msgid "CPSkin"
 msgstr ""
@@ -103,6 +111,10 @@ msgstr ""
 msgid "Configure Folder View here"
 msgstr ""
 
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:36
+msgid "Contact"
+msgstr ""
+
 #: cpskin.menu/cpskin/menu/browser/directaccessview.py:79
 msgid "Content added to direct access menu"
 msgstr ""
@@ -117,6 +129,14 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/browser/folderview.py:199
 msgid "Contenu retiré de la vue index."
+msgstr ""
+
+#: cpskin.agenda/cpskin/agenda/faceted/widgets/simpledate/widget.pt:20
+msgid "Date"
+msgstr ""
+
+#: cpskin.agenda/cpskin/agenda/faceted/widgets/daterange/widget.py:14
+msgid "Date range for events"
 msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/minisite_in_minisite.pt:5
@@ -208,6 +228,10 @@ msgstr ""
 msgid "Load page menu"
 msgstr ""
 
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:20
+msgid "Location"
+msgstr ""
+
 #: cpskin.core/cpskin/core/viewlets/banner.pt:9
 msgid "Logo"
 msgstr ""
@@ -252,6 +276,18 @@ msgstr ""
 msgid "Number of seconds between each transition."
 msgstr ""
 
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:28
+msgid "Organizer"
+msgstr ""
+
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:46
+msgid "Partner"
+msgstr ""
+
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:44
+msgid "Partners"
+msgstr ""
+
 #: cpskin.minisite/cpskin/minisite/minisites_panel.pt:32
 msgid "Path ${search_path}<br /> Domain ${domain}<br /> <span class=\"discreet\">in file ${filename}</span>"
 msgstr ""
@@ -265,6 +301,10 @@ msgstr ""
 msgid "Read-only list of minisites."
 msgstr ""
 
+#: cpskin.core/cpskin/core/behaviors/metadata.py:138
+msgid "Related"
+msgstr ""
+
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Remove direct access"
 msgstr ""
@@ -275,6 +315,14 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Remove this content from folder view"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/metadata.py:169
+msgid "See also coordinates for below contacts"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/metadata.py:148
+msgid "See also title for above contacts"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
@@ -293,9 +341,12 @@ msgstr ""
 msgid "Show minisite horizontal navigation menu"
 msgstr ""
 
-#. Default: "Site réalisé en collaboration avec <a href=\"http://www.imio.be\" target=\"_blank\">IMIO</a>x&nbsp; <a href=\"x\" target=\"_blank\">x</a> - &copy; <abbr>${DYNAMIC_CONTENT}</abbr>"
-#: cpskin.core/cpskin/core/viewlets/footer.pt:7
-msgid "Site realise en collaboration avec"
+#: cpskin.agenda/cpskin/agenda/faceted/widgets/simpledate/widget.py:23
+msgid "Simple date for events"
+msgstr ""
+
+#: cpskin.core/cpskin/core/viewlets/footer.pt:4
+msgid "Site r&eacute;alis&eacute; en collaboration avec"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:76
@@ -353,11 +404,11 @@ msgstr ""
 msgid "Use big images"
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/metadata.py:112
+#: cpskin.core/cpskin/core/behaviors/metadata.py:118
 msgid "Use keyword for homepage"
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/metadata.py:113
+#: cpskin.core/cpskin/core/behaviors/metadata.py:119
 msgid "Use keyword(s) define in CPSkin settings."
 msgstr ""
 
@@ -450,19 +501,19 @@ msgid "help_comment"
 msgstr ""
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:45
+#: cpskin.core/cpskin/core/behaviors/metadata.py:49
 #: cpskin.core/cpskin/core/extender.py:95
 msgid "help_hidden_tags"
 msgstr ""
 
 #. Default: "I Am Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:86
+#: cpskin.core/cpskin/core/behaviors/metadata.py:92
 #: cpskin.core/cpskin/core/extender.py:65
 msgid "help_iam_tags"
 msgstr ""
 
 #. Default: "I Search Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:66
+#: cpskin.core/cpskin/core/behaviors/metadata.py:71
 #: cpskin.core/cpskin/core/extender.py:80
 msgid "help_isearch_tags"
 msgstr ""
@@ -473,7 +524,7 @@ msgid "help_send_from"
 msgstr ""
 
 #. Default: "Standard Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:24
+#: cpskin.core/cpskin/core/behaviors/metadata.py:27
 #: cpskin.core/cpskin/core/extender.py:50
 msgid "help_standard_tags"
 msgstr ""
@@ -504,25 +555,26 @@ msgid "label_filed_under_standard_tag"
 msgstr ""
 
 #. Default: "Hidden Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:44
+#: cpskin.core/cpskin/core/behaviors/metadata.py:48
 #: cpskin.core/cpskin/core/extender.py:94
 msgid "label_hidden_tags"
 msgstr ""
 
 #. Default: "I Am Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:85
+#: cpskin.core/cpskin/core/behaviors/metadata.py:91
 #: cpskin.core/cpskin/core/extender.py:64
 msgid "label_iam_tags"
 msgstr ""
 
 #. Default: "I Search Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:65
+#: cpskin.core/cpskin/core/behaviors/metadata.py:70
 #: cpskin.core/cpskin/core/extender.py:79
 msgid "label_isearch_tags"
 msgstr ""
 
 #. Default: "Categorization"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:17
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:15
+#: cpskin.core/cpskin/core/behaviors/metadata.py:19
 msgid "label_schema_categorization"
 msgstr ""
 
@@ -537,7 +589,7 @@ msgid "label_send_from"
 msgstr ""
 
 #. Default: "Standard Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:23
+#: cpskin.core/cpskin/core/behaviors/metadata.py:26
 msgid "label_standardTags"
 msgstr ""
 
@@ -546,7 +598,7 @@ msgstr ""
 msgid "label_standard_tags"
 msgstr ""
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:4
+#: cpskin.core/cpskin/core/viewlets/footer.pt:5
 msgid "libre"
 msgstr ""
 
@@ -593,12 +645,12 @@ msgstr ""
 msgid "slider_view_vertical"
 msgstr ""
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:3
+#: cpskin.core/cpskin/core/viewlets/footer.pt:4
 msgid "sous licence"
 msgstr ""
 
 #. Default: "http://fr.wikipedia.org/wiki/Free_Software_Foundation"
-#: cpskin.core/cpskin/core/viewlets/footer.pt:4
+#: cpskin.core/cpskin/core/viewlets/footer.pt:5
 msgid "string:http://fr.wikipedia.org/wiki/Free_Software_Foundation"
 msgstr ""
 
