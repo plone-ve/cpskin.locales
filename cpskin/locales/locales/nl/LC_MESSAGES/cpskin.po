@@ -422,8 +422,9 @@ msgid "Visible fields for below viewlet"
 msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:54
+#: cpskin.core/cpskin/core/browser/folderview.py:309
 msgid "Voir l'ensemble des"
-msgstr ""
+msgstr "Alle"
 
 #: cpskin.core/cpskin/core/browser/folderview.py:75
 msgid "Vue index avec collections configurée."
@@ -682,11 +683,6 @@ msgstr ""
 #: cpskin.core/cpskin/core/portlets/photo.pt:4
 msgid "visuel"
 msgstr ""
-
-#. Default: "Voir l'ensemble des"
-#: cpskin.core/cpskin/core/browser/folderview.py:309
-msgid "voir_lensemble_des"
-msgstr "Alle"
 
 #. Default: "With the following comment"
 #: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:18

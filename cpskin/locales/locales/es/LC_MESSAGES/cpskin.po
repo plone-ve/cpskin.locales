@@ -424,6 +424,7 @@ msgid "Visible fields for below viewlet"
 msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:54
+#: cpskin.core/cpskin/core/browser/folderview.py:309
 msgid "Voir l'ensemble des"
 msgstr ""
 
@@ -683,11 +684,6 @@ msgstr ""
 #. Default: "Visuel"
 #: cpskin.core/cpskin/core/portlets/photo.pt:4
 msgid "visuel"
-msgstr ""
-
-#. Default: "Voir l'ensemble des"
-#: cpskin.core/cpskin/core/browser/folderview.py:309
-msgid "voir_lensemble_des"
 msgstr ""
 
 #. Default: "With the following comment"
