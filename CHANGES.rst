@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.3 (unreleased)
+0.5.3 (2016-07-01)
 ------------------
 
 - Add some translations.
