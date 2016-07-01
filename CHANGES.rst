@@ -4,6 +4,9 @@ Changelog
 0.5.3 (unreleased)
 ------------------
 
+- Add some translations.
+  [bsuttor]
+
 - Add new cpskin.agenda package
   [laulaz]
 
