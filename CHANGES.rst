@@ -4,7 +4,8 @@ Changelog
 0.5.4 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Fix "Voir l'ensemble des".
+  [bsuttor]
 
 
 0.5.3 (2016-07-01)
