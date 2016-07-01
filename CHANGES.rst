@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.4 (unreleased)
+0.5.4 (2016-07-01)
 ------------------
 
 - Fix "Voir l'ensemble des".
