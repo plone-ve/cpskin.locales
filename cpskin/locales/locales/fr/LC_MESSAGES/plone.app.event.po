@@ -289,4 +289,3 @@ msgstr ""
 #: cpskin.core/cpskin/core/interfaces.py:92
 msgid "slider_view_vertical"
 msgstr ""
-
