@@ -385,7 +385,7 @@ msgstr "Ne plus utiliser les grandes images"
 #: cpskin.core/cpskin/core/interfaces.py:61
 #: cpskin.core/cpskin/core/setuphandlers.py:397
 msgid "Sub menu persistence"
-msgstr "Persistence du sous-menu"
+msgstr "Persistance du sous-menu"
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Text"
@@ -704,4 +704,3 @@ msgstr "Événements"
 #: cpskin.policy/cpskin/policy/setuphandlers.py:176
 msgid "Événements du site"
 msgstr "Événements du site"
-
