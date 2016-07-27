@@ -4,6 +4,9 @@ Changelog
 0.5.5 (unreleased)
 ------------------
 
+- Regenerate translations (with cleanup)
+  [laulaz]
+
 - Improve handling of translations that appeared in all domains by :
    - narrowing packages to include
    - using new "regular expressions" exclude feature of i18ndude

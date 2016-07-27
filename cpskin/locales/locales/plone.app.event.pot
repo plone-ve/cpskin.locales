@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2016-05-10 12:24+0000\n"
+"POT-Creation-Date: 2016-07-27 15:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,145 +16,43 @@ msgstr ""
 "Language: \n"
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
 
-#: cpskin.core/cpskin/core/interfaces.py:68
-#: cpskin.core/cpskin/core/setuphandlers.py:388
-msgid "Auto play slider"
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:50
+msgid "All dates"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/banner.py:107
-msgid "Banner disabled for content"
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:106
+msgid "Contact"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/banner.py:82
-msgid "Banner disabled for content and sub-contents"
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:110
+msgid "Location"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/banner.py:99
-msgid "Banner enabled on content"
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:102
+msgid "Organizer"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/banner.py:74
-msgid "Banner enabled on content and sub-contents"
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:115
+msgid "Partners"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:263
-msgid "Big images are not used anymore on this folder view."
+#. Default: "Event"
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:16
+msgid "event_event"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:253
-msgid "Big images are now used on this folder view."
+#. Default: "Web"
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:75
+msgid "event_url"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:77
-msgid "CPSkin settings"
-msgstr ""
-
-#: cpskin.core/cpskin/core/setuphandlers.py:441
-msgid "Choose an horizontal or vertical slider."
-msgstr ""
-
-#: cpskin.core/cpskin/core/interfaces.py:82
-#: cpskin.core/cpskin/core/setuphandlers.py:423
-msgid "City name"
-msgstr ""
-
-#: cpskin.core/cpskin/core/setuphandlers.py:424
-msgid "City name variable used in some template."
-msgstr ""
-
-#: cpskin.core/cpskin/core/browser/folderview.py:187
-msgid "Contenu ajouté à la vue index."
-msgstr ""
-
-#: cpskin.core/cpskin/core/browser/folderview.py:197
-msgid "Contenu retiré de la vue index."
-msgstr ""
-
-#: cpskin.core/cpskin/core/interfaces.py:55
-#: cpskin.core/cpskin/core/setuphandlers.py:359
-msgid "Is level 1 menu load page at click?"
-msgstr ""
-
-#: cpskin.core/cpskin/core/interfaces.py:62
-#: cpskin.core/cpskin/core/setuphandlers.py:374
-msgid "Is level 2 menu persist?"
-msgstr ""
-
-#: cpskin.core/cpskin/core/interfaces.py:69
-#: cpskin.core/cpskin/core/setuphandlers.py:389
-msgid "Is the front page slider automatically play?"
-msgstr ""
-
-#: cpskin.core/cpskin/core/browser/controlpanel.py:78
-msgid "Lets you change the settings of CPSkin"
-msgstr ""
-
-#: cpskin.core/cpskin/core/interfaces.py:54
-#: cpskin.core/cpskin/core/setuphandlers.py:358
-msgid "Load page menu"
-msgstr ""
-
-#: cpskin.core/cpskin/core/browser/sendtomanager.py:100
-msgid "Mail sent."
-msgstr ""
-
-#: cpskin.core/cpskin/core/browser/media.py:84
-msgid "Multimedia viewlet disabled for content"
-msgstr ""
-
-#: cpskin.core/cpskin/core/browser/media.py:66
-msgid "Multimedia viewlet enabled on content"
-msgstr ""
-
-#: cpskin.core/cpskin/core/interfaces.py:83
-msgid "Name of city is used in some templates."
-msgstr ""
-
-#: cpskin.core/cpskin/core/interfaces.py:76
-msgid "Number of milliseconds between each transition."
-msgstr ""
-
-#: cpskin.core/cpskin/core/setuphandlers.py:404
-msgid "Number of seconds between each transition."
-msgstr ""
-
-#: cpskin.core/cpskin/core/interfaces.py:75
-#: cpskin.core/cpskin/core/setuphandlers.py:403
-msgid "Slider timer"
-msgstr ""
-
-#: cpskin.core/cpskin/core/interfaces.py:89
-#: cpskin.core/cpskin/core/setuphandlers.py:440
-msgid "Slider type"
-msgstr ""
-
-#: cpskin.core/cpskin/core/interfaces.py:90
-msgid "Slider type (slider_view / slider_view_vertical)."
-msgstr ""
-
-#: cpskin.core/cpskin/core/interfaces.py:61
-#: cpskin.core/cpskin/core/setuphandlers.py:373
-msgid "Sub menu persistence"
-msgstr ""
-
-#: cpskin.core/cpskin/core/browser/sendtomanager.py:94
-msgid "Unable to send mail."
-msgstr ""
-
-#: cpskin.core/cpskin/core/browser/folderview.py:80
-msgid "Vue index avec collections configurée."
-msgstr ""
-
-#. Default: "Error reported"
-#: cpskin.core/cpskin/core/browser/sendtomanager.py:57
-msgid "error_reported"
-msgstr ""
-
-#. Default: "Quoi ?"
+#. Default: "What"
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:24
 msgid "event_what"
 msgstr ""
 
-#. Default: "Quand ?"
+#. Default: "When"
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:32
 msgid "event_when"
 msgstr ""
 
@@ -162,97 +60,27 @@ msgstr ""
 msgid "event_where"
 msgstr ""
 
-#. Default: "Report an error or missing information."
-#: cpskin.core/cpskin/core/browser/interfaces.py:24
-msgid "help_comment"
+#. Default: "Visit external website"
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:77
+msgid "external_website"
 msgstr ""
 
-#. Default: "Hidden Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:22
-#: cpskin.core/cpskin/core/extender.py:95
-msgid "help_hidden_tags"
+#. Default: "Add event to calendar"
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:85
+msgid "heading_add_to_calendar"
 msgstr ""
 
-#. Default: "I Am Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:63
-#: cpskin.core/cpskin/core/extender.py:65
-msgid "help_iam_tags"
+#. Default: "iCal"
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:94
+msgid "label_add_to_ical"
 msgstr ""
 
-#. Default: "I Search Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:43
-#: cpskin.core/cpskin/core/extender.py:80
-msgid "help_isearch_tags"
+#. Default: "Event details"
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:12
+msgid "summary_event_details"
 msgstr ""
 
-#. Default: "Your email address."
-#: cpskin.core/cpskin/core/browser/interfaces.py:16
-msgid "help_send_from"
+#. Default: "Download this event in iCal format"
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:88
+msgid "title_add_to_ical"
 msgstr ""
-
-#. Default: "Standard Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/extender.py:50
-msgid "help_standard_tags"
-msgstr ""
-
-#. Default: "Change request"
-#: cpskin.core/cpskin/core/browser/interfaces.py:22
-msgid "label_comment"
-msgstr ""
-
-#. Default: "Hidden Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:21
-#: cpskin.core/cpskin/core/extender.py:94
-msgid "label_hidden_tags"
-msgstr ""
-
-#. Default: "I Am Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:62
-#: cpskin.core/cpskin/core/extender.py:64
-msgid "label_iam_tags"
-msgstr ""
-
-#. Default: "I Search Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:42
-#: cpskin.core/cpskin/core/extender.py:79
-msgid "label_isearch_tags"
-msgstr ""
-
-#. Default: "Categorization"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:15
-msgid "label_schema_categorization"
-msgstr ""
-
-#. Default: "Send"
-#: cpskin.core/cpskin/core/browser/sendtomanager.py:38
-msgid "label_send"
-msgstr ""
-
-#. Default: "From"
-#: cpskin.core/cpskin/core/browser/interfaces.py:14
-msgid "label_send_from"
-msgstr ""
-
-#. Default: "Standard Tags"
-#: cpskin.core/cpskin/core/extender.py:49
-msgid "label_standard_tags"
-msgstr ""
-
-#. Default: "Merci de fournir le maximum d'information ainsi que tout renseignement qui permette de la valider (source)."
-#: cpskin.core/cpskin/core/browser/sendtomanager.py:30
-msgid "provide_maximum_informations"
-msgstr ""
-
-#. Default: "Report an error to the site manager"
-#: cpskin.core/cpskin/core/browser/sendtomanager.py:27
-msgid "report_error_to_site_manager"
-msgstr ""
-
-#: cpskin.core/cpskin/core/interfaces.py:92
-msgid "slider_view"
-msgstr ""
-
-#: cpskin.core/cpskin/core/interfaces.py:92
-msgid "slider_view_vertical"
-msgstr ""
-
