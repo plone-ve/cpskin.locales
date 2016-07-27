@@ -9,11 +9,15 @@ Locales package for cpskin
 Usage
 =====
 
-To generate and merge translations (there are 2 domains), run ::
+To generate and merge translations (there are 3 domains), run ::
 
     bin/i18n plone
     bin/i18n cpskin
     bin/i18n plone.app.event
+
+Be aware that all .py files are excluded of plone and plone.app.event domains
+and that cpskin.agenda is the only package included when generating
+plone.app.event domain files.
 
 
 Tests
