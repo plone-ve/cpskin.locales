@@ -125,15 +125,15 @@ msgstr "Contenu retiré de la vue index."
 
 #: cpskin.agenda/cpskin/agenda/faceted/widgets/simpledate/widget.pt:20
 msgid "Date"
-msgstr ""
+msgstr "Date"
 
 #: cpskin.agenda/cpskin/agenda/faceted/widgets/daterange/widget.py:14
 msgid "Date range for events"
-msgstr ""
+msgstr "Intervalle de dates pour les événements"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Disable navigation toggle"
-msgstr ""
+msgstr "Désactiver la navigation toggle"
 
 #: cpskin.minisite/cpskin/minisite/minisite_in_minisite.pt:5
 msgid "Display in ${portal_url}"
@@ -141,7 +141,7 @@ msgstr "Afficher ces pages dans ${portal_url}"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Enable navigation toggle"
-msgstr ""
+msgstr "Activer la navigation toggle"
 
 #: cpskin.core/cpskin/core/browser/configure.zcml:143
 msgid "Faceted items leadimage"
@@ -426,7 +426,7 @@ msgstr "Montrer le menu de navigation horizontal des minisites"
 
 #: cpskin.agenda/cpskin/agenda/faceted/widgets/simpledate/widget.py:23
 msgid "Simple date for events"
-msgstr ""
+msgstr "Date simple pour les événements"
 
 #: cpskin.core/cpskin/core/viewlets/footer.pt:4
 msgid "Site r&eacute;alis&eacute; en collaboration avec"

@@ -4,7 +4,7 @@ Changelog
 0.5.5 (unreleased)
 ------------------
 
-- Regenerate translations (with cleanup)
+- Regenerate and add new translations (with cleanup)
   [laulaz]
 
 - Improve handling of translations that appeared in all domains by :
