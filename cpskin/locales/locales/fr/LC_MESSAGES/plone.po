@@ -319,12 +319,12 @@ msgstr ""
 #. Default: "Last week"
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:209
 msgid "time_last_week"
-msgstr ""
+msgstr "La semaine dernière"
 
 #. Default: "Yesterday"
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:201
 msgid "time_yesterday"
-msgstr ""
+msgstr "Hier"
 
 #. Default: "Mini Site"
 #: cpskin.minisite/cpskin/minisite/profiles/default/portlets.xml

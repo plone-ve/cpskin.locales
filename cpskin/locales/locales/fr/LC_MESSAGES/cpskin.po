@@ -105,7 +105,7 @@ msgstr "Configuration de la vue index"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:36
 msgid "Contact"
-msgstr ""
+msgstr "Contact"
 
 #: cpskin.menu/cpskin/menu/browser/directaccessview.py:79
 msgid "Content added to direct access menu"
@@ -145,7 +145,7 @@ msgstr "Activer la navigation toggle"
 
 #: cpskin.core/cpskin/core/browser/configure.zcml:143
 msgid "Faceted items leadimage"
-msgstr ""
+msgstr "Leadimage pour faceted"
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "Hidden Tag"
@@ -157,7 +157,7 @@ msgstr "Les mots clés cachés permettent au webmaster de faciliter l'organisati
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:61
 msgid "Hidden keywords"
-msgstr ""
+msgstr "Mot clés cachés"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Hide banner"
@@ -197,7 +197,7 @@ msgstr "Les mots clés cachés - Je trouve - permettent d'afficher des élément
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:15
 msgid "Index view"
-msgstr ""
+msgstr "Vue index"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Indicate an error"
@@ -205,7 +205,7 @@ msgstr "Signale une erreur"
 
 #: cpskin.policy/cpskin/policy/profiles.zcml:40
 msgid "Install CPSkin policy with dexterity"
-msgstr ""
+msgstr "Installer CPSkin policy avec dexterity"
 
 #: cpskin.agenda/cpskin/agenda/profiles.zcml:14
 msgid "Installs CPSkin agenda"
@@ -329,11 +329,11 @@ msgstr "Le nom de la ville peut être utile dans le site."
 
 #: cpskin.core/cpskin/core/browser/navigation.py:88
 msgid "Navigation toggle disabled for folder"
-msgstr ""
+msgstr "Désactiver la navigation toogle pour ce dossier"
 
 #: cpskin.core/cpskin/core/browser/navigation.py:79
 msgid "Navigation toggle enabled for folder"
-msgstr ""
+msgstr "Activer la navigation toogle pour ce dossier"
 
 #: cpskin.core/cpskin/core/interfaces.py:76
 msgid "Number of milliseconds between each transition."
@@ -345,19 +345,19 @@ msgstr "Nombre de millisecondes entre chaque transition."
 
 #: cpskin.agenda/cpskin/agenda/behaviors/configure.zcml:15
 msgid "Optional special schedule details for event."
-msgstr ""
+msgstr "Détail de l'horaire particulier pour cet événement"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:27
 msgid "Organizer"
-msgstr ""
+msgstr "Organisateur"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:47
 msgid "Partner"
-msgstr ""
+msgstr "Partenaire"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:45
 msgid "Partners"
-msgstr ""
+msgstr "Partenaires"
 
 #: cpskin.minisite/cpskin/minisite/minisites_panel.pt:32
 msgid "Path ${search_path}<br /> Domain ${domain}<br /> <span class=\"discreet\">in file ${filename}</span>"
@@ -366,11 +366,11 @@ msgstr ""
 #: cpskin.core/cpskin/core/behaviors/indexview.py:29
 #: cpskin.core/cpskin/core/behaviors/metadata.py:131
 msgid "Please select which fields should be visible."
-msgstr ""
+msgstr "Sélectionner les champs qui seront visibles"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:62
 msgid "Please select which hidden keywords is use by collections for             index view."
-msgstr ""
+msgstr "Sélectionner quel champ caché est utilisé par la collection de la vue index"
 
 #: cpskin.core/cpskin/core/setuphandlers.py:490
 msgid "Please select which hidden keywords is use by collections for homepage."
@@ -378,7 +378,7 @@ msgstr "Veuiller séléctionner quel(s) mot(s) clé(s) caché(s) doi(ven)t être
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:73
 msgid "Please write which taxonomy id should be used."
-msgstr ""
+msgstr "Inscriver quel identifiant de taxonomy est utilisé."
 
 #: cpskin.minisite/cpskin/minisite/minisites_panel.pt:19
 msgid "Read-only list of minisites."
@@ -386,11 +386,11 @@ msgstr "Liste des minisites en lecture seule"
 
 #: cpskin.core/cpskin/core/behaviors/metadata.py:120
 msgid "Related"
-msgstr ""
+msgstr "Lié"
 
 #: cpskin.core/cpskin/core/behaviors/metadata.py:111
 msgid "Related contacts"
-msgstr ""
+msgstr "Contacts liés"
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Remove direct access"
@@ -406,7 +406,7 @@ msgstr "Retirer ce contenu de la vue"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/configure.zcml:15
 msgid "Schedule details"
-msgstr ""
+msgstr "Détail de l'horaire"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Show banner"
@@ -477,7 +477,7 @@ msgstr "Texte"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:52
 msgid "Text for link to collection"
-msgstr ""
+msgstr "Texte utilisé pour le lien vers la collection"
 
 #: cpskin.minisite/cpskin/minisite/minisites_panel.pt:17
 msgid "There are no mini sites configured."
@@ -485,7 +485,7 @@ msgstr "Aucun mini site n'est configuré"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:53
 msgid "This text will be visible on index view for link to this collection"
-msgstr ""
+msgstr "Ce texte sera visible sur la vue index pour le lien vers cette collection"
 
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:94
 msgid "Unable to send mail."
@@ -525,19 +525,19 @@ msgstr "Utiliser les grandes images"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/configure.zcml:22
 msgid "Use location, organizer, contact and partners fields with a related field from collective.contact suite."
-msgstr ""
+msgstr "Utiliser la location, l'organisateur, le contact et le partenaire avec des liens vers un contact de collective.contact"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/configure.zcml:22
 msgid "Use related contacts fields for Event"
-msgstr ""
+msgstr "Utiliser les liens vers les contacts pour le événements"
 
 #: cpskin.core/cpskin/core/behaviors/metadata.py:130
 msgid "Visible fields for above viewlet"
-msgstr ""
+msgstr "Champs visible dans la viewlet du dessus"
 
 #: cpskin.core/cpskin/core/behaviors/metadata.py:154
 msgid "Visible fields for below viewlet"
-msgstr ""
+msgstr "Champs visible dans la viewlet du dessous"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:55
 #: cpskin.core/cpskin/core/browser/folderview.py:314
@@ -566,7 +566,7 @@ msgstr "Quelle taille d'image faut-il utiliser pour l'image slider ?"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:72
 msgid "Which taxonomy id should be use to display category"
-msgstr ""
+msgstr "Quel identifiant de taxonomy doit étre utiliser pour voir la catégory sur la vue index"
 
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:37
 msgid "add a collection portlet with slider view"
@@ -808,7 +808,7 @@ msgstr "Mots clés cachés : Je cherche"
 #. Default: "Categorization"
 #: cpskin.core/cpskin/core/behaviors/metadata.py:18
 msgid "label_schema_categorization"
-msgstr ""
+msgstr "Catégorisation"
 
 #. Default: "Send"
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:38

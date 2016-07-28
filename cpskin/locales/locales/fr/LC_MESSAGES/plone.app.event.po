@@ -16,33 +16,33 @@ msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:50
 msgid "All dates"
-msgstr ""
+msgstr "Toutes les dates"
 
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:106
 msgid "Contact"
-msgstr ""
+msgstr "Contact"
 
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:110
 msgid "Location"
-msgstr ""
+msgstr "Location"
 
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:102
 msgid "Organizer"
-msgstr ""
+msgstr "Organisateur"
 
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:115
 msgid "Partners"
-msgstr ""
+msgstr "Parteners"
 
 #. Default: "Event"
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:16
 msgid "event_event"
-msgstr ""
+msgstr "Evénement"
 
 #. Default: "Web"
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:75
 msgid "event_url"
-msgstr ""
+msgstr "URL"
 
 #. Default: "What"
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:24
@@ -63,24 +63,24 @@ msgstr "Où ?"
 #. Default: "Visit external website"
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:77
 msgid "external_website"
-msgstr ""
+msgstr "Visiter le site externe"
 
 #. Default: "Add event to calendar"
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:85
 msgid "heading_add_to_calendar"
-msgstr ""
+msgstr "Ajouter un événement au calendrier"
 
 #. Default: "iCal"
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:94
 msgid "label_add_to_ical"
-msgstr ""
+msgstr "iCal"
 
 #. Default: "Event details"
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:12
 msgid "summary_event_details"
-msgstr ""
+msgstr "Détail de l'événement"
 
 #. Default: "Download this event in iCal format"
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:88
 msgid "title_add_to_ical"
-msgstr ""
+msgstr "Télécharger cet événement au format iCal"
