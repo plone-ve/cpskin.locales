@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.5 (unreleased)
+0.5.5 (2016-07-28)
 ------------------
 
 - Regenerate and add new translations (with cleanup)
