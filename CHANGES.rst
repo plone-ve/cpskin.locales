@@ -4,7 +4,8 @@ Changelog
 0.5.6 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Fix translation sentences
+  [laulaz]
 
 
 0.5.5 (2016-07-28)

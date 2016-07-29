@@ -329,11 +329,11 @@ msgstr "Le nom de la ville peut être utile dans le site."
 
 #: cpskin.core/cpskin/core/browser/navigation.py:88
 msgid "Navigation toggle disabled for folder"
-msgstr "Désactiver la navigation toogle pour ce dossier"
+msgstr "Navigation toogle désactivée pour ce dossier"
 
 #: cpskin.core/cpskin/core/browser/navigation.py:79
 msgid "Navigation toggle enabled for folder"
-msgstr "Activer la navigation toogle pour ce dossier"
+msgstr "Navigation toogle activée pour ce dossier"
 
 #: cpskin.core/cpskin/core/interfaces.py:76
 msgid "Number of milliseconds between each transition."
