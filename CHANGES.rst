@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.6 (unreleased)
+0.5.6 (2016-08-01)
 ------------------
 
 - Fix translation sentences
