@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-07-27 15:51+0000\n"
+"POT-Creation-Date: 2016-09-15 10:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,6 +18,11 @@ msgstr ""
 msgid "- Essentially a workflow with no transitions, with a private state. Owner cannot modify."
 msgstr ""
 
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_collective_contact_workflow/definition.xml
+#: cpskin.workflow/cpskin/workflow/upgrades/to1/workflows/cpskin_collective_contact_workflow/definition.xml
+msgid "- Simple workflow with Created and Published states for collective.contact contents. - Anonymous users can view published contents"
+msgstr ""
+
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 msgid "- Used for CPSkin site - Has four states: Created, Pending, Published and hidden (from navigation) and Published and shown (in navigation)"
 msgstr ""
@@ -26,6 +31,7 @@ msgstr ""
 msgid "- Used for CPSkin site - Has four states: Created, Private, Published and hidden (from navigation) and Published and shown (in navigation)"
 msgstr ""
 
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_collective_contact_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "Back to created"
@@ -33,6 +39,11 @@ msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 msgid "Back to pending"
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_collective_contact_workflow/definition.xml
+#: cpskin.workflow/cpskin/workflow/upgrades/to1/workflows/cpskin_collective_contact_workflow/definition.xml
+msgid "CPSkin custom collective.contact Workflow"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
@@ -56,6 +67,7 @@ msgstr ""
 msgid "Comment about the last transition"
 msgstr ""
 
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_collective_contact_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "Created"
@@ -114,6 +126,11 @@ msgstr ""
 msgid "Provides access to workflow history"
 msgstr ""
 
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_collective_contact_workflow/definition.xml
+#: cpskin.workflow/cpskin/workflow/upgrades/to1/workflows/cpskin_collective_contact_workflow/definition.xml
+msgid "Publish"
+msgstr ""
+
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "Publish and hide"
@@ -130,6 +147,11 @@ msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 msgid "Publish and show from pending"
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_collective_contact_workflow/definition.xml
+#: cpskin.workflow/cpskin/workflow/upgrades/to1/workflows/cpskin_collective_contact_workflow/definition.xml
+msgid "Published"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
@@ -217,6 +239,10 @@ msgstr ""
 msgid "cpskin.menu persistence"
 msgstr ""
 
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
+msgid "created"
+msgstr ""
+
 #. Default: "A portlet which shows minisite link"
 #: cpskin.minisite/cpskin/minisite/profiles/default/portlets.xml
 msgid "description_minisite_portlet"
@@ -239,7 +265,7 @@ msgstr ""
 #. Default: "Navigation"
 #: cpskin.menu/cpskin/menu/browser/menu.pt:8
 #: cpskin.menu/cpskin/menu/overrides/plone.app.layout.viewlets.sections.pt:4
-#: cpskin.minisite/cpskin/minisite/minisite_menu.pt:4
+#: cpskin.minisite/cpskin/minisite/minisite_menu.pt:6
 msgid "heading_sections"
 msgstr ""
 
@@ -282,6 +308,14 @@ msgstr ""
 #. Default: "Filter the results."
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:116
 msgid "narrow_search_options"
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
+msgid "published_and_hidden"
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
+msgid "published_and_shown"
 msgstr ""
 
 #. Default: "Sort by"
