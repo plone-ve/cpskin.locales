@@ -314,11 +314,11 @@ msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "published_and_hidden"
-msgstr "Publier hors navigation"
+msgstr "Publié hors navigation"
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "published_and_shown"
-msgstr "Publier dans la navigation"
+msgstr "Publié dans la navigation"
 
 #. Default: "Sort by"
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:247
