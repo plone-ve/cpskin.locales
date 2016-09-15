@@ -4,7 +4,8 @@ Changelog
 0.5.7 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add missing translations for review states
+  [mpeeters]
 
 
 0.5.6 (2016-08-01)

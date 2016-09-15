@@ -243,7 +243,7 @@ msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "created"
-msgstr ""
+msgstr "En création"
 
 #. Default: "A portlet which shows minisite link"
 #: cpskin.minisite/cpskin/minisite/profiles/default/portlets.xml
@@ -314,11 +314,11 @@ msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "published_and_hidden"
-msgstr ""
+msgstr "Publier hors navigation"
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "published_and_shown"
-msgstr ""
+msgstr "Publier dans la navigation"
 
 #. Default: "Sort by"
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:247
