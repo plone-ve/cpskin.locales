@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.7 (unreleased)
+0.5.7 (2016-10-05)
 ------------------
 
 - Add transalation for set-geo-contents-form.
