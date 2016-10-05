@@ -24,7 +24,7 @@ msgstr ""
 msgid "4th level navigation enabled on content"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:404
+#: cpskin.core/cpskin/core/browser/folderview.py:436
 #: cpskin.policy/cpskin/policy/setuphandlers.py:135
 msgid "Actualités"
 msgstr ""
@@ -42,7 +42,7 @@ msgid "Add direct access"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:68
-#: cpskin.core/cpskin/core/setuphandlers.py:413
+#: cpskin.core/cpskin/core/setuphandlers.py:414
 msgid "Auto play slider"
 msgstr ""
 
@@ -66,12 +66,24 @@ msgstr ""
 msgid "Banner enabled on content and sub-contents"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:263
+#: cpskin.core/cpskin/core/browser/folderview.py:286
 msgid "Big images are not used anymore on this folder view."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:254
+#: cpskin.core/cpskin/core/browser/folderview.py:277
 msgid "Big images are now used on this folder view."
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles.zcml:42
+msgid "CPSKIN Core: upgrade to v17"
+msgstr ""
+
+#: cpskin.menu/cpskin/menu/meta.zcml:49
+msgid "CPSKIN Menu: upgrade to v1005"
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/configure.zcml:73
+msgid "CPSKIN Workflow: upgrade to v1"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/controlpanel.xml
@@ -82,16 +94,16 @@ msgstr ""
 msgid "CPSkin settings"
 msgstr ""
 
-#: cpskin.core/cpskin/core/setuphandlers.py:471
+#: cpskin.core/cpskin/core/setuphandlers.py:472
 msgid "Choose an horizontal or vertical slider."
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:82
-#: cpskin.core/cpskin/core/setuphandlers.py:452
+#: cpskin.core/cpskin/core/setuphandlers.py:453
 msgid "City name"
 msgstr ""
 
-#: cpskin.core/cpskin/core/setuphandlers.py:453
+#: cpskin.core/cpskin/core/setuphandlers.py:454
 msgid "City name variable used in some template."
 msgstr ""
 
@@ -115,11 +127,19 @@ msgstr ""
 msgid "Content removed from direct access menu"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:196
+#: cpskin.core/cpskin/core/browser/form.py:22
+msgid "Content type"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/form.py:26
+msgid "Content types"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/folderview.py:219
 msgid "Contenu ajouté à la vue index."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:204
+#: cpskin.core/cpskin/core/browser/folderview.py:227
 msgid "Contenu retiré de la vue index."
 msgstr ""
 
@@ -175,7 +195,7 @@ msgstr ""
 msgid "Hide minisite horizontal navigation menu"
 msgstr ""
 
-#: cpskin.core/cpskin/core/setuphandlers.py:489
+#: cpskin.core/cpskin/core/setuphandlers.py:490
 msgid "Homepage keywords"
 msgstr ""
 
@@ -251,7 +271,7 @@ msgstr ""
 msgid "Installs the cpskin.menu package"
 msgstr ""
 
-#: cpskin.minisite/cpskin/minisite/configure.zcml:21
+#: cpskin.minisite/cpskin/minisite/configure.zcml:22
 msgid "Installs the cpskin.minisite package"
 msgstr ""
 
@@ -260,17 +280,17 @@ msgid "Installs the cpskin.slider package"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:55
-#: cpskin.core/cpskin/core/setuphandlers.py:381
+#: cpskin.core/cpskin/core/setuphandlers.py:382
 msgid "Is level 1 menu load page at click?"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:62
-#: cpskin.core/cpskin/core/setuphandlers.py:398
+#: cpskin.core/cpskin/core/setuphandlers.py:399
 msgid "Is level 2 menu persist?"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:69
-#: cpskin.core/cpskin/core/setuphandlers.py:414
+#: cpskin.core/cpskin/core/setuphandlers.py:415
 msgid "Is the front page slider automatically play?"
 msgstr ""
 
@@ -283,7 +303,7 @@ msgid "Links in social viewlet"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:54
-#: cpskin.core/cpskin/core/setuphandlers.py:380
+#: cpskin.core/cpskin/core/setuphandlers.py:381
 msgid "Load page menu"
 msgstr ""
 
@@ -327,11 +347,11 @@ msgstr ""
 msgid "Name of city is used in some templates."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/navigation.py:88
+#: cpskin.core/cpskin/core/browser/navigation.py:92
 msgid "Navigation toggle disabled for folder"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/navigation.py:79
+#: cpskin.core/cpskin/core/browser/navigation.py:81
 msgid "Navigation toggle enabled for folder"
 msgstr ""
 
@@ -339,7 +359,7 @@ msgstr ""
 msgid "Number of milliseconds between each transition."
 msgstr ""
 
-#: cpskin.core/cpskin/core/setuphandlers.py:431
+#: cpskin.core/cpskin/core/setuphandlers.py:432
 msgid "Number of seconds between each transition."
 msgstr ""
 
@@ -372,7 +392,7 @@ msgstr ""
 msgid "Please select which hidden keywords is use by collections for             index view."
 msgstr ""
 
-#: cpskin.core/cpskin/core/setuphandlers.py:490
+#: cpskin.core/cpskin/core/setuphandlers.py:491
 msgid "Please select which hidden keywords is use by collections for homepage."
 msgstr ""
 
@@ -433,12 +453,12 @@ msgid "Site r&eacute;alis&eacute; en collaboration avec"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:75
-#: cpskin.core/cpskin/core/setuphandlers.py:430
+#: cpskin.core/cpskin/core/setuphandlers.py:431
 msgid "Slider timer"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:89
-#: cpskin.core/cpskin/core/setuphandlers.py:470
+#: cpskin.core/cpskin/core/setuphandlers.py:471
 msgid "Slider type"
 msgstr ""
 
@@ -463,11 +483,11 @@ msgid "Stop using big images"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:61
-#: cpskin.core/cpskin/core/setuphandlers.py:397
+#: cpskin.core/cpskin/core/setuphandlers.py:398
 msgid "Sub menu persistence"
 msgstr ""
 
-#: cpskin.minisite/cpskin/minisite/testing.zcml:17
+#: cpskin.minisite/cpskin/minisite/testing.zcml:18
 msgid "Tests the cpskin.minisite package"
 msgstr ""
 
@@ -485,6 +505,10 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:53
 msgid "This text will be visible on index view for link to this collection"
+msgstr ""
+
+#: cpskin.agenda/cpskin/agenda/faceted/views/preview-events.pt:46
+msgid "Un maximum de ${limit} jours comprenant des &eacute;v&eacute;nements est affich&eacute;."
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:94
@@ -511,7 +535,7 @@ msgstr ""
 msgid "Uninstalls the cpskin.menu package"
 msgstr ""
 
-#: cpskin.minisite/cpskin/minisite/configure.zcml:29
+#: cpskin.minisite/cpskin/minisite/configure.zcml:30
 msgid "Uninstalls the cpskin.minisite package"
 msgstr ""
 
@@ -540,16 +564,20 @@ msgid "Visible fields for below viewlet"
 msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:55
-#: cpskin.core/cpskin/core/browser/folderview.py:314
+#: cpskin.core/cpskin/core/browser/folderview.py:337
 msgid "Voir l'ensemble des"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:80
+#: cpskin.core/cpskin/core/browser/folderview.py:84
 msgid "Vue index avec collections configurée."
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/configure.zcml:126
 msgid "Vue index avec collections et slider"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/form.py:23
+msgid "Which content type should be set latitude and longitude"
 msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:44
@@ -590,7 +618,7 @@ msgstr ""
 msgid "cpskin.core"
 msgstr ""
 
-#: cpskin.core/cpskin/core/profiles.zcml:179
+#: cpskin.core/cpskin/core/profiles.zcml:209
 msgid "cpskin.core: init"
 msgstr ""
 
@@ -606,16 +634,24 @@ msgstr ""
 msgid "cpskin.menu"
 msgstr ""
 
+#: cpskin.menu/cpskin/menu/meta.zcml:49
+msgid "cpskin.menu: migrate to 1005"
+msgstr ""
+
 #: cpskin.menu/cpskin/menu/meta.zcml:30
 msgid "cpskin.menu: uninstall"
 msgstr ""
 
-#: cpskin.minisite/cpskin/minisite/configure.zcml:21
-#: cpskin.minisite/cpskin/minisite/testing.zcml:17
+#: cpskin.minisite/cpskin/minisite/configure.zcml:22
+#: cpskin.minisite/cpskin/minisite/testing.zcml:18
 msgid "cpskin.minisite"
 msgstr ""
 
-#: cpskin.minisite/cpskin/minisite/configure.zcml:29
+#: cpskin.minisite/cpskin/minisite/configure.zcml:38
+msgid "cpskin.minisite: migrate to 0003"
+msgstr ""
+
+#: cpskin.minisite/cpskin/minisite/configure.zcml:30
 msgid "cpskin.minisite: uninstall"
 msgstr ""
 
@@ -689,25 +725,30 @@ msgid "error_reported"
 msgstr ""
 
 #. Default: "à"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:87
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:92
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:48
 msgid "evenement_a"
 msgstr ""
 
+#. Default: "à"
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:86
+msgid "evenement_a_lheure"
+msgstr ""
+
 #. Default: "au"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:94
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:100
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:54
 msgid "evenement_au"
 msgstr ""
 
 #. Default: "de"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:85
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:90
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:46
 msgid "evenement_de"
 msgstr ""
 
 #. Default: "du"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:92
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:98
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:52
 msgid "evenement_du"
 msgstr ""
@@ -765,6 +806,11 @@ msgstr ""
 #. Default: "Change request"
 #: cpskin.core/cpskin/core/browser/interfaces.py:22
 msgid "label_comment"
+msgstr ""
+
+#. Default: "Configurations"
+#: cpskin.core/cpskin/core/menu/menu.py:18
+msgid "label_cpskin_configurations_menu"
 msgstr ""
 
 #. Default: "Filed under hidden tag:"
@@ -839,6 +885,11 @@ msgstr ""
 msgid "modifier_zone_statique"
 msgstr ""
 
+#. Default: "Il y a ${results} occurrence(s) en plus."
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.py:51
+msgid "msg_num_more_occurrences"
+msgstr ""
+
 #. Default: "On the page"
 #: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:14
 msgid "on_the_page"
@@ -886,6 +937,11 @@ msgstr ""
 msgid "string:http://fr.wikipedia.org/wiki/Free_Software_Foundation"
 msgstr ""
 
+#. Default: "Configurations for the current content item"
+#: cpskin.core/cpskin/core/menu/menu.py:19
+msgid "title_cpskin_actions_menu"
+msgstr ""
+
 #. Default: "Visuel"
 #: cpskin.core/cpskin/core/portlets/photo.pt:4
 msgid "visuel"
@@ -896,12 +952,12 @@ msgstr ""
 msgid "with_the_following_comment"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:382
+#: cpskin.core/cpskin/core/browser/folderview.py:414
 #: cpskin.policy/cpskin/policy/setuphandlers.py:226
 msgid "À la une"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:429
+#: cpskin.core/cpskin/core/browser/folderview.py:461
 #: cpskin.policy/cpskin/policy/setuphandlers.py:175
 msgid "Événements"
 msgstr ""

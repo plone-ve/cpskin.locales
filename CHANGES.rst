@@ -4,6 +4,9 @@ Changelog
 0.5.7 (unreleased)
 ------------------
 
+- Add transalation for set-geo-contents-form.
+  [bsuttor]
+
 - Add missing translations for review states
   [mpeeters]
 

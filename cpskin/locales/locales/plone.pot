@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2016-09-15 10:07+0000\n"
+"POT-Creation-Date: 2016-10-05 09:54+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -87,7 +87,7 @@ msgstr ""
 msgid "I Search Tags"
 msgstr ""
 
-#: cpskin.menu/cpskin/menu/testing.zcml:18
+#: cpskin.menu/cpskin/menu/testing.zcml:17
 msgid "Installs the cpskin.menu package"
 msgstr ""
 
@@ -225,19 +225,19 @@ msgstr ""
 msgid "box_published"
 msgstr ""
 
-#: cpskin.menu/cpskin/menu/testing.zcml:18
+#: cpskin.menu/cpskin/menu/testing.zcml:17
 msgid "cpskin.menu"
 msgstr ""
 
-#: cpskin.menu/cpskin/menu/testing.zcml:42
+#: cpskin.menu/cpskin/menu/testing.zcml:41
 msgid "cpskin.menu load page"
 msgstr ""
 
-#: cpskin.menu/cpskin/menu/testing.zcml:34
+#: cpskin.menu/cpskin/menu/testing.zcml:33
 msgid "cpskin.menu no persistence"
 msgstr ""
 
-#: cpskin.menu/cpskin/menu/testing.zcml:26
+#: cpskin.menu/cpskin/menu/testing.zcml:25
 msgid "cpskin.menu persistence"
 msgstr ""
 
