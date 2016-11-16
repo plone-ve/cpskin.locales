@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.8 (unreleased)
+0.5.8 (2016-11-16)
 ------------------
 
 - Fix 2 typos errors.
