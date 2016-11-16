@@ -221,7 +221,7 @@ msgstr "Vue index"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Indicate an error"
-msgstr "Signale une erreur"
+msgstr "Signaler une erreur"
 
 #: cpskin.policy/cpskin/policy/profiles.zcml:40
 msgid "Install CPSkin policy with dexterity"

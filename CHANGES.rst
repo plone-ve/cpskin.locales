@@ -4,7 +4,8 @@ Changelog
 0.5.8 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Fix 2 typos errors.
+  [bsuttor]
 
 
 0.5.7 (2016-10-05)

@@ -24,7 +24,7 @@ msgstr "Contact"
 
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:110
 msgid "Location"
-msgstr "Location"
+msgstr "Où ?"
 
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:102
 msgid "Organizer"
@@ -32,7 +32,7 @@ msgstr "Organisateur"
 
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:115
 msgid "Partners"
-msgstr "Parteners"
+msgstr "Partenaires"
 
 #. Default: "Event"
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:16
