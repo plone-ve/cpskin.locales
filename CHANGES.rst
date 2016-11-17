@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.9 (unreleased)
+0.5.9 (2016-11-17)
 ------------------
 
 - Add translations for the new faceted layout widget : #14994
