@@ -47,3 +47,12 @@ msgstr ""
 #: cpskin.slider/cpskin/slider/browser/configure.zcml
 msgid "Slider view"
 msgstr ""
+
+msgid "Faceted items preview"
+msgstr ""
+
+msgid "Faceted map view"
+msgstr ""
+
+msgid "Faceted events preview"
+msgstr ""
