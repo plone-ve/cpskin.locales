@@ -14,11 +14,11 @@ msgstr ""
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: DOMAIN\n"
 
-#: cpskin.core/cpskin/core/browser/pages.py:116
+#: cpskin.core/cpskin/core/browser/pages.py:117
 msgid " de "
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/pages.py:111
+#: cpskin.core/cpskin/core/browser/pages.py:112
 msgid " à "
 msgstr ""
 
@@ -30,12 +30,12 @@ msgstr ""
 msgid "4th level navigation enabled on content"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:442
-#: cpskin.policy/cpskin/policy/setuphandlers.py:133
+#: cpskin.core/cpskin/core/browser/folderview.py:465
+#: cpskin.policy/cpskin/policy/setuphandlers.py:134
 msgid "Actualités"
 msgstr ""
 
-#: cpskin.policy/cpskin/policy/setuphandlers.py:134
+#: cpskin.policy/cpskin/policy/setuphandlers.py:135
 msgid "Actualités du site"
 msgstr ""
 
@@ -72,15 +72,15 @@ msgstr ""
 msgid "Banner enabled on content and sub-contents"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:292
+#: cpskin.core/cpskin/core/browser/folderview.py:287
 msgid "Big images are not used anymore on this folder view."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:283
+#: cpskin.core/cpskin/core/browser/folderview.py:278
 msgid "Big images are now used on this folder view."
 msgstr ""
 
-#: cpskin.core/cpskin/core/profiles.zcml:42
+#: cpskin.core/cpskin/core/profiles.zcml:33
 msgid "CPSKIN Core: upgrade to v17"
 msgstr ""
 
@@ -88,7 +88,7 @@ msgstr ""
 msgid "CPSKIN Menu: upgrade to v1005"
 msgstr ""
 
-#: cpskin.workflow/cpskin/workflow/configure.zcml:73
+#: cpskin.workflow/cpskin/workflow/configure.zcml:64
 msgid "CPSKIN Workflow: upgrade to v1"
 msgstr ""
 
@@ -133,19 +133,19 @@ msgstr ""
 msgid "Content removed from direct access menu"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/form.py:26
+#: cpskin.core/cpskin/core/browser/form.py:19
 msgid "Content type"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/form.py:30
+#: cpskin.core/cpskin/core/browser/form.py:23
 msgid "Content types"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:225
+#: cpskin.core/cpskin/core/browser/folderview.py:220
 msgid "Contenu ajouté à la vue index."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:233
+#: cpskin.core/cpskin/core/browser/folderview.py:228
 msgid "Contenu retiré de la vue index."
 msgstr ""
 
@@ -163,6 +163,18 @@ msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/minisite_in_minisite.pt:5
 msgid "Display in ${portal_url}"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:107
+msgid "Do you want to hide date on index view ?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:100
+msgid "Do you want to hide see all link on index view ?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:93
+msgid "Do you want to hide title on index view ?"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
@@ -190,12 +202,16 @@ msgstr ""
 msgid "Hidden Tags are used for webmaster organization of content"
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:61
+#: cpskin.core/cpskin/core/behaviors/indexview.py:65
 msgid "Hidden keywords"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Hide banner"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:106
+msgid "Hide date"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
@@ -208,6 +224,14 @@ msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/profiles/default/actions.xml
 msgid "Hide minisite horizontal navigation menu"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:99
+msgid "Hide see all link"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:92
+msgid "Hide title"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
@@ -234,6 +258,10 @@ msgstr ""
 msgid "Indicate an error"
 msgstr ""
 
+#: cpskin.core/cpskin/core/browser/pages.py:178
+msgid "Info : "
+msgstr ""
+
 #: cpskin.policy/cpskin/policy/profiles.zcml:31
 msgid "Install CPSkin policy with dexterity"
 msgstr ""
@@ -246,10 +274,6 @@ msgstr ""
 msgid "Installs CPSkin core"
 msgstr ""
 
-#: cpskin.core/cpskin/core/profiles.zcml:22
-msgid "Installs CPSkin core with members configuration"
-msgstr ""
-
 #: cpskin.policy/cpskin/policy/profiles.zcml:13
 msgid "Installs CPSkin policy"
 msgstr ""
@@ -258,16 +282,8 @@ msgstr ""
 msgid "Installs CPSkin theme"
 msgstr ""
 
-#: cpskin.theme/cpskin/theme/profiles.zcml:22
-msgid "Installs CPSkin theme with members configuration"
-msgstr ""
-
 #: cpskin.workflow/cpskin/workflow/configure.zcml:43
 msgid "Installs CPSkin workflows"
-msgstr ""
-
-#: cpskin.workflow/cpskin/workflow/configure.zcml:52
-msgid "Installs CPSkin workflows with members configuration"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/configure.zcml
@@ -366,6 +382,10 @@ msgstr ""
 msgid "Navigation toggle enabled for folder"
 msgstr ""
 
+#: cpskin.core/cpskin/core/behaviors/indexview.py:84
+msgid "Number of items that will show up in one homepage."
+msgstr ""
+
 #: cpskin.core/cpskin/core/interfaces.py:76
 msgid "Number of milliseconds between each transition."
 msgstr ""
@@ -382,6 +402,10 @@ msgstr ""
 msgid "Organizer"
 msgstr ""
 
+#: cpskin.core/cpskin/core/browser/pages.py:185
+msgid "Où ?"
+msgstr ""
+
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:47
 msgid "Partner"
 msgstr ""
@@ -394,16 +418,16 @@ msgstr ""
 msgid "Path ${search_path}<br /> Domain ${domain}<br /> <span class=\"discreet\">in file ${filename}</span>"
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:29
-#: cpskin.core/cpskin/core/behaviors/metadata.py:131
+#: cpskin.core/cpskin/core/behaviors/indexview.py:33
+#: cpskin.core/cpskin/core/behaviors/metadata.py:132
 msgid "Please select which fields should be visible."
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:62
+#: cpskin.core/cpskin/core/behaviors/indexview.py:66
 msgid "Please select which hidden keywords is use by collections for             index view."
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:73
+#: cpskin.core/cpskin/core/behaviors/indexview.py:77
 msgid "Please write which taxonomy id should be used."
 msgstr ""
 
@@ -411,11 +435,11 @@ msgstr ""
 msgid "Read-only list of minisites."
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/metadata.py:120
+#: cpskin.core/cpskin/core/behaviors/metadata.py:121
 msgid "Related"
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/metadata.py:111
+#: cpskin.core/cpskin/core/behaviors/metadata.py:112
 msgid "Related contacts"
 msgstr ""
 
@@ -455,7 +479,7 @@ msgstr ""
 msgid "Simple date for events"
 msgstr ""
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:4
+#: cpskin.core/cpskin/core/viewlets/footer.pt:9
 msgid "Site r&eacute;alis&eacute; en collaboration avec"
 msgstr ""
 
@@ -502,7 +526,7 @@ msgstr ""
 msgid "Text"
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:52
+#: cpskin.core/cpskin/core/behaviors/indexview.py:56
 msgid "Text for link to collection"
 msgstr ""
 
@@ -510,7 +534,7 @@ msgstr ""
 msgid "There are no mini sites configured."
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:53
+#: cpskin.core/cpskin/core/behaviors/indexview.py:57
 msgid "This text will be visible on index view for link to this collection"
 msgstr ""
 
@@ -522,7 +546,7 @@ msgstr ""
 msgid "Unable to send mail."
 msgstr ""
 
-#: cpskin.core/cpskin/core/profiles.zcml:31
+#: cpskin.core/cpskin/core/profiles.zcml:22
 msgid "Uninstalls CPSkin core"
 msgstr ""
 
@@ -530,11 +554,11 @@ msgstr ""
 msgid "Uninstalls CPSkin policy"
 msgstr ""
 
-#: cpskin.theme/cpskin/theme/profiles.zcml:31
+#: cpskin.theme/cpskin/theme/profiles.zcml:22
 msgid "Uninstalls CPSkin theme"
 msgstr ""
 
-#: cpskin.workflow/cpskin/workflow/configure.zcml:61
+#: cpskin.workflow/cpskin/workflow/configure.zcml:52
 msgid "Uninstalls CPSkin workflows"
 msgstr ""
 
@@ -566,20 +590,20 @@ msgstr ""
 msgid "Views"
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/metadata.py:130
+#: cpskin.core/cpskin/core/behaviors/metadata.py:131
 msgid "Visible fields for above viewlet"
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/metadata.py:154
+#: cpskin.core/cpskin/core/behaviors/metadata.py:155
 msgid "Visible fields for below viewlet"
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:55
-#: cpskin.core/cpskin/core/browser/folderview.py:343
+#: cpskin.core/cpskin/core/behaviors/indexview.py:59
+#: cpskin.core/cpskin/core/browser/folderview.py:338
 msgid "Voir l'ensemble des"
 msgstr "Alle"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:84
+#: cpskin.core/cpskin/core/browser/folderview.py:75
 msgid "Vue index avec collections configurée."
 msgstr ""
 
@@ -587,23 +611,23 @@ msgstr ""
 msgid "Vue index avec collections et slider"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/form.py:27
+#: cpskin.core/cpskin/core/browser/form.py:20
 msgid "Which content type should be set latitude and longitude"
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:44
+#: cpskin.core/cpskin/core/behaviors/indexview.py:48
 msgid "Which image scale use for carousel"
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:28
+#: cpskin.core/cpskin/core/behaviors/indexview.py:32
 msgid "Which image scale use for collections of index view"
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:36
+#: cpskin.core/cpskin/core/behaviors/indexview.py:40
 msgid "Which image scale use for slider"
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:72
+#: cpskin.core/cpskin/core/behaviors/indexview.py:76
 msgid "Which taxonomy id should be use to display category"
 msgstr ""
 
@@ -629,15 +653,11 @@ msgstr ""
 msgid "cpskin.core"
 msgstr ""
 
-#: cpskin.core/cpskin/core/profiles.zcml:209
+#: cpskin.core/cpskin/core/profiles.zcml:200
 msgid "cpskin.core: init"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles.zcml:22
-msgid "cpskin.core: members configuration"
-msgstr ""
-
-#: cpskin.core/cpskin/core/profiles.zcml:31
 msgid "cpskin.core: uninstall"
 msgstr ""
 
@@ -691,10 +711,6 @@ msgid "cpskin.theme"
 msgstr ""
 
 #: cpskin.theme/cpskin/theme/profiles.zcml:22
-msgid "cpskin.theme: members configuration"
-msgstr ""
-
-#: cpskin.theme/cpskin/theme/profiles.zcml:31
 msgid "cpskin.theme: uninstall"
 msgstr ""
 
@@ -703,10 +719,6 @@ msgid "cpskin.workflow"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/configure.zcml:52
-msgid "cpskin.workflow: members configuration"
-msgstr ""
-
-#: cpskin.workflow/cpskin/workflow/configure.zcml:61
 msgid "cpskin.workflow: uninstall"
 msgstr ""
 
@@ -732,36 +744,36 @@ msgid "error_reported"
 msgstr ""
 
 #. Default: "à"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:92
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:91
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:48
 msgid "evenement_a"
 msgstr ""
 
 #. Default: "à"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:86
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:85
 msgid "evenement_a_lheure"
 msgstr ""
 
 #. Default: "au"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:100
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:99
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:54
 msgid "evenement_au"
 msgstr ""
 
 #. Default: "de"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:90
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:89
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:46
 msgid "evenement_de"
 msgstr ""
 
 #. Default: "du"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:98
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:97
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:52
 msgid "evenement_du"
 msgstr ""
 
 #. Default: "le"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:82
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:81
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:43
 msgid "evenement_le"
 msgstr ""
@@ -772,7 +784,7 @@ msgid "firefox_download_sentence"
 msgstr ""
 
 #. Default: "Flux RSS"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:20
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:19
 msgid "flux_rss"
 msgstr ""
 
@@ -858,6 +870,11 @@ msgstr ""
 msgid "label_isearch_tags"
 msgstr ""
 
+#. Default: "Item count for homepage"
+#: cpskin.core/cpskin/core/behaviors/indexview.py:83
+msgid "label_item_count_homepage"
+msgstr ""
+
 #. Default: "Categorization"
 #: cpskin.core/cpskin/core/behaviors/metadata.py:18
 msgid "label_schema_categorization"
@@ -883,7 +900,7 @@ msgstr ""
 msgid "label_standard_tags"
 msgstr ""
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:5
+#: cpskin.core/cpskin/core/viewlets/footer.pt:10
 msgid "libre"
 msgstr ""
 
@@ -935,12 +952,12 @@ msgstr ""
 msgid "slider_view_vertical"
 msgstr ""
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:4
+#: cpskin.core/cpskin/core/viewlets/footer.pt:9
 msgid "sous licence"
 msgstr ""
 
 #. Default: "http://fr.wikipedia.org/wiki/Free_Software_Foundation"
-#: cpskin.core/cpskin/core/viewlets/footer.pt:5
+#: cpskin.core/cpskin/core/viewlets/footer.pt:10
 msgid "string:http://fr.wikipedia.org/wiki/Free_Software_Foundation"
 msgstr ""
 
@@ -959,16 +976,16 @@ msgstr ""
 msgid "with_the_following_comment"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:420
-#: cpskin.policy/cpskin/policy/setuphandlers.py:224
+#: cpskin.core/cpskin/core/browser/folderview.py:443
+#: cpskin.policy/cpskin/policy/setuphandlers.py:225
 msgid "À la une"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:467
-#: cpskin.policy/cpskin/policy/setuphandlers.py:173
+#: cpskin.core/cpskin/core/browser/folderview.py:490
+#: cpskin.policy/cpskin/policy/setuphandlers.py:174
 msgid "Événements"
 msgstr ""
 
-#: cpskin.policy/cpskin/policy/setuphandlers.py:174
+#: cpskin.policy/cpskin/policy/setuphandlers.py:175
 msgid "Événements du site"
 msgstr ""

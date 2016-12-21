@@ -4,7 +4,8 @@ Changelog
 0.5.10 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add translations for new indexview options.
+  [bsuttor]
 
 
 0.5.9 (2016-11-17)
