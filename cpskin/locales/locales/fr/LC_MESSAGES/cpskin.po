@@ -16,11 +16,7 @@ msgstr ""
 "Language: \n"
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
 
-#: cpskin.core/cpskin/core/browser/pages.py:117
-msgid " de "
-msgstr " de "
-
-#: cpskin.core/cpskin/core/browser/pages.py:112
+#: cpskin.core/cpskin/core/browser/pages.py:130
 msgid " à "
 msgstr " à "
 
@@ -32,7 +28,7 @@ msgstr "Retirer du 4ème niveau du menu horizontal"
 msgid "4th level navigation enabled on content"
 msgstr "Afficher dans le 4ème niveau du menu horizontal"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:465
+#: cpskin.core/cpskin/core/browser/folderview.py:469
 #: cpskin.policy/cpskin/policy/setuphandlers.py:134
 msgid "Actualités"
 msgstr "Actualités"
@@ -40,6 +36,10 @@ msgstr "Actualités"
 #: cpskin.policy/cpskin/policy/setuphandlers.py:135
 msgid "Actualités du site"
 msgstr "Actualités du site"
+
+#: cpskin.core/cpskin/core/browser/templates/multiline_input.pt:40
+msgid "Add"
+msgstr "Ajouter"
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Add 4th level navigation"
@@ -169,15 +169,15 @@ msgstr "Afficher ces pages dans ${portal_url}"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:107
 msgid "Do you want to hide date on index view ?"
-msgstr "Cacher la date sur la vue index ?"
+msgstr "Voulez-vous cacher les dates sur la vue index ?"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:100
 msgid "Do you want to hide see all link on index view ?"
-msgstr "Cacher le lien voir l'ensemble sur la vue index"
+msgstr "Voulez-vous cacher tous les liens sur la vue index ?"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:93
 msgid "Do you want to hide title on index view ?"
-msgstr "Cacher les titres sur la vue index"
+msgstr "Voulez-vous cacher les titres sur la vue index ?"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Enable navigation toggle"
@@ -186,7 +186,7 @@ msgstr "Activer la navigation toggle"
 msgid "Faceted events preview"
 msgstr "Vue événement"
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:143
+#: cpskin.core/cpskin/core/browser/configure.zcml:149
 msgid "Faceted items leadimage"
 msgstr "Leadimage pour faceted"
 
@@ -214,7 +214,7 @@ msgstr "Cacher le banner global"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:106
 msgid "Hide date"
-msgstr "Cacher les dates"
+msgstr "Cacher la date"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Hide local banner"
@@ -230,11 +230,11 @@ msgstr "Cacher le menu horizontal du minisite"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:99
 msgid "Hide see all link"
-msgstr "Cacher le lien voir l'ensemble des"
+msgstr "Cacher tous les liens"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:92
 msgid "Hide title"
-msgstr "Cacher le titre"
+msgstr "Cacher les titres"
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "I Am Tag"
@@ -260,9 +260,9 @@ msgstr "Vue index"
 msgid "Indicate an error"
 msgstr "Signaler une erreur"
 
-#: cpskin.core/cpskin/core/browser/pages.py:178
+#: cpskin.core/cpskin/core/browser/pages.py:227
 msgid "Info : "
-msgstr "Info : "
+msgstr ""
 
 #: cpskin.policy/cpskin/policy/profiles.zcml:31
 msgid "Install CPSkin policy with dexterity"
@@ -386,7 +386,7 @@ msgstr "Activer la navigation toggle pour ce dossier"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:84
 msgid "Number of items that will show up in one homepage."
-msgstr "Nombre d'éléments qui seront visbile sur la vue index"
+msgstr "Nombre d'élements à afficher sur la page d'accueil"
 
 #: cpskin.core/cpskin/core/interfaces.py:76
 msgid "Number of milliseconds between each transition."
@@ -404,9 +404,9 @@ msgstr "Détail de l'horaire particulier pour cet événement"
 msgid "Organizer"
 msgstr "Organisateur"
 
-#: cpskin.core/cpskin/core/browser/pages.py:185
+#: cpskin.core/cpskin/core/browser/pages.py:234
 msgid "Où ?"
-msgstr "Où ?"
+msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:47
 msgid "Partner"
@@ -444,6 +444,10 @@ msgstr "Lié"
 #: cpskin.core/cpskin/core/behaviors/metadata.py:112
 msgid "Related contacts"
 msgstr "Contacts liés"
+
+#: cpskin.core/cpskin/core/browser/templates/multiline_input.pt:37
+msgid "Remove"
+msgstr "Supprimer"
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Remove direct access"
@@ -609,7 +613,7 @@ msgstr "Voir l'ensemble des"
 msgid "Vue index avec collections configurée."
 msgstr "Vue index avec collections configurées."
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:126
+#: cpskin.core/cpskin/core/browser/configure.zcml:132
 msgid "Vue index avec collections et slider"
 msgstr "Vue index avec collections et slider"
 
@@ -730,7 +734,7 @@ msgstr "cpskin.workflows"
 
 #: cpskin.workflow/cpskin/workflow/configure.zcml
 msgid "cpskin.workflows: members configuration"
-msgstr ""
+msgstr "cpskin.workflow: configuration des membres"
 
 #: cpskin.workflow/cpskin/workflow/configure.zcml
 msgid "cpskin.workflows: uninstall"
@@ -746,36 +750,36 @@ msgid "error_reported"
 msgstr "Erreur signalée"
 
 #. Default: "à"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:91
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:92
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:48
 msgid "evenement_a"
 msgstr "à"
 
 #. Default: "à"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:85
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:86
 msgid "evenement_a_lheure"
 msgstr "à"
 
 #. Default: "au"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:99
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:100
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:54
 msgid "evenement_au"
 msgstr "au"
 
 #. Default: "de"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:89
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:90
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:46
 msgid "evenement_de"
 msgstr "de"
 
 #. Default: "du"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:97
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:98
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:52
 msgid "evenement_du"
 msgstr "du"
 
 #. Default: "le"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:81
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:82
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:43
 msgid "evenement_le"
 msgstr "le"
@@ -875,7 +879,7 @@ msgstr "Mots clés cachés : Je cherche"
 #. Default: "Item count for homepage"
 #: cpskin.core/cpskin/core/behaviors/indexview.py:83
 msgid "label_item_count_homepage"
-msgstr "Nombre d'élément visible sur la page d'accueil"
+msgstr "Nombre d'éléments pour la page d'accueil"
 
 #. Default: "Categorization"
 #: cpskin.core/cpskin/core/behaviors/metadata.py:18
@@ -978,12 +982,12 @@ msgstr "Visuel"
 msgid "with_the_following_comment"
 msgstr "Avec le commentaire suivant"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:443
+#: cpskin.core/cpskin/core/browser/folderview.py:447
 #: cpskin.policy/cpskin/policy/setuphandlers.py:225
 msgid "À la une"
 msgstr "À la une"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:490
+#: cpskin.core/cpskin/core/browser/folderview.py:494
 #: cpskin.policy/cpskin/policy/setuphandlers.py:174
 msgid "Événements"
 msgstr "Événements"

@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2016-12-21 10:48+0000\n"
+"POT-Creation-Date: 2017-01-18 08:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,11 +20,17 @@ msgstr ""
 msgid ""
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/pages.py:117
-msgid " de "
+#: cpskin.core/cpskin/core/browser/pages.py:126
+msgid "
+de "
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/pages.py:112
+#: cpskin.core/cpskin/core/browser/pages.py:121
+msgid "
+à "
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/pages.py:130
 msgid " à "
 msgstr ""
 
@@ -36,13 +42,17 @@ msgstr ""
 msgid "4th level navigation enabled on content"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:465
+#: cpskin.core/cpskin/core/browser/folderview.py:469
 #: cpskin.policy/cpskin/policy/setuphandlers.py:134
 msgid "Actualités"
 msgstr ""
 
 #: cpskin.policy/cpskin/policy/setuphandlers.py:135
 msgid "Actualités du site"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/templates/multiline_input.pt:40
+msgid "Add"
 msgstr ""
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
@@ -190,7 +200,7 @@ msgstr ""
 msgid "Faceted events preview"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:143
+#: cpskin.core/cpskin/core/browser/configure.zcml:149
 msgid "Faceted items leadimage"
 msgstr ""
 
@@ -264,7 +274,7 @@ msgstr ""
 msgid "Indicate an error"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/pages.py:178
+#: cpskin.core/cpskin/core/browser/pages.py:227
 msgid "Info : "
 msgstr ""
 
@@ -408,7 +418,7 @@ msgstr ""
 msgid "Organizer"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/pages.py:185
+#: cpskin.core/cpskin/core/browser/pages.py:234
 msgid "Où ?"
 msgstr ""
 
@@ -447,6 +457,10 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/metadata.py:112
 msgid "Related contacts"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/templates/multiline_input.pt:37
+msgid "Remove"
 msgstr ""
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
@@ -613,7 +627,7 @@ msgstr ""
 msgid "Vue index avec collections configurée."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:126
+#: cpskin.core/cpskin/core/browser/configure.zcml:132
 msgid "Vue index avec collections et slider"
 msgstr ""
 
@@ -750,36 +764,36 @@ msgid "error_reported"
 msgstr ""
 
 #. Default: "à"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:91
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:92
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:48
 msgid "evenement_a"
 msgstr ""
 
 #. Default: "à"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:85
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:86
 msgid "evenement_a_lheure"
 msgstr ""
 
 #. Default: "au"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:99
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:100
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:54
 msgid "evenement_au"
 msgstr ""
 
 #. Default: "de"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:89
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:90
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:46
 msgid "evenement_de"
 msgstr ""
 
 #. Default: "du"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:97
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:98
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:52
 msgid "evenement_du"
 msgstr ""
 
 #. Default: "le"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:81
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:82
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:43
 msgid "evenement_le"
 msgstr ""
@@ -982,12 +996,12 @@ msgstr ""
 msgid "with_the_following_comment"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:443
+#: cpskin.core/cpskin/core/browser/folderview.py:447
 #: cpskin.policy/cpskin/policy/setuphandlers.py:225
 msgid "À la une"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:490
+#: cpskin.core/cpskin/core/browser/folderview.py:494
 #: cpskin.policy/cpskin/policy/setuphandlers.py:174
 msgid "Événements"
 msgstr ""
