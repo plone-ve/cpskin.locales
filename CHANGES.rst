@@ -4,6 +4,9 @@ Changelog
 0.5.10 (unreleased)
 -------------------
 
+- Add translations for new IAdditionalSearchableText behavior.
+  [bsuttor]
+
 - Add translations for the new phone widget from cpskin.core
   [mpeeters]
 

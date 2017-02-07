@@ -16,7 +16,7 @@ msgstr ""
 "Language: \n"
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
 
-#: cpskin.core/cpskin/core/browser/pages.py:130
+#: cpskin.core/cpskin/core/browser/pages.py:132
 msgid " à "
 msgstr " à "
 
@@ -28,7 +28,7 @@ msgstr "Retirer du 4ème niveau du menu horizontal"
 msgid "4th level navigation enabled on content"
 msgstr "Afficher dans le 4ème niveau du menu horizontal"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:469
+#: cpskin.core/cpskin/core/browser/folderview.py:467
 #: cpskin.policy/cpskin/policy/setuphandlers.py:134
 msgid "Actualités"
 msgstr "Actualités"
@@ -37,7 +37,7 @@ msgstr "Actualités"
 msgid "Actualités du site"
 msgstr "Actualités du site"
 
-#: cpskin.core/cpskin/core/browser/templates/multiline_input.pt:40
+#: cpskin.core/cpskin/core/browser/templates/multiline_input.pt:73
 msgid "Add"
 msgstr "Ajouter"
 
@@ -48,6 +48,10 @@ msgstr "Ajouter un 4ème niveau au menu horizontal"
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Add direct access"
 msgstr "Ajouter à la liste d'accès direct"
+
+#: cpskin.core/cpskin/core/behaviors/metadata.py:175
+msgid "Additional searchable text"
+msgstr "Texte additionnel qui est cherchable dans la recherche du site"
 
 #: cpskin.core/cpskin/core/interfaces.py:68
 #: cpskin.core/cpskin/core/setuphandlers.py:358
@@ -85,6 +89,10 @@ msgstr "Les grandes images sont maintenant utlisées pour ce dossier"
 #: cpskin.core/cpskin/core/profiles.zcml:33
 msgid "CPSKIN Core: upgrade to v17"
 msgstr "CPSKIN Core: mettre à jour vers la v17"
+
+#: cpskin.core/cpskin/core/profiles.zcml:42
+msgid "CPSKIN Core: upgrade to v19"
+msgstr "CPSKIN Core:  mettre à jour vers la version 19"
 
 #: cpskin.menu/cpskin/menu/meta.zcml:49
 msgid "CPSKIN Menu: upgrade to v1005"
@@ -260,9 +268,9 @@ msgstr "Vue index"
 msgid "Indicate an error"
 msgstr "Signaler une erreur"
 
-#: cpskin.core/cpskin/core/browser/pages.py:227
+#: cpskin.core/cpskin/core/browser/pages.py:229
 msgid "Info : "
-msgstr ""
+msgstr "Info : "
 
 #: cpskin.policy/cpskin/policy/profiles.zcml:31
 msgid "Install CPSkin policy with dexterity"
@@ -404,9 +412,9 @@ msgstr "Détail de l'horaire particulier pour cet événement"
 msgid "Organizer"
 msgstr "Organisateur"
 
-#: cpskin.core/cpskin/core/browser/pages.py:234
+#: cpskin.core/cpskin/core/browser/pages.py:236
 msgid "Où ?"
-msgstr ""
+msgstr "Où ?"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:47
 msgid "Partner"
@@ -421,7 +429,7 @@ msgid "Path ${search_path}<br /> Domain ${domain}<br /> <span class=\"discreet\"
 msgstr "Chemin ${search_path}<br /> Domaine ${domain}<br /> <span class=\"discreet\">dans le fichier ${filename}</span>"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:33
-#: cpskin.core/cpskin/core/behaviors/metadata.py:132
+#: cpskin.core/cpskin/core/behaviors/metadata.py:133
 msgid "Please select which fields should be visible."
 msgstr "Sélectionner les champs qui seront visibles"
 
@@ -437,11 +445,11 @@ msgstr "Inscriver l'identifiant de la taxonomie qui doit être utilisé"
 msgid "Read-only list of minisites."
 msgstr "Liste des minisites en lecture seule"
 
-#: cpskin.core/cpskin/core/behaviors/metadata.py:121
+#: cpskin.core/cpskin/core/behaviors/metadata.py:122
 msgid "Related"
 msgstr "Lié"
 
-#: cpskin.core/cpskin/core/behaviors/metadata.py:112
+#: cpskin.core/cpskin/core/behaviors/metadata.py:113
 msgid "Related contacts"
 msgstr "Contacts liés"
 
@@ -596,15 +604,14 @@ msgstr "Utiliser les liens vers les contacts pour le événements"
 msgid "Views"
 msgstr "Vues"
 
-#: cpskin.core/cpskin/core/behaviors/metadata.py:131
+#: cpskin.core/cpskin/core/behaviors/metadata.py:132
 msgid "Visible fields for above viewlet"
 msgstr "Champs visible dans la viewlet du dessus"
 
-#: cpskin.core/cpskin/core/behaviors/metadata.py:155
+#: cpskin.core/cpskin/core/behaviors/metadata.py:156
 msgid "Visible fields for below viewlet"
 msgstr "Champs visible dans la viewlet du dessous"
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:59
 #: cpskin.core/cpskin/core/browser/folderview.py:338
 msgid "Voir l'ensemble des"
 msgstr "Voir l'ensemble des"
@@ -659,7 +666,7 @@ msgstr "cpskin.agenda"
 msgid "cpskin.core"
 msgstr "cpskin.core"
 
-#: cpskin.core/cpskin/core/profiles.zcml:200
+#: cpskin.core/cpskin/core/profiles.zcml:227
 msgid "cpskin.core: init"
 msgstr "cpskin.core: initier"
 
@@ -723,6 +730,10 @@ msgstr "cpskin.theme: désinstaller"
 #: cpskin.workflow/cpskin/workflow/configure.zcml:43
 msgid "cpskin.workflow"
 msgstr "cpskin.workflow"
+
+#: cpskin.workflow/cpskin/workflow/configure.zcml:64
+msgid "cpskin.workflow to1"
+msgstr "cpskin.workflow to1"
 
 #: cpskin.workflow/cpskin/workflow/configure.zcml:52
 msgid "cpskin.workflow: uninstall"
@@ -800,19 +811,19 @@ msgid "help_comment"
 msgstr "Signaler une erreur ou une information manquante."
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:48
+#: cpskin.core/cpskin/core/behaviors/metadata.py:49
 #: cpskin.core/cpskin/core/extender.py:95
 msgid "help_hidden_tags"
 msgstr "Les mots clés cachés sont utilisés par le webmaster pour organiser divers modes de consultation de l'information"
 
 #. Default: "I Am Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:91
+#: cpskin.core/cpskin/core/behaviors/metadata.py:92
 #: cpskin.core/cpskin/core/extender.py:65
 msgid "help_iam_tags"
 msgstr "Les mots clés - Je suis - sont utilisés dans le câdre de la navigation par facettes"
 
 #. Default: "I Search Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:70
+#: cpskin.core/cpskin/core/behaviors/metadata.py:71
 #: cpskin.core/cpskin/core/extender.py:80
 msgid "help_isearch_tags"
 msgstr "Les mots clés - Je trouve - sont utilisés dans le câdre de la navigation par facettes"
@@ -823,7 +834,7 @@ msgid "help_send_from"
 msgstr "Votre adresse courriel."
 
 #. Default: "Standard Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:26
+#: cpskin.core/cpskin/core/behaviors/metadata.py:27
 #: cpskin.core/cpskin/core/extender.py:50
 msgid "help_standard_tags"
 msgstr "Les tags standard sont utilisé par l'administrateur du site."
@@ -859,19 +870,19 @@ msgid "label_filed_under_standard_tag"
 msgstr "Sous mots clés standards"
 
 #. Default: "Hidden Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:47
+#: cpskin.core/cpskin/core/behaviors/metadata.py:48
 #: cpskin.core/cpskin/core/extender.py:94
 msgid "label_hidden_tags"
 msgstr "Mots clés cachés"
 
 #. Default: "I Am Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:90
+#: cpskin.core/cpskin/core/behaviors/metadata.py:91
 #: cpskin.core/cpskin/core/extender.py:64
 msgid "label_iam_tags"
 msgstr "Mots clés cachés : Je suis"
 
 #. Default: "I Search Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:69
+#: cpskin.core/cpskin/core/behaviors/metadata.py:70
 #: cpskin.core/cpskin/core/extender.py:79
 msgid "label_isearch_tags"
 msgstr "Mots clés cachés : Je cherche"
@@ -882,7 +893,7 @@ msgid "label_item_count_homepage"
 msgstr "Nombre d'éléments pour la page d'accueil"
 
 #. Default: "Categorization"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:18
+#: cpskin.core/cpskin/core/behaviors/metadata.py:19
 msgid "label_schema_categorization"
 msgstr "Catégorisation"
 
@@ -897,7 +908,7 @@ msgid "label_send_from"
 msgstr "Expéditeur"
 
 #. Default: "Standard Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:25
+#: cpskin.core/cpskin/core/behaviors/metadata.py:26
 msgid "label_standardTags"
 msgstr "Mot clé standard"
 
@@ -982,12 +993,12 @@ msgstr "Visuel"
 msgid "with_the_following_comment"
 msgstr "Avec le commentaire suivant"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:447
+#: cpskin.core/cpskin/core/browser/folderview.py:445
 #: cpskin.policy/cpskin/policy/setuphandlers.py:225
 msgid "À la une"
 msgstr "À la une"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:494
+#: cpskin.core/cpskin/core/browser/folderview.py:492
 #: cpskin.policy/cpskin/policy/setuphandlers.py:174
 msgid "Événements"
 msgstr "Événements"

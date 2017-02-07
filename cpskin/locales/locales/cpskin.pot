@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2017-01-18 08:29+0000\n"
+"POT-Creation-Date: 2017-02-07 15:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,17 +20,17 @@ msgstr ""
 msgid ""
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/pages.py:126
+#: cpskin.core/cpskin/core/browser/pages.py:128
 msgid "
 de "
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/pages.py:121
+#: cpskin.core/cpskin/core/browser/pages.py:123
 msgid "
 à "
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/pages.py:130
+#: cpskin.core/cpskin/core/browser/pages.py:132
 msgid " à "
 msgstr ""
 
@@ -42,7 +42,7 @@ msgstr ""
 msgid "4th level navigation enabled on content"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:469
+#: cpskin.core/cpskin/core/browser/folderview.py:467
 #: cpskin.policy/cpskin/policy/setuphandlers.py:134
 msgid "Actualités"
 msgstr ""
@@ -51,7 +51,7 @@ msgstr ""
 msgid "Actualités du site"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/templates/multiline_input.pt:40
+#: cpskin.core/cpskin/core/browser/templates/multiline_input.pt:73
 msgid "Add"
 msgstr ""
 
@@ -61,6 +61,10 @@ msgstr ""
 
 #: cpskin.menu/cpskin/menu/profiles/default/actions.xml
 msgid "Add direct access"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/metadata.py:175
+msgid "Additional searchable text"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:68
@@ -98,6 +102,10 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/profiles.zcml:33
 msgid "CPSKIN Core: upgrade to v17"
+msgstr ""
+
+#: cpskin.core/cpskin/core/profiles.zcml:42
+msgid "CPSKIN Core: upgrade to v19"
 msgstr ""
 
 #: cpskin.menu/cpskin/menu/meta.zcml:49
@@ -274,7 +282,7 @@ msgstr ""
 msgid "Indicate an error"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/pages.py:227
+#: cpskin.core/cpskin/core/browser/pages.py:229
 msgid "Info : "
 msgstr ""
 
@@ -418,7 +426,7 @@ msgstr ""
 msgid "Organizer"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/pages.py:234
+#: cpskin.core/cpskin/core/browser/pages.py:236
 msgid "Où ?"
 msgstr ""
 
@@ -435,7 +443,7 @@ msgid "Path ${search_path}<br /> Domain ${domain}<br /> <span class=\"discreet\"
 msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:33
-#: cpskin.core/cpskin/core/behaviors/metadata.py:132
+#: cpskin.core/cpskin/core/behaviors/metadata.py:133
 msgid "Please select which fields should be visible."
 msgstr ""
 
@@ -451,11 +459,11 @@ msgstr ""
 msgid "Read-only list of minisites."
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/metadata.py:121
+#: cpskin.core/cpskin/core/behaviors/metadata.py:122
 msgid "Related"
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/metadata.py:112
+#: cpskin.core/cpskin/core/behaviors/metadata.py:113
 msgid "Related contacts"
 msgstr ""
 
@@ -610,15 +618,14 @@ msgstr ""
 msgid "Views"
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/metadata.py:131
+#: cpskin.core/cpskin/core/behaviors/metadata.py:132
 msgid "Visible fields for above viewlet"
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/metadata.py:155
+#: cpskin.core/cpskin/core/behaviors/metadata.py:156
 msgid "Visible fields for below viewlet"
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:59
 #: cpskin.core/cpskin/core/browser/folderview.py:338
 msgid "Voir l'ensemble des"
 msgstr ""
@@ -673,7 +680,7 @@ msgstr ""
 msgid "cpskin.core"
 msgstr ""
 
-#: cpskin.core/cpskin/core/profiles.zcml:200
+#: cpskin.core/cpskin/core/profiles.zcml:227
 msgid "cpskin.core: init"
 msgstr ""
 
@@ -736,6 +743,10 @@ msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/configure.zcml:43
 msgid "cpskin.workflow"
+msgstr ""
+
+#: cpskin.workflow/cpskin/workflow/configure.zcml:64
+msgid "cpskin.workflow to1"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/configure.zcml:52
@@ -814,19 +825,19 @@ msgid "help_comment"
 msgstr ""
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:48
+#: cpskin.core/cpskin/core/behaviors/metadata.py:49
 #: cpskin.core/cpskin/core/extender.py:95
 msgid "help_hidden_tags"
 msgstr ""
 
 #. Default: "I Am Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:91
+#: cpskin.core/cpskin/core/behaviors/metadata.py:92
 #: cpskin.core/cpskin/core/extender.py:65
 msgid "help_iam_tags"
 msgstr ""
 
 #. Default: "I Search Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:70
+#: cpskin.core/cpskin/core/behaviors/metadata.py:71
 #: cpskin.core/cpskin/core/extender.py:80
 msgid "help_isearch_tags"
 msgstr ""
@@ -837,7 +848,7 @@ msgid "help_send_from"
 msgstr ""
 
 #. Default: "Standard Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:26
+#: cpskin.core/cpskin/core/behaviors/metadata.py:27
 #: cpskin.core/cpskin/core/extender.py:50
 msgid "help_standard_tags"
 msgstr ""
@@ -873,19 +884,19 @@ msgid "label_filed_under_standard_tag"
 msgstr ""
 
 #. Default: "Hidden Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:47
+#: cpskin.core/cpskin/core/behaviors/metadata.py:48
 #: cpskin.core/cpskin/core/extender.py:94
 msgid "label_hidden_tags"
 msgstr ""
 
 #. Default: "I Am Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:90
+#: cpskin.core/cpskin/core/behaviors/metadata.py:91
 #: cpskin.core/cpskin/core/extender.py:64
 msgid "label_iam_tags"
 msgstr ""
 
 #. Default: "I Search Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:69
+#: cpskin.core/cpskin/core/behaviors/metadata.py:70
 #: cpskin.core/cpskin/core/extender.py:79
 msgid "label_isearch_tags"
 msgstr ""
@@ -896,7 +907,7 @@ msgid "label_item_count_homepage"
 msgstr ""
 
 #. Default: "Categorization"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:18
+#: cpskin.core/cpskin/core/behaviors/metadata.py:19
 msgid "label_schema_categorization"
 msgstr ""
 
@@ -911,7 +922,7 @@ msgid "label_send_from"
 msgstr ""
 
 #. Default: "Standard Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:25
+#: cpskin.core/cpskin/core/behaviors/metadata.py:26
 msgid "label_standardTags"
 msgstr ""
 
@@ -996,12 +1007,12 @@ msgstr ""
 msgid "with_the_following_comment"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:447
+#: cpskin.core/cpskin/core/browser/folderview.py:445
 #: cpskin.policy/cpskin/policy/setuphandlers.py:225
 msgid "À la une"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:494
+#: cpskin.core/cpskin/core/browser/folderview.py:492
 #: cpskin.policy/cpskin/policy/setuphandlers.py:174
 msgid "Événements"
 msgstr ""
