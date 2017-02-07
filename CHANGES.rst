@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.10 (unreleased)
+0.5.10 (2017-02-07)
 -------------------
 
 - Add translations for new IAdditionalSearchableText behavior.
