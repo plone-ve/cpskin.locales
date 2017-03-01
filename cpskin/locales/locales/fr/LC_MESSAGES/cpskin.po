@@ -430,7 +430,7 @@ msgstr "Chemin ${search_path}<br /> Domaine ${domain}<br /> <span class=\"discre
 
 #: cpskin.core/cpskin/core/behaviors/directorycontact.py:33
 msgid "Phones"
-msgstr ""
+msgstr "Téléphone"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:33
 #: cpskin.core/cpskin/core/behaviors/metadata.py:133
