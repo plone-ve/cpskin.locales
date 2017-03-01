@@ -4,7 +4,8 @@ Changelog
 0.5.11 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add missing translations for the new phone widget : #16438
+  [mpeeters]
 
 
 0.5.10 (2017-02-07)
