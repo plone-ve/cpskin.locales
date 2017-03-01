@@ -28,7 +28,7 @@ msgstr "Retirer du 4ème niveau du menu horizontal"
 msgid "4th level navigation enabled on content"
 msgstr "Afficher dans le 4ème niveau du menu horizontal"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:467
+#: cpskin.core/cpskin/core/browser/folderview.py:471
 #: cpskin.policy/cpskin/policy/setuphandlers.py:134
 msgid "Actualités"
 msgstr "Actualités"
@@ -78,11 +78,11 @@ msgstr "Afficher le banner local"
 msgid "Banner enabled on content and sub-contents"
 msgstr "Afficher le banner global"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:287
+#: cpskin.core/cpskin/core/browser/folderview.py:290
 msgid "Big images are not used anymore on this folder view."
 msgstr "Les grandes images ne sont plus utlisées pour ce dossier"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:278
+#: cpskin.core/cpskin/core/browser/folderview.py:281
 msgid "Big images are now used on this folder view."
 msgstr "Les grandes images sont maintenant utlisées pour ce dossier"
 
@@ -151,11 +151,11 @@ msgstr "Type de contenu"
 msgid "Content types"
 msgstr "Types de contenu"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:220
+#: cpskin.core/cpskin/core/browser/folderview.py:223
 msgid "Contenu ajouté à la vue index."
 msgstr "Contenu ajouté à la vue index."
 
-#: cpskin.core/cpskin/core/browser/folderview.py:228
+#: cpskin.core/cpskin/core/browser/folderview.py:231
 msgid "Contenu retiré de la vue index."
 msgstr "Contenu retiré de la vue index."
 
@@ -428,6 +428,10 @@ msgstr "Partenaires"
 msgid "Path ${search_path}<br /> Domain ${domain}<br /> <span class=\"discreet\">in file ${filename}</span>"
 msgstr "Chemin ${search_path}<br /> Domaine ${domain}<br /> <span class=\"discreet\">dans le fichier ${filename}</span>"
 
+#: cpskin.core/cpskin/core/behaviors/directorycontact.py:33
+msgid "Phones"
+msgstr ""
+
 #: cpskin.core/cpskin/core/behaviors/indexview.py:33
 #: cpskin.core/cpskin/core/behaviors/metadata.py:133
 msgid "Please select which fields should be visible."
@@ -612,7 +616,7 @@ msgstr "Champs visible dans la viewlet du dessus"
 msgid "Visible fields for below viewlet"
 msgstr "Champs visible dans la viewlet du dessous"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:338
+#: cpskin.core/cpskin/core/browser/folderview.py:341
 msgid "Voir l'ensemble des"
 msgstr "Voir l'ensemble des"
 
@@ -666,7 +670,7 @@ msgstr "cpskin.agenda"
 msgid "cpskin.core"
 msgstr "cpskin.core"
 
-#: cpskin.core/cpskin/core/profiles.zcml:227
+#: cpskin.core/cpskin/core/profiles.zcml:235
 msgid "cpskin.core: init"
 msgstr "cpskin.core: initier"
 
@@ -993,12 +997,12 @@ msgstr "Visuel"
 msgid "with_the_following_comment"
 msgstr "Avec le commentaire suivant"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:445
+#: cpskin.core/cpskin/core/browser/folderview.py:449
 #: cpskin.policy/cpskin/policy/setuphandlers.py:225
 msgid "À la une"
 msgstr "À la une"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:492
+#: cpskin.core/cpskin/core/browser/folderview.py:496
 #: cpskin.policy/cpskin/policy/setuphandlers.py:174
 msgid "Événements"
 msgstr "Événements"
