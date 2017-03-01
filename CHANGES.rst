@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.11 (unreleased)
+0.5.11 (2017-03-01)
 -------------------
 
 - Add missing translations for the new phone widget : #16438
