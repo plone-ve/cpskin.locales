@@ -358,7 +358,7 @@ msgstr "Email envoyé"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Make this content appear in folder view"
-msgstr "Afficher ce contenu dans la 'folder view'"
+msgstr "Afficher ce contenu dans la vue index"
 
 #: cpskin.minisite/cpskin/minisite/browser/hnavigation.py:84
 msgid "Minisite horizontal Navigation disabled on content"

@@ -4,7 +4,8 @@ Changelog
 0.5.12 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Fix translation
+  [laulaz]
 
 
 0.5.11 (2017-03-01)
