@@ -4,7 +4,13 @@ Changelog
 0.5.12 (unreleased)
 -------------------
 
-- Add translation for now Faceted agenda view
+- Add missing translation for fax
+  [laulaz]
+
+- Add translation for old / new index template choice
+  [laulaz]
+
+- Add translation for new Faceted agenda view
   [laulaz]
 
 - Fix translation
