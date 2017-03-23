@@ -56,3 +56,6 @@ msgstr ""
 
 msgid "Faceted events preview"
 msgstr ""
+
+msgid "Faceted agenda view"
+msgstr ""

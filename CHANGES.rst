@@ -4,6 +4,9 @@ Changelog
 0.5.12 (unreleased)
 -------------------
 
+- Add translation for now Faceted agenda view
+  [laulaz]
+
 - Fix translation
   [laulaz]
 

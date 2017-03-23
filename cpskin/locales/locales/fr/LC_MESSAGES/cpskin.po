@@ -194,6 +194,9 @@ msgstr "Activer la navigation toggle"
 msgid "Faceted events preview"
 msgstr "Vue événement"
 
+msgid "Faceted agenda view"
+msgstr "Vue agenda"
+
 #: cpskin.core/cpskin/core/browser/configure.zcml:149
 msgid "Faceted items leadimage"
 msgstr "Leadimage pour faceted"
