@@ -4,6 +4,9 @@ Changelog
 0.5.12 (unreleased)
 -------------------
 
+- Add translation for 'day and month' option on index view : #16800
+  [laulaz]
+
 - Add missing translation for fax
   [laulaz]
 

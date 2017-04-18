@@ -201,7 +201,7 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:118
 msgid "Do you want to show day and month instead of lead image on index view ?"
-msgstr ""
+msgstr "Attention : un graphisme spécifique doit être prévu avant d'activer cette option."
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:126
 msgid "Do you want to use the new (experimental) template ?"
@@ -518,7 +518,7 @@ msgstr "Montrer le banner global"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:117
 msgid "Show day and month"
-msgstr ""
+msgstr "Montrer le jour, le mois et cacher l'image liée"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Show local banner"
