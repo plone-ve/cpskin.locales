@@ -16,11 +16,11 @@ msgstr ""
 "Language: \n"
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
 
-#: cpskin.core/cpskin/core/browser/pages.py:133
+#: cpskin.core/cpskin/core/browser/pages.py:136
 msgid " à "
 msgstr " à "
 
-#: cpskin.core/cpskin/core/viewlets/related_contacts.pt:66
+#: cpskin.core/cpskin/core/viewlets/related_contacts.pt:56
 msgid "(fax)"
 msgstr ""
 
@@ -32,7 +32,7 @@ msgstr "Retirer du 4ème niveau du menu horizontal"
 msgid "4th level navigation enabled on content"
 msgstr "Afficher dans le 4ème niveau du menu horizontal"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:488
+#: cpskin.core/cpskin/core/browser/folderview.py:527
 #: cpskin.policy/cpskin/policy/setuphandlers.py:134
 msgid "Actualités"
 msgstr "Actualités"
@@ -53,12 +53,12 @@ msgstr "Ajouter un 4ème niveau au menu horizontal"
 msgid "Add direct access"
 msgstr "Ajouter à la liste d'accès direct"
 
-#: cpskin.core/cpskin/core/behaviors/metadata.py:175
+#: cpskin.core/cpskin/core/behaviors/metadata.py:191
 msgid "Additional searchable text"
 msgstr "Texte additionnel qui est cherchable dans la recherche du site"
 
 #: cpskin.core/cpskin/core/interfaces.py:68
-#: cpskin.core/cpskin/core/setuphandlers.py:358
+#: cpskin.core/cpskin/core/setuphandlers.py:361
 msgid "Auto play slider"
 msgstr "Démarrer automatiquement le slider"
 
@@ -66,27 +66,27 @@ msgstr "Démarrer automatiquement le slider"
 msgid "Banner"
 msgstr "Banner"
 
-#: cpskin.core/cpskin/core/browser/banner.py:107
+#: cpskin.core/cpskin/core/browser/banner.py:105
 msgid "Banner disabled for content"
 msgstr "Cacher le banner local"
 
-#: cpskin.core/cpskin/core/browser/banner.py:82
+#: cpskin.core/cpskin/core/browser/banner.py:80
 msgid "Banner disabled for content and sub-contents"
 msgstr "Cacher le banner global"
 
-#: cpskin.core/cpskin/core/browser/banner.py:99
+#: cpskin.core/cpskin/core/browser/banner.py:97
 msgid "Banner enabled on content"
 msgstr "Afficher le banner local"
 
-#: cpskin.core/cpskin/core/browser/banner.py:74
+#: cpskin.core/cpskin/core/browser/banner.py:72
 msgid "Banner enabled on content and sub-contents"
 msgstr "Afficher le banner global"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:290
+#: cpskin.core/cpskin/core/browser/folderview.py:304
 msgid "Big images are not used anymore on this folder view."
 msgstr "Les grandes images ne sont plus utlisées pour ce dossier"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:281
+#: cpskin.core/cpskin/core/browser/folderview.py:295
 msgid "Big images are now used on this folder view."
 msgstr "Les grandes images sont maintenant utlisées pour ce dossier"
 
@@ -110,20 +110,20 @@ msgstr "CPSKIN Workflow: mettre à jour vers la v1"
 msgid "CPSkin"
 msgstr "CPSkin"
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:77
+#: cpskin.core/cpskin/core/browser/controlpanel.py:76
 msgid "CPSkin settings"
 msgstr "Configuration de CPSkin"
 
-#: cpskin.core/cpskin/core/setuphandlers.py:416
+#: cpskin.core/cpskin/core/setuphandlers.py:419
 msgid "Choose an horizontal or vertical slider."
 msgstr "Choisir le slider horizontal ou vertical"
 
 #: cpskin.core/cpskin/core/interfaces.py:82
-#: cpskin.core/cpskin/core/setuphandlers.py:397
+#: cpskin.core/cpskin/core/setuphandlers.py:400
 msgid "City name"
 msgstr "Nom de la ville"
 
-#: cpskin.core/cpskin/core/setuphandlers.py:398
+#: cpskin.core/cpskin/core/setuphandlers.py:401
 msgid "City name variable used in some template."
 msgstr "Le nom de la ville peut être utilisé dans le site"
 
@@ -135,7 +135,7 @@ msgstr "Portlet collection avec vue slider"
 msgid "Configure Folder View here"
 msgstr "Configuration de la vue index"
 
-#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:36
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:37
 msgid "Contact"
 msgstr "Contact"
 
@@ -147,19 +147,19 @@ msgstr "Contenu ajouté à la liste des accès directs"
 msgid "Content removed from direct access menu"
 msgstr "Contenu retiré de la liste des accès directs"
 
-#: cpskin.core/cpskin/core/browser/form.py:19
+#: cpskin.core/cpskin/core/browser/form.py:20
 msgid "Content type"
 msgstr "Type de contenu"
 
-#: cpskin.core/cpskin/core/browser/form.py:23
+#: cpskin.core/cpskin/core/browser/form.py:24
 msgid "Content types"
 msgstr "Types de contenu"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:223
+#: cpskin.core/cpskin/core/browser/folderview.py:237
 msgid "Contenu ajouté à la vue index."
 msgstr "Contenu ajouté à la vue index."
 
-#: cpskin.core/cpskin/core/browser/folderview.py:231
+#: cpskin.core/cpskin/core/browser/folderview.py:245
 msgid "Contenu retiré de la vue index."
 msgstr "Contenu retiré de la vue index."
 
@@ -167,7 +167,7 @@ msgstr "Contenu retiré de la vue index."
 msgid "Date"
 msgstr "Date"
 
-#: cpskin.agenda/cpskin/agenda/faceted/widgets/daterange/widget.py:14
+#: cpskin.agenda/cpskin/agenda/faceted/widgets/daterange/widget.py:12
 msgid "Date range for events"
 msgstr "Intervalle de dates pour les événements"
 
@@ -179,19 +179,31 @@ msgstr "Désactiver la navigation toggle"
 msgid "Display in ${portal_url}"
 msgstr "Afficher ces pages dans ${portal_url}"
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:108
+#: cpskin.core/cpskin/core/behaviors/indexview.py:111
 msgid "Do you want to hide date on index view ?"
 msgstr "Voulez-vous cacher les dates sur la vue index ?"
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:101
+#: cpskin.core/cpskin/core/behaviors/indexview.py:104
 msgid "Do you want to hide see all link on index view ?"
 msgstr "Voulez-vous cacher tous les liens sur la vue index ?"
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:94
+#: cpskin.core/cpskin/core/behaviors/indexview.py:97
 msgid "Do you want to hide title on index view ?"
 msgstr "Voulez-vous cacher les titres sur la vue index ?"
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:115
+#: cpskin.core/cpskin/core/behaviors/metadata.py:176
+msgid "Do you want to logo of contact on the popup on map ?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/metadata.py:169
+msgid "Do you want to map with links of contacts ?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:118
+msgid "Do you want to show day and month instead of lead image on index view ?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:126
 msgid "Do you want to use the new (experimental) template ?"
 msgstr "Voulez-vous utiliser la nouvelle template de vue index (expérimentale) ?"
 
@@ -223,7 +235,7 @@ msgstr "Mots clés cachés"
 msgid "Hidden Tags are used for webmaster organization of content"
 msgstr "Les mots clés cachés permettent au webmaster de faciliter l'organisation du contenu mais ne sont pas visibles pour l'internaute"
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:66
+#: cpskin.core/cpskin/core/behaviors/indexview.py:67
 msgid "Hidden keywords"
 msgstr "Mot clés cachés"
 
@@ -231,7 +243,7 @@ msgstr "Mot clés cachés"
 msgid "Hide banner"
 msgstr "Cacher le banner global"
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:107
+#: cpskin.core/cpskin/core/behaviors/indexview.py:110
 msgid "Hide date"
 msgstr "Cacher la date"
 
@@ -247,11 +259,11 @@ msgstr "Cacher la zone médias"
 msgid "Hide minisite horizontal navigation menu"
 msgstr "Cacher le menu horizontal du minisite"
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:100
+#: cpskin.core/cpskin/core/behaviors/indexview.py:103
 msgid "Hide see all link"
 msgstr "Cacher tous les liens"
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:93
+#: cpskin.core/cpskin/core/behaviors/indexview.py:96
 msgid "Hide title"
 msgstr "Cacher les titres"
 
@@ -279,7 +291,7 @@ msgstr "Vue index"
 msgid "Indicate an error"
 msgstr "Signaler une erreur"
 
-#: cpskin.core/cpskin/core/browser/pages.py:230
+#: cpskin.core/cpskin/core/browser/pages.py:233
 msgid "Info : "
 msgstr "Info : "
 
@@ -324,25 +336,25 @@ msgid "Installs the cpskin.slider package"
 msgstr "Installer CPSKIN slider"
 
 #: cpskin.core/cpskin/core/interfaces.py:55
-#: cpskin.core/cpskin/core/setuphandlers.py:326
+#: cpskin.core/cpskin/core/setuphandlers.py:327
 msgid "Is level 1 menu load page at click?"
 msgstr "Charger la page au click du niveau 1 du menu"
 
 #: cpskin.core/cpskin/core/interfaces.py:62
-#: cpskin.core/cpskin/core/setuphandlers.py:343
+#: cpskin.core/cpskin/core/setuphandlers.py:344
 msgid "Is level 2 menu persist?"
 msgstr "Activer la persistance du menu de niveau 2"
 
 #: cpskin.core/cpskin/core/interfaces.py:69
-#: cpskin.core/cpskin/core/setuphandlers.py:359
+#: cpskin.core/cpskin/core/setuphandlers.py:362
 msgid "Is the front page slider automatically play?"
 msgstr "Le slider de la page d'accueil est automatiquement démarrer ?"
 
-#: cpskin.core/cpskin/core/faceted/widgets/layout.py:57
+#: cpskin.core/cpskin/core/faceted/widgets/layout.py:55
 msgid "Layout selection"
 msgstr "Sélection de l'affichage"
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:78
+#: cpskin.core/cpskin/core/browser/controlpanel.py:77
 msgid "Lets you change the settings of CPSkin"
 msgstr "Vous permet de changer la configuration de CPSkin"
 
@@ -351,11 +363,11 @@ msgid "Links in social viewlet"
 msgstr "Liens apparaissant dans le viewlet social"
 
 #: cpskin.core/cpskin/core/interfaces.py:54
-#: cpskin.core/cpskin/core/setuphandlers.py:325
+#: cpskin.core/cpskin/core/setuphandlers.py:326
 msgid "Load page menu"
 msgstr "Charger le menu de la page"
 
-#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:18
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:19
 msgid "Location"
 msgstr "Localisation"
 
@@ -363,7 +375,7 @@ msgstr "Localisation"
 msgid "Logo"
 msgstr "Logo"
 
-#: cpskin.core/cpskin/core/browser/sendtomanager.py:100
+#: cpskin.core/cpskin/core/browser/sendtomanager.py:96
 msgid "Mail sent."
 msgstr "Email envoyé"
 
@@ -383,11 +395,11 @@ msgstr "Activer le menu horizontal de navigation du minisite"
 msgid "Minisites"
 msgstr "Minisites"
 
-#: cpskin.core/cpskin/core/browser/media.py:83
+#: cpskin.core/cpskin/core/browser/media.py:81
 msgid "Multimedia viewlet disabled for content"
 msgstr "Désactiver la viewlet multimedia"
 
-#: cpskin.core/cpskin/core/browser/media.py:65
+#: cpskin.core/cpskin/core/browser/media.py:63
 msgid "Multimedia viewlet enabled on content"
 msgstr "Activer la viewlet multimedia"
 
@@ -395,15 +407,15 @@ msgstr "Activer la viewlet multimedia"
 msgid "Name of city is used in some templates."
 msgstr "Le nom de la ville peut être utile dans le site."
 
-#: cpskin.core/cpskin/core/browser/navigation.py:92
+#: cpskin.core/cpskin/core/browser/navigation.py:89
 msgid "Navigation toggle disabled for folder"
 msgstr "Désactiver la navigation toggle pour ce dossiers"
 
-#: cpskin.core/cpskin/core/browser/navigation.py:81
+#: cpskin.core/cpskin/core/browser/navigation.py:78
 msgid "Navigation toggle enabled for folder"
 msgstr "Activer la navigation toggle pour ce dossier"
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:85
+#: cpskin.core/cpskin/core/behaviors/indexview.py:88
 msgid "Number of items that will show up in one homepage."
 msgstr "Nombre d'élements à afficher sur la page d'accueil"
 
@@ -411,7 +423,7 @@ msgstr "Nombre d'élements à afficher sur la page d'accueil"
 msgid "Number of milliseconds between each transition."
 msgstr "Nombre de millisecondes entre chaque transition"
 
-#: cpskin.core/cpskin/core/setuphandlers.py:376
+#: cpskin.core/cpskin/core/setuphandlers.py:380
 msgid "Number of seconds between each transition."
 msgstr "Nombre de millisecondes entre chaque transition."
 
@@ -419,19 +431,19 @@ msgstr "Nombre de millisecondes entre chaque transition."
 msgid "Optional special schedule details for event."
 msgstr "Détail de l'horaire particulier pour cet événement"
 
-#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:27
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:28
 msgid "Organizer"
 msgstr "Organisateur"
 
-#: cpskin.core/cpskin/core/browser/pages.py:237
+#: cpskin.core/cpskin/core/browser/pages.py:240
 msgid "Où ?"
 msgstr "Où ?"
 
-#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:47
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:48
 msgid "Partner"
 msgstr "Partenaire"
 
-#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:45
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:46
 msgid "Partners"
 msgstr "Partenaires"
 
@@ -439,20 +451,20 @@ msgstr "Partenaires"
 msgid "Path ${search_path}<br /> Domain ${domain}<br /> <span class=\"discreet\">in file ${filename}</span>"
 msgstr "Chemin ${search_path}<br /> Domaine ${domain}<br /> <span class=\"discreet\">dans le fichier ${filename}</span>"
 
-#: cpskin.core/cpskin/core/behaviors/directorycontact.py:33
+#: cpskin.core/cpskin/core/behaviors/directorycontact.py:32
 msgid "Phones"
 msgstr "Téléphone"
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:34
-#: cpskin.core/cpskin/core/behaviors/metadata.py:133
+#: cpskin.core/cpskin/core/behaviors/indexview.py:35
+#: cpskin.core/cpskin/core/behaviors/metadata.py:135
 msgid "Please select which fields should be visible."
 msgstr "Sélectionner les champs qui seront visibles"
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:67
+#: cpskin.core/cpskin/core/behaviors/indexview.py:68
 msgid "Please select which hidden keywords is use by collections for             index view."
 msgstr "Sélectionner quel champ caché est utilisé par la collection de la vue index"
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:78
+#: cpskin.core/cpskin/core/behaviors/indexview.py:79
 msgid "Please write which taxonomy id should be used."
 msgstr "Inscriver l'identifiant de la taxonomie qui doit être utilisé"
 
@@ -460,11 +472,11 @@ msgstr "Inscriver l'identifiant de la taxonomie qui doit être utilisé"
 msgid "Read-only list of minisites."
 msgstr "Liste des minisites en lecture seule"
 
-#: cpskin.core/cpskin/core/behaviors/metadata.py:122
+#: cpskin.core/cpskin/core/behaviors/metadata.py:124
 msgid "Related"
 msgstr "Lié"
 
-#: cpskin.core/cpskin/core/behaviors/metadata.py:113
+#: cpskin.core/cpskin/core/behaviors/metadata.py:114
 msgid "Related contacts"
 msgstr "Contacts liés"
 
@@ -488,9 +500,25 @@ msgstr "Retirer ce contenu de la vue"
 msgid "Schedule details"
 msgstr "Détail de l'horaire"
 
+#: cpskin.core/cpskin/core/behaviors/metadata.py:175
+msgid "See logo on map popup"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/metadata.py:168
+msgid "See map"
+msgstr ""
+
+#: cpskin.core/cpskin/core/viewlets/related_contacts.pt:60
+msgid "See on map"
+msgstr ""
+
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Show banner"
 msgstr "Montrer le banner global"
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:117
+msgid "Show day and month"
+msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Show local banner"
@@ -504,7 +532,7 @@ msgstr "Montrer la zone multimedia"
 msgid "Show minisite horizontal navigation menu"
 msgstr "Montrer le menu de navigation horizontal des minisites"
 
-#: cpskin.agenda/cpskin/agenda/faceted/widgets/simpledate/widget.py:23
+#: cpskin.agenda/cpskin/agenda/faceted/widgets/simpledate/widget.py:22
 msgid "Simple date for events"
 msgstr "Date simple pour les événements"
 
@@ -513,12 +541,12 @@ msgid "Site r&eacute;alis&eacute; en collaboration avec"
 msgstr "Site r&eacute;alis&eacute; en collaboration avec"
 
 #: cpskin.core/cpskin/core/interfaces.py:75
-#: cpskin.core/cpskin/core/setuphandlers.py:375
+#: cpskin.core/cpskin/core/setuphandlers.py:379
 msgid "Slider timer"
 msgstr "Minuteur du slider"
 
 #: cpskin.core/cpskin/core/interfaces.py:89
-#: cpskin.core/cpskin/core/setuphandlers.py:415
+#: cpskin.core/cpskin/core/setuphandlers.py:418
 msgid "Slider type"
 msgstr "Type de slider"
 
@@ -543,7 +571,7 @@ msgid "Stop using big images"
 msgstr "Ne plus utiliser les grandes images"
 
 #: cpskin.core/cpskin/core/interfaces.py:61
-#: cpskin.core/cpskin/core/setuphandlers.py:342
+#: cpskin.core/cpskin/core/setuphandlers.py:343
 msgid "Sub menu persistence"
 msgstr "Persistance du sous-menu"
 
@@ -555,7 +583,7 @@ msgstr "Tests du module cpskin.minisite"
 msgid "Text"
 msgstr "Texte"
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:57
+#: cpskin.core/cpskin/core/behaviors/indexview.py:58
 msgid "Text for link to collection"
 msgstr "Texte utilisé pour le lien vers la collection"
 
@@ -563,7 +591,7 @@ msgstr "Texte utilisé pour le lien vers la collection"
 msgid "There are no mini sites configured."
 msgstr "Aucun mini site n'est configuré"
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:58
+#: cpskin.core/cpskin/core/behaviors/indexview.py:59
 msgid "This text will be visible on index view for link to this collection"
 msgstr "Ce texte sera visible sur la vue index pour le lien vers cette collection"
 
@@ -572,7 +600,7 @@ msgstr "Ce texte sera visible sur la vue index pour le lien vers cette collectio
 msgid "Un maximum de ${limit} jours comprenant des &eacute;v&eacute;nements est affich&eacute;."
 msgstr "Un maximum de ${limit} jours comprenant des &eacute;v&eacute;nements est affich&eacute;."
 
-#: cpskin.core/cpskin/core/browser/sendtomanager.py:94
+#: cpskin.core/cpskin/core/browser/sendtomanager.py:90
 msgid "Unable to send mail."
 msgstr "Impossible d'envoyer un courriel"
 
@@ -612,7 +640,7 @@ msgstr "Utiliser les grandes images"
 msgid "Use location, organizer, contact and partners fields with a related field from collective.contact suite."
 msgstr "Utiliser la location, l'organisateur, le contact et le partenaire avec des liens vers un contact de collective.contact"
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:114
+#: cpskin.core/cpskin/core/behaviors/indexview.py:125
 msgid "Use new template"
 msgstr "Utiliser la nouvelle template"
 
@@ -620,23 +648,23 @@ msgstr "Utiliser la nouvelle template"
 msgid "Use related contacts fields for Event"
 msgstr "Utiliser les liens vers les contacts pour le événements"
 
-#: cpskin.core/cpskin/core/faceted/widgets/layout.py:35
+#: cpskin.core/cpskin/core/faceted/widgets/layout.py:33
 msgid "Views"
 msgstr "Vues"
 
-#: cpskin.core/cpskin/core/behaviors/metadata.py:132
+#: cpskin.core/cpskin/core/behaviors/metadata.py:134
 msgid "Visible fields for above viewlet"
 msgstr "Champs visible dans la viewlet du dessus"
 
-#: cpskin.core/cpskin/core/behaviors/metadata.py:156
+#: cpskin.core/cpskin/core/behaviors/metadata.py:158
 msgid "Visible fields for below viewlet"
 msgstr "Champs visible dans la viewlet du dessous"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:353
+#: cpskin.core/cpskin/core/browser/folderview.py:367
 msgid "Voir l'ensemble des"
 msgstr "Voir l'ensemble des"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:75
+#: cpskin.core/cpskin/core/browser/folderview.py:77
 msgid "Vue index avec collections configurée."
 msgstr "Vue index avec collections configurées."
 
@@ -644,23 +672,23 @@ msgstr "Vue index avec collections configurées."
 msgid "Vue index avec collections et slider"
 msgstr "Vue index avec collections et slider"
 
-#: cpskin.core/cpskin/core/browser/form.py:20
+#: cpskin.core/cpskin/core/browser/form.py:21
 msgid "Which content type should be set latitude and longitude"
 msgstr "Pour quel type de contenu faut-il générer la latitude et la longitude ?"
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:49
+#: cpskin.core/cpskin/core/behaviors/indexview.py:50
 msgid "Which image scale use for carousel"
 msgstr "Quelle taille d'image faut-il utiliser pour l'image carousel ?"
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:33
+#: cpskin.core/cpskin/core/behaviors/indexview.py:34
 msgid "Which image scale use for collections of index view"
 msgstr "Quelle taille d'image faut-il utiliser pour les images des collections ?"
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:41
+#: cpskin.core/cpskin/core/behaviors/indexview.py:42
 msgid "Which image scale use for slider"
 msgstr "Quelle taille d'image faut-il utiliser pour l'image slider ?"
 
-#: cpskin.core/cpskin/core/behaviors/indexview.py:77
+#: cpskin.core/cpskin/core/behaviors/indexview.py:78
 msgid "Which taxonomy id should be use to display category"
 msgstr "Quel identifiant de taxonomy doit être utilisé pour voir la catégorie ?"
 
@@ -776,41 +804,41 @@ msgid "edit a collection portlet with slider view"
 msgstr "Modifier une portlet collection avec une vue slider"
 
 #. Default: "Error reported"
-#: cpskin.core/cpskin/core/browser/sendtomanager.py:57
+#: cpskin.core/cpskin/core/browser/sendtomanager.py:53
 msgid "error_reported"
 msgstr "Erreur signalée"
 
 #. Default: "à"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:92
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:108
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:48
 msgid "evenement_a"
 msgstr "à"
 
 #. Default: "à"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:86
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:102
 msgid "evenement_a_lheure"
 msgstr "à"
 
 #. Default: "au"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:100
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:116
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:54
 msgid "evenement_au"
 msgstr "au"
 
 #. Default: "de"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:90
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:106
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:46
 msgid "evenement_de"
 msgstr "de"
 
 #. Default: "du"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:98
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:114
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:52
 msgid "evenement_du"
 msgstr "du"
 
 #. Default: "le"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:82
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:98
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:43
 msgid "evenement_le"
 msgstr "le"
@@ -826,46 +854,46 @@ msgid "flux_rss"
 msgstr "Flux RSS"
 
 #. Default: "Report an error or missing information."
-#: cpskin.core/cpskin/core/browser/interfaces.py:24
+#: cpskin.core/cpskin/core/browser/interfaces.py:22
 msgid "help_comment"
 msgstr "Signaler une erreur ou une information manquante."
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:49
-#: cpskin.core/cpskin/core/extender.py:95
+#: cpskin.core/cpskin/core/behaviors/metadata.py:50
+#: cpskin.core/cpskin/core/extender.py:91
 msgid "help_hidden_tags"
 msgstr "Les mots clés cachés sont utilisés par le webmaster pour organiser divers modes de consultation de l'information"
 
 #. Default: "I Am Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:92
-#: cpskin.core/cpskin/core/extender.py:65
+#: cpskin.core/cpskin/core/behaviors/metadata.py:93
+#: cpskin.core/cpskin/core/extender.py:61
 msgid "help_iam_tags"
 msgstr "Les mots clés - Je suis - sont utilisés dans le câdre de la navigation par facettes"
 
 #. Default: "I Search Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:71
-#: cpskin.core/cpskin/core/extender.py:80
+#: cpskin.core/cpskin/core/behaviors/metadata.py:72
+#: cpskin.core/cpskin/core/extender.py:76
 msgid "help_isearch_tags"
 msgstr "Les mots clés - Je trouve - sont utilisés dans le câdre de la navigation par facettes"
 
 #. Default: "Your email address."
-#: cpskin.core/cpskin/core/browser/interfaces.py:16
+#: cpskin.core/cpskin/core/browser/interfaces.py:14
 msgid "help_send_from"
 msgstr "Votre adresse courriel."
 
 #. Default: "Standard Tags are used for webmaster organization of content."
-#: cpskin.core/cpskin/core/behaviors/metadata.py:27
-#: cpskin.core/cpskin/core/extender.py:50
+#: cpskin.core/cpskin/core/behaviors/metadata.py:28
+#: cpskin.core/cpskin/core/extender.py:46
 msgid "help_standard_tags"
 msgstr "Les tags standard sont utilisé par l'administrateur du site."
 
 #. Default: "Change request"
-#: cpskin.core/cpskin/core/browser/interfaces.py:22
+#: cpskin.core/cpskin/core/browser/interfaces.py:20
 msgid "label_comment"
 msgstr "Demande de modification"
 
 #. Default: "Configurations"
-#: cpskin.core/cpskin/core/menu/menu.py:18
+#: cpskin.core/cpskin/core/menu/menu.py:16
 msgid "label_cpskin_configurations_menu"
 msgstr "Configurations"
 
@@ -890,50 +918,50 @@ msgid "label_filed_under_standard_tag"
 msgstr "Sous mots clés standards"
 
 #. Default: "Hidden Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:48
-#: cpskin.core/cpskin/core/extender.py:94
+#: cpskin.core/cpskin/core/behaviors/metadata.py:49
+#: cpskin.core/cpskin/core/extender.py:90
 msgid "label_hidden_tags"
 msgstr "Mots clés cachés"
 
 #. Default: "I Am Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:91
-#: cpskin.core/cpskin/core/extender.py:64
+#: cpskin.core/cpskin/core/behaviors/metadata.py:92
+#: cpskin.core/cpskin/core/extender.py:60
 msgid "label_iam_tags"
 msgstr "Mots clés cachés : Je suis"
 
 #. Default: "I Search Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:70
-#: cpskin.core/cpskin/core/extender.py:79
+#: cpskin.core/cpskin/core/behaviors/metadata.py:71
+#: cpskin.core/cpskin/core/extender.py:75
 msgid "label_isearch_tags"
 msgstr "Mots clés cachés : Je cherche"
 
 #. Default: "Item count for homepage"
-#: cpskin.core/cpskin/core/behaviors/indexview.py:84
+#: cpskin.core/cpskin/core/behaviors/indexview.py:85
 msgid "label_item_count_homepage"
 msgstr "Nombre d'éléments pour la page d'accueil"
 
 #. Default: "Categorization"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:19
+#: cpskin.core/cpskin/core/behaviors/metadata.py:20
 msgid "label_schema_categorization"
 msgstr "Catégorisation"
 
 #. Default: "Send"
-#: cpskin.core/cpskin/core/browser/sendtomanager.py:38
+#: cpskin.core/cpskin/core/browser/sendtomanager.py:34
 msgid "label_send"
 msgstr "Envoyer"
 
 #. Default: "From"
-#: cpskin.core/cpskin/core/browser/interfaces.py:14
+#: cpskin.core/cpskin/core/browser/interfaces.py:12
 msgid "label_send_from"
 msgstr "Expéditeur"
 
 #. Default: "Standard Tags"
-#: cpskin.core/cpskin/core/behaviors/metadata.py:26
+#: cpskin.core/cpskin/core/behaviors/metadata.py:27
 msgid "label_standardTags"
 msgstr "Mot clé standard"
 
 #. Default: "Standard Tags"
-#: cpskin.core/cpskin/core/extender.py:49
+#: cpskin.core/cpskin/core/extender.py:45
 msgid "label_standard_tags"
 msgstr "Mot clé standard"
 
@@ -947,7 +975,7 @@ msgid "modifier_zone_statique"
 msgstr "[Modifier la zone statique]"
 
 #. Default: "Il y a ${results} occurrence(s) en plus."
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.py:51
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.py:55
 msgid "msg_num_more_occurrences"
 msgstr "Il y a ${results} occurrence(s) en plus."
 
@@ -962,12 +990,12 @@ msgid "politique-en-matiere-de-cookies"
 msgstr "<h1>Politique en matière de cookies</h1> <h2>Qu’est-ce qu’un cookie ?</h2> <p>Les cookies sont des petits fichiers textes que le serveur d'un site web enregistre sur votre ordinateur ou votre appareil mobile (smartphone, tablette...) lorsque vous visitez un site à l'aide de votre navigateur. Un cookie contient des informations qui permettent au site visité d'identifier votre navigateur et de retenir vos activités antérieures (p.ex. choix de la langue…). Le serveur du site web ne peut lire que les cookies qu’il a enregistré lui-même. Il n’a pas accès aux autres fichiers qui se trouvent sur votre ordinateur ou appareil mobile.</p> <h2>Quels sont les cookies utilisés ?</h2> <p>Nous utilisons des cookies pour simplifier l’utilisation du site et accélérer les opérations lors de vos prochaines visites.</p> <p>Nous nous servons aussi des cookies pour produire des statistiques anonymes sur l’utilisation de notre site web dans le but d’en améliorer la structure et le contenu. Ces données statistiques ne permettent cependant pas de vous identifier personnellement.</p> <p>Vous trouverez ci-dessous une description complète des cookies que nous utilisons.</p> <h3>Cookies techniques</h3> <p>Ces cookies sont essentiels au bon fonctionnement de notre site web.</p> <p>Ils vous permettent par exemple de naviguer entre les différentes parties du site et d’en exploiter certaines fonctionnalités.</p> <p>Les cookies techniques ne permettent pas de vous identifier personnellement. Si vous refusez ces cookies, il est possible que certaines parties du site web ne fonctionnent pas ou fonctionnent de façon incomplète.</p> <h3>Cookies fonctionnels</h3> <p>Ces cookies mémorisent vos choix (p.ex. choix de la langue) afin de personnaliser votre visite sur le site. Les cookies fonctionnels ne permettent pas de vous identifier personnellement. Si vous refusez ces cookies, il est possible que certaines parties du site web ne fonctionnent pas ou fonctionnent de façon incomplète.</p> <br /> <p>Les cookies techniques et fonctionnels sont des cookies propres ou ‘first party’ : ils proviennent du serveur de notre site web.</p> <h2>Comment gérer ou supprimer les cookies ?</h2> <p>La plupart des navigateurs Internet sont paramétrés pour accepter automatiquement les cookies. Vous pouvez modifier vos préférences pour bloquer les cookies ou pour être averti quand un cookie est enregistré sur votre ordinateur ou appareil mobile. Pour plus de détails sur le paramétrage de votre navigateur, consultez les instructions d'utilisation ou les écrans d'aide.</p>"
 
 #. Default: "Merci de fournir le maximum d'information ainsi que tout renseignement qui permette de la valider (source)."
-#: cpskin.core/cpskin/core/browser/sendtomanager.py:30
+#: cpskin.core/cpskin/core/browser/sendtomanager.py:26
 msgid "provide_maximum_informations"
 msgstr "Merci de fournir le maximum d'information ainsi que tout renseignement qui permette de la valider (source)."
 
 #. Default: "Report an error to the site manager"
-#: cpskin.core/cpskin/core/browser/sendtomanager.py:27
+#: cpskin.core/cpskin/core/browser/sendtomanager.py:23
 msgid "report_error_to_site_manager"
 msgstr "Signaler une erreur au webmaster"
 
@@ -999,7 +1027,7 @@ msgid "string:http://fr.wikipedia.org/wiki/Free_Software_Foundation"
 msgstr "http://fr.wikipedia.org/wiki/Free_Software_Foundation"
 
 #. Default: "Configurations for the current content item"
-#: cpskin.core/cpskin/core/menu/menu.py:19
+#: cpskin.core/cpskin/core/menu/menu.py:17
 msgid "title_cpskin_actions_menu"
 msgstr "Configuration pour le type de contenu courrant"
 
@@ -1013,12 +1041,12 @@ msgstr "Visuel"
 msgid "with_the_following_comment"
 msgstr "Avec le commentaire suivant"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:466
+#: cpskin.core/cpskin/core/browser/folderview.py:505
 #: cpskin.policy/cpskin/policy/setuphandlers.py:225
 msgid "À la une"
 msgstr "À la une"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:513
+#: cpskin.core/cpskin/core/browser/folderview.py:552
 #: cpskin.policy/cpskin/policy/setuphandlers.py:174
 msgid "Événements"
 msgstr "Événements"
