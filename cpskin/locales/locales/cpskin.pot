@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2017-04-18 09:41+0000\n"
+"POT-Creation-Date: 2017-04-27 20:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -366,6 +366,12 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/faceted/widgets/layout.py:55
 msgid "Layout selection"
+msgstr ""
+
+msgid "Lead image"
+msgstr ""
+
+msgid "Lead image caption"
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/controlpanel.py:77

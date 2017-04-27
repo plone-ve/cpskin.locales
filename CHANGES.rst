@@ -4,6 +4,9 @@ Changelog
 0.5.12 (unreleased)
 -------------------
 
+- Add translation for lead image
+  [laulaz]
+
 - Add translation for 'day and month' option on index view : #16800
   [laulaz]
 

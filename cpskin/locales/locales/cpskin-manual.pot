@@ -59,3 +59,9 @@ msgstr ""
 
 msgid "Faceted agenda view"
 msgstr ""
+
+msgid "Lead image"
+msgstr ""
+
+msgid "Lead image caption"
+msgstr ""

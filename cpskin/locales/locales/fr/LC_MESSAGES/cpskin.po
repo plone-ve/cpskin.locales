@@ -354,6 +354,12 @@ msgstr "Le slider de la page d'accueil est automatiquement démarrer ?"
 msgid "Layout selection"
 msgstr "Sélection de l'affichage"
 
+msgid "Lead image"
+msgstr "Image liée"
+
+msgid "Lead image caption"
+msgstr "Titre de l'image liée"
+
 #: cpskin.core/cpskin/core/browser/controlpanel.py:77
 msgid "Lets you change the settings of CPSkin"
 msgstr "Vous permet de changer la configuration de CPSkin"

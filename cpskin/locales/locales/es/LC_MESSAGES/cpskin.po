@@ -354,6 +354,12 @@ msgstr ""
 msgid "Layout selection"
 msgstr ""
 
+msgid "Lead image"
+msgstr ""
+
+msgid "Lead image caption"
+msgstr ""
+
 #: cpskin.core/cpskin/core/browser/controlpanel.py:77
 msgid "Lets you change the settings of CPSkin"
 msgstr ""
