@@ -19,3 +19,4 @@ var/
 src/
 lib/
 include/
+npm-debug.log
