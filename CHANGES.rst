@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.12 (unreleased)
+0.5.12 (2017-05-03)
 -------------------
 
 - Add translation for lead image
