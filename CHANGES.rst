@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.13 (unreleased)
+0.5.13 (2017-05-17)
 -------------------
 
 - Add See on map translations.
