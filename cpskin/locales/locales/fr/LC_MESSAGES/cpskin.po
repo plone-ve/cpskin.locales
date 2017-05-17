@@ -193,11 +193,11 @@ msgstr "Voulez-vous cacher les titres sur la vue index ?"
 
 #: cpskin.core/cpskin/core/behaviors/metadata.py:176
 msgid "Do you want to logo of contact on the popup on map ?"
-msgstr ""
+msgstr "Voulez-vous voir le logo du contact dans le popup de la carte ?"
 
 #: cpskin.core/cpskin/core/behaviors/metadata.py:169
 msgid "Do you want to map with links of contacts ?"
-msgstr ""
+msgstr "Voulez-vous voir les liens des contacts vers la carte ?"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:118
 msgid "Do you want to show day and month instead of lead image on index view ?"
@@ -508,15 +508,15 @@ msgstr "Détail de l'horaire"
 
 #: cpskin.core/cpskin/core/behaviors/metadata.py:175
 msgid "See logo on map popup"
-msgstr ""
+msgstr "Voir le logo sur la carte"
 
 #: cpskin.core/cpskin/core/behaviors/metadata.py:168
 msgid "See map"
-msgstr ""
+msgstr "Voir la carte"
 
 #: cpskin.core/cpskin/core/viewlets/related_contacts.pt:60
 msgid "See on map"
-msgstr ""
+msgstr "Voir sur la carte"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Show banner"

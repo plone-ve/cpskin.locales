@@ -4,7 +4,8 @@ Changelog
 0.5.13 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add See on map translations.
+  [bsuttor]
 
 
 0.5.12 (2017-05-03)
