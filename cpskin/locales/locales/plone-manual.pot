@@ -15,3 +15,12 @@ msgstr ""
 "Domain: plone\n"
 "Language: \n"
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
+
+msgid "label_login_name"
+msgstr ""
+
+msgid "help_password_retrieval"
+msgstr ""
+
+msgid "label_click_here_to_retrieve"
+msgstr ""

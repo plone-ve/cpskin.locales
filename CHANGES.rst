@@ -4,7 +4,8 @@ Changelog
 0.5.14 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Change translations for password forgotten texts
+  [laulaz]
 
 
 0.5.13 (2017-05-17)

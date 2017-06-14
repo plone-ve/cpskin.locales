@@ -379,3 +379,12 @@ msgstr ""
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:91
 msgid "title_subscribe_rss_feed"
 msgstr ""
+
+msgid "label_login_name"
+msgstr "Identifiant (nom d'utilisateur)"
+
+msgid "help_password_retrieval"
+msgstr "${click_here}."
+
+msgid "label_click_here_to_retrieve"
+msgstr "Créer un nouveau mot de passe"
