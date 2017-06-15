@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2016-10-05 09:54+0000\n"
+"POT-Creation-Date: 2017-06-15 09:27+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: support@communesplone.org\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,10 +15,6 @@ msgstr ""
 "Domain: plone\n"
 "Language: \n"
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
-
-#: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/cpskin_readonly_workflow/definition.xml
-msgid "- Essentially a workflow with no transitions, with a private state. Owner cannot modify."
-msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_collective_contact_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/upgrades/to1/workflows/cpskin_collective_contact_workflow/definition.xml
@@ -65,10 +61,6 @@ msgstr "Peut gérer (portlets et mots-clés)"
 msgid "Collection portlet with slider view"
 msgstr ""
 
-#: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/cpskin_readonly_workflow/definition.xml
-msgid "Comment about the last transition"
-msgstr ""
-
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_collective_contact_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
@@ -99,34 +91,17 @@ msgstr ""
 msgid "Member makes content private"
 msgstr ""
 
-#: cpskin.core/cpskin/core/profiles/members-config/actions.xml
-msgid "My Folder"
-msgstr ""
-
-#: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/cpskin_readonly_workflow/definition.xml
-msgid "Owner readonly, Single State Workflow"
-msgstr ""
-
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 msgid "Pending"
 msgstr "En attente de modération"
 
-#: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/cpskin_readonly_workflow/definition.xml
-msgid "Previous transition"
-msgstr ""
-
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
-#: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/cpskin_readonly_workflow/definition.xml
 msgid "Private"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 msgid "Propose"
 msgstr "Proposer au modérateur"
-
-#: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/cpskin_readonly_workflow/definition.xml
-msgid "Provides access to workflow history"
-msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_collective_contact_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/upgrades/to1/workflows/cpskin_collective_contact_workflow/definition.xml
@@ -190,24 +165,12 @@ msgstr ""
 msgid "The I search tags configured by the webmaster"
 msgstr ""
 
-#: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/cpskin_readonly_workflow/definition.xml
-msgid "The ID of the user who performed the previous transition"
-msgstr ""
-
 #: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
 msgid "The hidden tags configured by the webmaster"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
 msgid "The standard tags configured by the webmaster"
-msgstr ""
-
-#: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/cpskin_readonly_workflow/definition.xml
-msgid "Visible to owner but not editable."
-msgstr ""
-
-#: cpskin.workflow/cpskin/workflow/profiles/members-config/workflows/cpskin_readonly_workflow/definition.xml
-msgid "When the previous transition was performed"
 msgstr ""
 
 #. Default: "${number} items matching your search terms."
@@ -271,6 +234,9 @@ msgstr ""
 msgid "heading_sections"
 msgstr ""
 
+msgid "help_password_retrieval"
+msgstr "${click_here}."
+
 #. Default: "Advanced Search…"
 #: cpskin.minisite/cpskin/minisite/searchbox_in_minisite.pt:50
 msgid "label_advanced_search"
@@ -281,10 +247,16 @@ msgstr ""
 msgid "label_by_author"
 msgstr ""
 
+msgid "label_click_here_to_retrieve"
+msgstr "Créer un nouveau mot de passe"
+
 #. Default: "Item type"
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:128
 msgid "label_item_type"
 msgstr ""
+
+msgid "label_login_name"
+msgstr "Identifiant (nom d'utilisateur)"
 
 #. Default: "New items since"
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:182
@@ -379,12 +351,3 @@ msgstr ""
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:91
 msgid "title_subscribe_rss_feed"
 msgstr ""
-
-msgid "label_login_name"
-msgstr "Identifiant (nom d'utilisateur)"
-
-msgid "help_password_retrieval"
-msgstr "${click_here}."
-
-msgid "label_click_here_to_retrieve"
-msgstr "Créer un nouveau mot de passe"
