@@ -224,8 +224,8 @@ msgstr "Voulez-vous utiliser la nouvelle template de vue index (expérimentale) 
 msgid "Enable navigation toggle"
 msgstr "Activer la navigation toggle"
 
-msgid "Faceted agenda view"
-msgstr "Vue agenda"
+msgid "Faceted agenda view (grouped by day)"
+msgstr "Vue agenda (groupée par jour)"
 
 msgid "Faceted events preview"
 msgstr "Vue événement"

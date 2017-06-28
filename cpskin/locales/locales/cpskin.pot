@@ -238,7 +238,7 @@ msgstr ""
 msgid "Enable navigation toggle"
 msgstr ""
 
-msgid "Faceted agenda view"
+msgid "Faceted agenda view (grouped by day)"
 msgstr ""
 
 msgid "Faceted events preview"

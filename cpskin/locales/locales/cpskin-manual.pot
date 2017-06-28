@@ -57,7 +57,7 @@ msgstr ""
 msgid "Faceted events preview"
 msgstr ""
 
-msgid "Faceted agenda view"
+msgid "Faceted agenda view (grouped by day)"
 msgstr ""
 
 msgid "Lead image"

@@ -4,6 +4,9 @@ Changelog
 0.5.14 (unreleased)
 -------------------
 
+- Update translations for Faceted agenda view
+  [laulaz]
+
 - Change translations for password forgotten texts
   [laulaz]
 
