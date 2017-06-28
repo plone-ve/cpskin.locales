@@ -30,7 +30,7 @@ msgstr ""
 msgid "4th level navigation enabled on content"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:599
+#: cpskin.core/cpskin/core/browser/folderview.py:611
 #: cpskin.policy/cpskin/policy/setuphandlers.py:134
 msgid "Actualités"
 msgstr ""
@@ -60,7 +60,7 @@ msgstr ""
 msgid "Auto play slider"
 msgstr ""
 
-#: cpskin.core/cpskin/core/viewlets/banner.pt:19
+#: cpskin.core/cpskin/core/viewlets/banner.pt:27
 msgid "Banner"
 msgstr ""
 
@@ -108,7 +108,7 @@ msgstr ""
 msgid "CPSkin"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:134
+#: cpskin.core/cpskin/core/browser/controlpanel.py:156
 msgid "CPSkin settings"
 msgstr ""
 
@@ -150,7 +150,7 @@ msgid "Content removed from direct access menu"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:103
-#: cpskin.core/cpskin/core/setuphandlers.py:444
+#: cpskin.core/cpskin/core/setuphandlers.py:461
 msgid "Content to show in special action menu (top)"
 msgstr ""
 
@@ -228,7 +228,7 @@ msgstr ""
 msgid "Faceted events preview"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:176
+#: cpskin.core/cpskin/core/browser/configure.zcml:194
 msgid "Faceted items leadimage"
 msgstr ""
 
@@ -383,7 +383,7 @@ msgstr ""
 msgid "Lead image caption"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:135
+#: cpskin.core/cpskin/core/browser/controlpanel.py:157
 msgid "Lets you change the settings of CPSkin"
 msgstr ""
 
@@ -400,7 +400,7 @@ msgstr ""
 msgid "Location"
 msgstr ""
 
-#: cpskin.core/cpskin/core/viewlets/banner.pt:9
+#: cpskin.core/cpskin/core/viewlets/banner.pt:17
 msgid "Logo"
 msgstr ""
 
@@ -493,7 +493,7 @@ msgid "Phones"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:104
-#: cpskin.core/cpskin/core/setuphandlers.py:445
+#: cpskin.core/cpskin/core/setuphandlers.py:462
 msgid "Please select which contents should be taken to this menu."
 msgstr ""
 
@@ -554,8 +554,23 @@ msgstr ""
 msgid "See on map"
 msgstr ""
 
+#: cpskin.core/cpskin/core/interfaces.py:127
+#: cpskin.core/cpskin/core/setuphandlers.py:429
+msgid "Show (right) portlets (if any) in right actions panel after related contents."
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:126
+#: cpskin.core/cpskin/core/setuphandlers.py:428
+msgid "Show (right) portlets in right actions panel"
+msgstr ""
+
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Show banner"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:120
+#: cpskin.core/cpskin/core/setuphandlers.py:479
+msgid "Show banner title and description as homepage slogan."
 msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:148
@@ -567,12 +582,12 @@ msgid "Show items descriptions"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:113
-#: cpskin.core/cpskin/core/setuphandlers.py:429
+#: cpskin.core/cpskin/core/setuphandlers.py:446
 msgid "Show leadimage (if any) in the top action menu with content selected in the field before."
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:112
-#: cpskin.core/cpskin/core/setuphandlers.py:428
+#: cpskin.core/cpskin/core/setuphandlers.py:445
 msgid "Show leadimage in action menu"
 msgstr ""
 
@@ -586,6 +601,11 @@ msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/profiles/default/actions.xml
 msgid "Show minisite horizontal navigation menu"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:119
+#: cpskin.core/cpskin/core/setuphandlers.py:478
+msgid "Show slogan with banner"
 msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/faceted/widgets/simpledate/widget.py:22
@@ -637,6 +657,10 @@ msgstr ""
 #: cpskin.core/cpskin/core/interfaces.py:67
 #: cpskin.core/cpskin/core/setuphandlers.py:336
 msgid "Sub menu persistence"
+msgstr ""
+
+#: cpskin.core/cpskin/core/viewlets/right_actions.pt:23
+msgid "Table of contents"
 msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/testing.zcml:18
@@ -720,6 +744,10 @@ msgstr ""
 msgid "Use related contacts fields for Event"
 msgstr ""
 
+#: cpskin.core/cpskin/core/viewlets/right_actions.pt:7
+msgid "Useful links"
+msgstr ""
+
 #: cpskin.core/cpskin/core/faceted/widgets/layout.py:33
 msgid "Views"
 msgstr ""
@@ -740,7 +768,7 @@ msgstr "All"
 msgid "Vue index avec collections configurée."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:159
+#: cpskin.core/cpskin/core/browser/configure.zcml:177
 msgid "Vue index avec collections et slider"
 msgstr ""
 
@@ -786,7 +814,7 @@ msgstr ""
 msgid "cpskin.core"
 msgstr ""
 
-#: cpskin.core/cpskin/core/profiles.zcml:280
+#: cpskin.core/cpskin/core/profiles.zcml:307
 msgid "cpskin.core: init"
 msgstr ""
 
@@ -1113,12 +1141,12 @@ msgstr ""
 msgid "with_the_following_comment"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:577
+#: cpskin.core/cpskin/core/browser/folderview.py:589
 #: cpskin.policy/cpskin/policy/setuphandlers.py:225
 msgid "À la une"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:624
+#: cpskin.core/cpskin/core/browser/folderview.py:636
 #: cpskin.policy/cpskin/policy/setuphandlers.py:174
 msgid "Événements"
 msgstr ""
