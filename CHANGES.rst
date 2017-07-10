@@ -4,6 +4,9 @@ Changelog
 0.5.14 (unreleased)
 -------------------
 
+- Update translations for Faceted contacts preview.
+  [bsuttor]
+
 - Update translations for Faceted agenda view
   [laulaz]
 
@@ -77,7 +80,7 @@ Changelog
 0.5.7 (2016-10-05)
 ------------------
 
-- Add transalation for set-geo-contents-form.
+- Add translation for set-geo-contents-form.
   [bsuttor]
 
 - Add missing translations for review states
@@ -144,7 +147,7 @@ Changelog
 0.4 (2016-03-23)
 ----------------
 
-- Add missing transalation for 'voir_lensemble_des'.
+- Add missing translation for 'voir_lensemble_des'.
   [mgennart]
 
 

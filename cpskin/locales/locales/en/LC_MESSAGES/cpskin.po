@@ -56,7 +56,7 @@ msgid "Additional searchable text"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:74
-#: cpskin.core/cpskin/core/setuphandlers.py:354
+#: cpskin.core/cpskin/core/setuphandlers.py:356
 msgid "Auto play slider"
 msgstr ""
 
@@ -112,16 +112,16 @@ msgstr ""
 msgid "CPSkin settings"
 msgstr ""
 
-#: cpskin.core/cpskin/core/setuphandlers.py:412
+#: cpskin.core/cpskin/core/setuphandlers.py:414
 msgid "Choose an horizontal or vertical slider."
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:88
-#: cpskin.core/cpskin/core/setuphandlers.py:393
+#: cpskin.core/cpskin/core/setuphandlers.py:395
 msgid "City name"
 msgstr ""
 
-#: cpskin.core/cpskin/core/setuphandlers.py:394
+#: cpskin.core/cpskin/core/setuphandlers.py:396
 msgid "City name variable used in some template."
 msgstr ""
 
@@ -150,7 +150,7 @@ msgid "Content removed from direct access menu"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:103
-#: cpskin.core/cpskin/core/setuphandlers.py:461
+#: cpskin.core/cpskin/core/setuphandlers.py:463
 msgid "Content to show in special action menu (top)"
 msgstr ""
 
@@ -222,7 +222,15 @@ msgstr ""
 msgid "Enable navigation toggle"
 msgstr ""
 
+#: cpskin.core/cpskin/core/behaviors/eventview.py:17
+msgid "Event view"
+msgstr ""
+
 msgid "Faceted agenda view (grouped by day)"
+msgstr ""
+
+#: cpskin.core/cpskin/core/faceted/views/configure.zcml:37
+msgid "Faceted contacts preview"
 msgstr ""
 
 msgid "Faceted events preview"
@@ -230,6 +238,10 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/browser/configure.zcml:194
 msgid "Faceted items leadimage"
+msgstr ""
+
+#: cpskin.core/cpskin/core/faceted/views/configure.zcml:22
+msgid "Faceted items list"
 msgstr ""
 
 msgid "Faceted items preview"
@@ -359,17 +371,17 @@ msgid "Installs the cpskin.slider package"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:61
-#: cpskin.core/cpskin/core/setuphandlers.py:320
+#: cpskin.core/cpskin/core/setuphandlers.py:322
 msgid "Is level 1 menu load page at click?"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:68
-#: cpskin.core/cpskin/core/setuphandlers.py:337
+#: cpskin.core/cpskin/core/setuphandlers.py:339
 msgid "Is level 2 menu persist?"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:75
-#: cpskin.core/cpskin/core/setuphandlers.py:355
+#: cpskin.core/cpskin/core/setuphandlers.py:357
 msgid "Is the front page slider automatically play?"
 msgstr ""
 
@@ -392,7 +404,7 @@ msgid "Links in social viewlet"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:60
-#: cpskin.core/cpskin/core/setuphandlers.py:319
+#: cpskin.core/cpskin/core/setuphandlers.py:321
 msgid "Load page menu"
 msgstr ""
 
@@ -460,7 +472,7 @@ msgstr ""
 msgid "Number of milliseconds between each transition."
 msgstr ""
 
-#: cpskin.core/cpskin/core/setuphandlers.py:373
+#: cpskin.core/cpskin/core/setuphandlers.py:375
 msgid "Number of seconds between each transition."
 msgstr ""
 
@@ -493,7 +505,7 @@ msgid "Phones"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:104
-#: cpskin.core/cpskin/core/setuphandlers.py:462
+#: cpskin.core/cpskin/core/setuphandlers.py:464
 msgid "Please select which contents should be taken to this menu."
 msgstr ""
 
@@ -555,12 +567,12 @@ msgid "See on map"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:127
-#: cpskin.core/cpskin/core/setuphandlers.py:429
+#: cpskin.core/cpskin/core/setuphandlers.py:431
 msgid "Show (right) portlets (if any) in right actions panel after related contents."
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:126
-#: cpskin.core/cpskin/core/setuphandlers.py:428
+#: cpskin.core/cpskin/core/setuphandlers.py:430
 msgid "Show (right) portlets in right actions panel"
 msgstr ""
 
@@ -569,7 +581,7 @@ msgid "Show banner"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:120
-#: cpskin.core/cpskin/core/setuphandlers.py:479
+#: cpskin.core/cpskin/core/setuphandlers.py:481
 msgid "Show banner title and description as homepage slogan."
 msgstr ""
 
@@ -582,12 +594,12 @@ msgid "Show items descriptions"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:113
-#: cpskin.core/cpskin/core/setuphandlers.py:446
+#: cpskin.core/cpskin/core/setuphandlers.py:448
 msgid "Show leadimage (if any) in the top action menu with content selected in the field before."
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:112
-#: cpskin.core/cpskin/core/setuphandlers.py:445
+#: cpskin.core/cpskin/core/setuphandlers.py:447
 msgid "Show leadimage in action menu"
 msgstr ""
 
@@ -604,7 +616,7 @@ msgid "Show minisite horizontal navigation menu"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:119
-#: cpskin.core/cpskin/core/setuphandlers.py:478
+#: cpskin.core/cpskin/core/setuphandlers.py:480
 msgid "Show slogan with banner"
 msgstr ""
 
@@ -617,12 +629,12 @@ msgid "Site r&eacute;alis&eacute; en collaboration avec"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:81
-#: cpskin.core/cpskin/core/setuphandlers.py:372
+#: cpskin.core/cpskin/core/setuphandlers.py:374
 msgid "Slider timer"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:95
-#: cpskin.core/cpskin/core/setuphandlers.py:411
+#: cpskin.core/cpskin/core/setuphandlers.py:413
 msgid "Slider type"
 msgstr ""
 
@@ -655,7 +667,7 @@ msgid "Stop using big images"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:67
-#: cpskin.core/cpskin/core/setuphandlers.py:336
+#: cpskin.core/cpskin/core/setuphandlers.py:338
 msgid "Sub menu persistence"
 msgstr ""
 
@@ -814,7 +826,7 @@ msgstr ""
 msgid "cpskin.core"
 msgstr ""
 
-#: cpskin.core/cpskin/core/profiles.zcml:307
+#: cpskin.core/cpskin/core/profiles.zcml:315
 msgid "cpskin.core: init"
 msgstr ""
 
@@ -953,6 +965,11 @@ msgstr ""
 msgid "flux_rss"
 msgstr ""
 
+#. Default: "Image used as banner replacement when viewing this event"
+#: cpskin.core/cpskin/core/behaviors/eventview.py:26
+msgid "help_bannerimage"
+msgstr ""
+
 #. Default: "Report an error or missing information."
 #: cpskin.core/cpskin/core/browser/interfaces.py:22
 msgid "help_comment"
@@ -985,6 +1002,11 @@ msgstr ""
 #: cpskin.core/cpskin/core/behaviors/metadata.py:28
 #: cpskin.core/cpskin/core/extender.py:46
 msgid "help_standard_tags"
+msgstr ""
+
+#. Default: "Banner image"
+#: cpskin.core/cpskin/core/behaviors/eventview.py:25
+msgid "label_bannerimage"
 msgstr ""
 
 #. Default: "Change request"
