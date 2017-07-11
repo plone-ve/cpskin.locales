@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.14 (unreleased)
+0.5.14 (2017-07-11)
 -------------------
 
 - Update translations for Faceted contacts preview.
