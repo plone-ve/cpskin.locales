@@ -32,7 +32,7 @@ msgstr ""
 msgid "4th level navigation enabled on content"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:611
+#: cpskin.core/cpskin/core/browser/folderview.py:630
 #: cpskin.policy/cpskin/policy/setuphandlers.py:134
 msgid "Actualités"
 msgstr ""
@@ -82,11 +82,11 @@ msgstr ""
 msgid "Banner enabled on content and sub-contents"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:306
+#: cpskin.core/cpskin/core/browser/folderview.py:308
 msgid "Big images are not used anymore on this folder view."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:297
+#: cpskin.core/cpskin/core/browser/folderview.py:299
 msgid "Big images are now used on this folder view."
 msgstr ""
 
@@ -164,11 +164,11 @@ msgstr ""
 msgid "Content types"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:239
+#: cpskin.core/cpskin/core/browser/folderview.py:241
 msgid "Contenu ajouté à la vue index."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:247
+#: cpskin.core/cpskin/core/browser/folderview.py:249
 msgid "Contenu retiré de la vue index."
 msgstr ""
 
@@ -228,13 +228,19 @@ msgstr ""
 msgid "Event view"
 msgstr ""
 
+#: cpskin.agenda/cpskin/agenda/faceted/views/configure.zcml:40
 msgid "Faceted agenda view (grouped by day)"
+msgstr ""
+
+#: cpskin.agenda/cpskin/agenda/faceted/views/configure.zcml:61
+msgid "Faceted agenda view (ungrouped)"
 msgstr ""
 
 #: cpskin.core/cpskin/core/faceted/views/configure.zcml:37
 msgid "Faceted contacts preview"
 msgstr ""
 
+#: cpskin.agenda/cpskin/agenda/faceted/views/configure.zcml:18
 msgid "Faceted events preview"
 msgstr ""
 
@@ -774,7 +780,7 @@ msgstr ""
 msgid "Visible fields for below viewlet"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:412
+#: cpskin.core/cpskin/core/browser/folderview.py:431
 msgid "Voir l'ensemble des"
 msgstr ""
 
@@ -1165,12 +1171,12 @@ msgstr ""
 msgid "with_the_following_comment"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:589
+#: cpskin.core/cpskin/core/browser/folderview.py:608
 #: cpskin.policy/cpskin/policy/setuphandlers.py:225
 msgid "À la une"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:636
+#: cpskin.core/cpskin/core/browser/folderview.py:655
 #: cpskin.policy/cpskin/policy/setuphandlers.py:174
 msgid "Événements"
 msgstr ""

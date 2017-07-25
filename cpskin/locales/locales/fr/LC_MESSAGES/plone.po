@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2017-06-15 09:27+0000\n"
+"POT-Creation-Date: 2017-07-25 14:13+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: support@communesplone.org\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -81,6 +81,10 @@ msgstr ""
 
 #: cpskin.menu/cpskin/menu/testing.zcml:17
 msgid "Installs the cpskin.menu package"
+msgstr ""
+
+#: cpskin.slider/cpskin/slider/browser/collection_slider_dx_view.pt:80
+msgid "Lire la suite"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
