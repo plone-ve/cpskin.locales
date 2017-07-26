@@ -4,7 +4,8 @@ Changelog
 0.5.15 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Update vue agenda.
+  [bsuttor]
 
 
 0.5.14 (2017-07-11)
