@@ -234,7 +234,7 @@ msgstr "Vue agenda (groupée par jour)"
 
 #: cpskin.agenda/cpskin/agenda/faceted/views/configure.zcml:61
 msgid "Faceted agenda view (ungrouped)"
-msgstr ""
+msgstr "Vue agenda"
 
 #: cpskin.core/cpskin/core/faceted/views/configure.zcml:37
 msgid "Faceted contacts preview"
