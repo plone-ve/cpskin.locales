@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.15 (unreleased)
+0.5.15 (2017-07-26)
 -------------------
 
 - Update vue agenda.
