@@ -230,7 +230,7 @@ msgstr "Vue événement"
 
 #: cpskin.agenda/cpskin/agenda/faceted/views/configure.zcml:40
 msgid "Faceted agenda view (grouped by day)"
-msgstr "Vue agenda (groupée par jour)"
+msgstr "Vue agenda par jour"
 
 #: cpskin.agenda/cpskin/agenda/faceted/views/configure.zcml:61
 msgid "Faceted agenda view (ungrouped)"
@@ -246,7 +246,7 @@ msgstr "Vue événement"
 
 #: cpskin.core/cpskin/core/browser/configure.zcml:194
 msgid "Faceted items leadimage"
-msgstr "Leadimage pour faceted"
+msgstr "Vue facettes avec images"
 
 #: cpskin.core/cpskin/core/faceted/views/configure.zcml:22
 msgid "Faceted items list"
@@ -766,7 +766,7 @@ msgstr "Utiliser les liens vers les contacts pour le événements"
 
 #: cpskin.core/cpskin/core/viewlets/right_actions.pt:7
 msgid "Useful links"
-msgstr "Liens utils"
+msgstr "Liens utiles"
 
 #: cpskin.core/cpskin/core/faceted/widgets/layout.py:33
 msgid "Views"
