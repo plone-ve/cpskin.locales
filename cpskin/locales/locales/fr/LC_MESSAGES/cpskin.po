@@ -1046,7 +1046,7 @@ msgstr "Flux RSS"
 #. Default: "Add event to calendar"
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:175
 msgid "heading_add_to_calendar"
-msgstr "Ajouter l'événement au calendrier"
+msgstr "Ajouter au calendrier"
 
 #. Default: "Image used as banner replacement when viewing this event"
 #: cpskin.core/cpskin/core/behaviors/eventview.py:26

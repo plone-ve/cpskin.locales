@@ -4,7 +4,8 @@ Changelog
 0.5.18 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Improve event_summary locales.
+  [bsuttor]
 
 
 0.5.17 (2017-09-12)
