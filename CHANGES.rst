@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.18 (unreleased)
+0.5.18 (2017-09-12)
 -------------------
 
 - Improve event_summary locales.
