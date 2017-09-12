@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.17 (unreleased)
+0.5.17 (2017-09-12)
 -------------------
 
 - Add event_summary view to locales.
