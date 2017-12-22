@@ -37,17 +37,17 @@ msgstr "Partenaires"
 #. Default: "Attendees"
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:158
 msgid "contact_attendees"
-msgstr ""
+msgstr "Participants"
 
 #. Default: "Contact Name"
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:132
 msgid "contact_name"
-msgstr ""
+msgstr "Nom de contact"
 
 #. Default: "Contact Phone"
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:151
 msgid "contact_phone"
-msgstr ""
+msgstr "Téléphone de contact"
 
 #. Default: "Event"
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:18
