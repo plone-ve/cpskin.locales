@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.19 (unreleased)
+0.5.19 (2018-01-10)
 -------------------
 
 - Override plonelocales translations.
