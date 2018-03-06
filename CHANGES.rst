@@ -4,7 +4,8 @@ Changelog
 0.5.20 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Update cpskin translations and add FR translations for #19171 & #20754
+  [laulaz]
 
 
 0.5.19 (2018-01-10)
