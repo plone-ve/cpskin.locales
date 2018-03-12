@@ -596,7 +596,7 @@ msgstr "Sélectionner quel champ caché est utilisé par la collection de la vue
 #: cpskin.core/cpskin/core/behaviors/directory.py:25
 #: cpskin.core/cpskin/core/behaviors/indexview.py:109
 msgid "Please write which taxonomy id should be used."
-msgstr "Inscriver l'identifiant de la taxonomie qui doit être utilisé"
+msgstr "Inscrivez l'identifiant de la taxonomie qui doit être utilisé"
 
 #: cpskin.minisite/cpskin/minisite/minisites_panel.pt:19
 msgid "Read-only list of minisites."
