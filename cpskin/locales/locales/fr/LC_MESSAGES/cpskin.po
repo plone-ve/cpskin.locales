@@ -232,7 +232,7 @@ msgstr "Attention : un graphisme spécifique doit être prévu avant d'activer c
 
 #: cpskin.core/cpskin/core/behaviors/directory.py:33
 msgid "Do you want to show images for organizations preview in directory ?"
-msgstr ""
+msgstr "Voulez-vous afficher des photos dynamiques sur les fiches de la vue annuaire (et réduire les informations affichées) ?"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:156
 msgid "Do you want to show items descriptions on index view ?"
@@ -698,7 +698,7 @@ msgstr "Montrer le menu de navigation horizontal des minisites"
 
 #: cpskin.core/cpskin/core/behaviors/directory.py:32
 msgid "Show organizations images"
-msgstr ""
+msgstr "Afficher les photos"
 
 #: cpskin.core/cpskin/core/interfaces.py:119
 #: cpskin.core/cpskin/core/setuphandlers.py:446
