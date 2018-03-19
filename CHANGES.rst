@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.20 (unreleased)
+0.5.20 (2018-03-19)
 -------------------
 
 - Update cpskin translations and add FR translations for #19171 & #20754
