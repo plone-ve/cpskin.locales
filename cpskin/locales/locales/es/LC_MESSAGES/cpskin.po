@@ -230,6 +230,10 @@ msgstr ""
 msgid "Do you want to show day and month instead of lead image on index view ?"
 msgstr ""
 
+#: cpskin.core/cpskin/core/behaviors/directory.py:33
+msgid "Do you want to show images for organizations preview in directory ?"
+msgstr ""
+
 #: cpskin.core/cpskin/core/behaviors/indexview.py:156
 msgid "Do you want to show items descriptions on index view ?"
 msgstr ""
@@ -254,12 +258,8 @@ msgstr ""
 msgid "Faceted agenda view (ungrouped)"
 msgstr ""
 
-#: cpskin.core/cpskin/core/faceted/views/configure.zcml:38
+#: cpskin.core/cpskin/core/faceted/views/configure.zcml:39
 msgid "Faceted contacts preview"
-msgstr ""
-
-#: cpskin.core/cpskin/core/faceted/views/configure.zcml:57
-msgid "Faceted contacts preview with photos"
 msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/faceted/views/configure.zcml:18
@@ -575,7 +575,7 @@ msgstr ""
 msgid "Phones"
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/directory.py:32
+#: cpskin.core/cpskin/core/behaviors/directory.py:40
 msgid "Please select the scale."
 msgstr ""
 
@@ -593,7 +593,7 @@ msgstr ""
 msgid "Please select which hidden keywords is use by collections for             index view."
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/directory.py:25
+#: cpskin.core/cpskin/core/behaviors/directory.py:26
 #: cpskin.core/cpskin/core/behaviors/indexview.py:109
 msgid "Please write which taxonomy id should be used."
 msgstr ""
@@ -694,6 +694,10 @@ msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/profiles/default/actions.xml
 msgid "Show minisite horizontal navigation menu"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/directory.py:32
+msgid "Show organizations images"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:119
@@ -907,7 +911,7 @@ msgstr ""
 msgid "Which image scale use for collections of index view"
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/directory.py:31
+#: cpskin.core/cpskin/core/behaviors/directory.py:39
 msgid "Which image scale use for organizations preview in directory ?"
 msgstr ""
 
@@ -915,7 +919,7 @@ msgstr ""
 msgid "Which image scale use for slider"
 msgstr ""
 
-#: cpskin.core/cpskin/core/behaviors/directory.py:24
+#: cpskin.core/cpskin/core/behaviors/directory.py:25
 #: cpskin.core/cpskin/core/behaviors/indexview.py:108
 msgid "Which taxonomy id should be use to display category"
 msgstr ""
@@ -962,7 +966,7 @@ msgstr ""
 msgid "cpskin.core: default"
 msgstr ""
 
-#: cpskin.core/cpskin/core/profiles.zcml:383
+#: cpskin.core/cpskin/core/profiles.zcml:391
 msgid "cpskin.core: init"
 msgstr ""
 

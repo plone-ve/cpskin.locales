@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2017-07-25 14:13+0000\n"
+"POT-Creation-Date: 2018-03-19 10:01+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: support@communesplone.org\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,7 +22,7 @@ msgid "- Simple workflow with Created and Published states for collective.contac
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
-msgid "- Used for CPSkin site - Has four states: Created, Pending, Published and hidden (from navigation) and Published and shown (in navigation)"
+msgid "- Used for CPSkin site - Has five states: Created, Private, Pending, Published and hidden (from navigation) and Published and shown (in navigation)"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
@@ -87,10 +87,12 @@ msgstr ""
 msgid "Lire la suite"
 msgstr ""
 
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "Make private"
 msgstr ""
 
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "Member makes content private"
 msgstr ""
@@ -99,6 +101,7 @@ msgstr ""
 msgid "Pending"
 msgstr "En attente de modération"
 
+#: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "Private"
 msgstr ""
@@ -355,6 +358,3 @@ msgstr ""
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:91
 msgid "title_subscribe_rss_feed"
 msgstr ""
-
-msgid "label_related_items"
-msgstr "Contenus liés"
