@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.21 (unreleased)
+0.5.21 (2018-03-29)
 -------------------
 
 - Update translations for show_day_and_month setting split (#20879)
