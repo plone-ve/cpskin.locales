@@ -672,7 +672,7 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:155
 msgid "Show items descriptions"
-msgstr "Voir la déscription des éléments"
+msgstr "Voir la description des éléments"
 
 #: cpskin.core/cpskin/core/interfaces.py:113
 #: cpskin.core/cpskin/core/setuphandlers.py:414

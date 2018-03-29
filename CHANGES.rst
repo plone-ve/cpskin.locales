@@ -4,7 +4,8 @@ Changelog
 0.5.21 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Fix typo
+  [laulaz]
 
 
 0.5.20 (2018-03-19)
