@@ -4,7 +4,8 @@ Changelog
 0.5.22 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add manual translations for Activity content (in use for citizen) : #21571
+  [laulaz]
 
 
 0.5.21 (2018-03-29)
