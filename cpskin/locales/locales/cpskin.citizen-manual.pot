@@ -21,3 +21,15 @@ msgstr ""
 
 msgid "Activities can be shown in calendars."
 msgstr ""
+
+msgid "Organization"
+msgstr ""
+
+msgid "Event"
+msgstr ""
+
+msgid "Events can be shown in calendars."
+msgstr ""
+
+msgid "Organization can be shown in directory."
+msgstr ""

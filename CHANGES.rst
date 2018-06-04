@@ -4,7 +4,7 @@ Changelog
 0.5.22 (unreleased)
 -------------------
 
-- Add manual translations for Activity content (in use for citizen) : #21571
+- Add manual translations for citizen contents : #21571
   [laulaz]
 
 
