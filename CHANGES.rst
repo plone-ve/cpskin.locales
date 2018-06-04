@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.22 (unreleased)
+0.5.22 (2018-06-04)
 -------------------
 
 - Add manual translations for citizen contents : #21571
