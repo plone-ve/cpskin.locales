@@ -109,12 +109,12 @@ msgstr "Les grandes images sont maintenant utlisées pour ce dossier"
 
 #: cpskin.core/cpskin/core/behaviors/booking.py:26
 msgid "Booking URL"
-msgstr ""
+msgstr "Billetterie"
 
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:130
 #: cpskin.core/cpskin/core/behaviors/booking.py:15
 msgid "Booking type"
-msgstr ""
+msgstr "Type de réservation"
 
 #: cpskin.core/cpskin/core/profiles.zcml:33
 msgid "CPSKIN Core: upgrade to v17"
@@ -499,7 +499,7 @@ msgstr "Afficher ce contenu dans la vue index"
 
 #: cpskin.core/cpskin/core/vocabulary.py:31
 msgid "Mandatory booking"
-msgstr ""
+msgstr "Réservation obligatoire"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:56
 msgid "Maximum number of items in slider"
@@ -552,7 +552,7 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/vocabulary.py:30
 msgid "No booking"
-msgstr ""
+msgstr "Pas de réservation"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:119
 msgid "Number of items that will show up in one homepage."
@@ -582,7 +582,7 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/vocabulary.py:32
 msgid "Optional booking"
-msgstr ""
+msgstr "Réservation possible"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/configure.zcml:15
 msgid "Optional special schedule details for event."
@@ -640,7 +640,7 @@ msgstr "Inscrivez l'identifiant de la taxonomie qui doit être utilisé"
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:135
 #: cpskin.core/cpskin/core/behaviors/booking.py:21
 msgid "Price"
-msgstr ""
+msgstr "Tarifs"
 
 #: cpskin.minisite/cpskin/minisite/minisites_panel.pt:19
 msgid "Read-only list of minisites."

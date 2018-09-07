@@ -4,7 +4,8 @@ Changelog
 0.5.23 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Update translations for booking behavior (#20989)
+  [laulaz]
 
 
 0.5.22 (2018-06-04)
