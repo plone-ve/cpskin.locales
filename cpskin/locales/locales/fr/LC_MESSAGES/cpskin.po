@@ -856,7 +856,7 @@ msgstr "Ce texte sera visible sur la vue index pour le lien vers cette collectio
 
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:140
 msgid "Ticketing"
-msgstr ""
+msgstr "Billetterie"
 
 #: cpskin.agenda/cpskin/agenda/faceted/views/preview-events.pt:46
 #: cpskin.agenda/cpskin/agenda/faceted/views/view-agenda.pt:46
