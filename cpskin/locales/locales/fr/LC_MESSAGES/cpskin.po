@@ -677,12 +677,12 @@ msgstr "Détail de l'horaire"
 #: cpskin.core/cpskin/core/interfaces.py:158
 #: cpskin.core/cpskin/core/upgradehandlers.py:350
 msgid "Search box position in eligible themes."
-msgstr ""
+msgstr "Position de la recherche dans les thèmes compatibles."
 
 #: cpskin.core/cpskin/core/interfaces.py:157
 #: cpskin.core/cpskin/core/upgradehandlers.py:349
 msgid "Search position"
-msgstr ""
+msgstr "Position de la recherche"
 
 #: cpskin.core/cpskin/core/behaviors/metadata.py:179
 msgid "See logo on map popup"

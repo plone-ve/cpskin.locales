@@ -4,6 +4,9 @@ Changelog
 0.5.23 (unreleased)
 -------------------
 
+- Add missing translations
+  [laulaz]
+
 - Update translations for booking behavior (#20989)
   [laulaz]
 
