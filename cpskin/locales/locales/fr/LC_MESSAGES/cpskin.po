@@ -107,12 +107,12 @@ msgstr "Les grandes images ne sont plus utlisées pour ce dossier"
 msgid "Big images are now used on this folder view."
 msgstr "Les grandes images sont maintenant utlisées pour ce dossier"
 
-#: cpskin.core/cpskin/core/behaviors/booking.py:26
+#: cpskin.core/cpskin/core/behaviors/booking.py:30
 msgid "Booking URL"
 msgstr "Billetterie"
 
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:130
-#: cpskin.core/cpskin/core/behaviors/booking.py:15
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:129
+#: cpskin.core/cpskin/core/behaviors/booking.py:17
 msgid "Booking type"
 msgstr "Type de réservation"
 
@@ -139,6 +139,12 @@ msgstr "CPSkin"
 #: cpskin.core/cpskin/core/browser/controlpanel.py:197
 msgid "CPSkin settings"
 msgstr "Configuration de CPSkin"
+
+#: cpskin.diazotheme.dream/cpskin/diazotheme/dream/static/fragments/search.pt:1
+#: cpskin.diazotheme.dreamRightPortlet/cpskin/diazotheme/dreamRightPortlet/static/fragments/search.pt:1
+#: cpskin.diazotheme.dreamRightPortletBasic/cpskin/diazotheme/dreamRightPortletBasic/static/fragments/search.pt:1
+msgid "Chercher"
+msgstr ""
 
 #: cpskin.core/cpskin/core/setuphandlers.py:371
 msgid "Choose an horizontal or vertical slider."
@@ -422,6 +428,22 @@ msgstr "Installer CPSKIN theme"
 msgid "Installs CPSkin workflows"
 msgstr "Installer le workflow de CPSkin"
 
+#: cpskin.diazotheme.dream/cpskin/diazotheme/dream/configure.zcml:20
+msgid "Installs cpskin.diazotheme.dream theme"
+msgstr ""
+
+#: cpskin.diazotheme.dreamRightPortlet/cpskin/diazotheme/dreamRightPortlet/configure.zcml:20
+msgid "Installs cpskin.diazotheme.dreamRightPortlet theme"
+msgstr ""
+
+#: cpskin.diazotheme.dreamRightPortletBasic/cpskin/diazotheme/dreamRightPortletBasic/configure.zcml:19
+msgid "Installs cpskin.diazotheme.dreamRightPortletBasic theme"
+msgstr ""
+
+#: cpskin.diazotheme.dreambasic/cpskin/diazotheme/dreambasic/configure.zcml:19
+msgid "Installs cpskin.diazotheme.dreambasic theme"
+msgstr ""
+
 #: cpskin.workflow/cpskin/workflow/configure.zcml
 msgid "Installs members configuration workflow"
 msgstr "Installer le workflow pour la configuration des membres"
@@ -638,7 +660,7 @@ msgid "Please write which taxonomy id should be used."
 msgstr "Inscrivez l'identifiant de la taxonomie qui doit être utilisé"
 
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:135
-#: cpskin.core/cpskin/core/behaviors/booking.py:21
+#: cpskin.core/cpskin/core/behaviors/booking.py:24
 msgid "Price"
 msgstr "Tarifs"
 
@@ -854,7 +876,7 @@ msgstr "Cette image est visible sur la fiche dans l'annuaire."
 msgid "This text will be visible on index view for link to this collection"
 msgstr "Ce texte sera visible sur la vue index pour le lien vers cette collection"
 
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:140
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:141
 msgid "Ticketing"
 msgstr "Billetterie"
 
@@ -882,6 +904,22 @@ msgstr "Désinstaller CPSkin thême"
 #: cpskin.workflow/cpskin/workflow/configure.zcml:52
 msgid "Uninstalls CPSkin workflows"
 msgstr "Désinstaller CPSkin workflows"
+
+#: cpskin.diazotheme.dream/cpskin/diazotheme/dream/configure.zcml:29
+msgid "Uninstalls cpskin.diazotheme.dream theme"
+msgstr ""
+
+#: cpskin.diazotheme.dreamRightPortlet/cpskin/diazotheme/dreamRightPortlet/configure.zcml:29
+msgid "Uninstalls cpskin.diazotheme.dreamRightPortlet theme"
+msgstr ""
+
+#: cpskin.diazotheme.dreamRightPortletBasic/cpskin/diazotheme/dreamRightPortletBasic/configure.zcml:28
+msgid "Uninstalls cpskin.diazotheme.dreamRightPortletBasic theme"
+msgstr ""
+
+#: cpskin.diazotheme.dreambasic/cpskin/diazotheme/dreambasic/configure.zcml:28
+msgid "Uninstalls cpskin.diazotheme.dreambasic theme"
+msgstr ""
 
 #: cpskin.menu/cpskin/menu/meta.zcml:30
 msgid "Uninstalls the cpskin.menu package"
@@ -1043,6 +1081,38 @@ msgstr "cpskin.core: to19"
 #: cpskin.core/cpskin/core/profiles.zcml:22
 msgid "cpskin.core: uninstall"
 msgstr "cpskin.core: désinstaller"
+
+#: cpskin.diazotheme.dream/cpskin/diazotheme/dream/configure.zcml:20
+msgid "cpskin.diazotheme.dream"
+msgstr ""
+
+#: cpskin.diazotheme.dream/cpskin/diazotheme/dream/configure.zcml:29
+msgid "cpskin.diazotheme.dream uninstall"
+msgstr ""
+
+#: cpskin.diazotheme.dreamRightPortlet/cpskin/diazotheme/dreamRightPortlet/configure.zcml:20
+msgid "cpskin.diazotheme.dreamRightPortlet"
+msgstr ""
+
+#: cpskin.diazotheme.dreamRightPortlet/cpskin/diazotheme/dreamRightPortlet/configure.zcml:29
+msgid "cpskin.diazotheme.dreamRightPortlet uninstall"
+msgstr ""
+
+#: cpskin.diazotheme.dreamRightPortletBasic/cpskin/diazotheme/dreamRightPortletBasic/configure.zcml:19
+msgid "cpskin.diazotheme.dreamRightPortletBasic"
+msgstr ""
+
+#: cpskin.diazotheme.dreamRightPortletBasic/cpskin/diazotheme/dreamRightPortletBasic/configure.zcml:28
+msgid "cpskin.diazotheme.dreamRightPortletBasic uninstall"
+msgstr ""
+
+#: cpskin.diazotheme.dreambasic/cpskin/diazotheme/dreambasic/configure.zcml:19
+msgid "cpskin.diazotheme.dreambasic"
+msgstr ""
+
+#: cpskin.diazotheme.dreambasic/cpskin/diazotheme/dreambasic/configure.zcml:28
+msgid "cpskin.diazotheme.dreambasic uninstall"
+msgstr ""
 
 #: cpskin.menu/cpskin/menu/meta.zcml:22
 msgid "cpskin.menu"
