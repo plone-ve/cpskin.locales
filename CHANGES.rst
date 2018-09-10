@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.23 (unreleased)
+0.5.23 (2018-09-10)
 -------------------
 
 - Add missing translations
