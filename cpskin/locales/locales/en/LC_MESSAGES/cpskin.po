@@ -34,7 +34,7 @@ msgstr ""
 msgid "4th level navigation enabled on content"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:605
+#: cpskin.core/cpskin/core/browser/folderview.py:607
 #: cpskin.policy/cpskin/policy/setuphandlers.py:141
 msgid "Actualités"
 msgstr ""
@@ -64,7 +64,7 @@ msgstr ""
 msgid "Additional searchable text"
 msgstr ""
 
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:53
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:72
 msgid "All dates"
 msgstr ""
 
@@ -97,11 +97,11 @@ msgstr ""
 msgid "Banner enabled on content and sub-contents"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:316
+#: cpskin.core/cpskin/core/browser/folderview.py:318
 msgid "Big images are not used anymore on this folder view."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:307
+#: cpskin.core/cpskin/core/browser/folderview.py:309
 msgid "Big images are now used on this folder view."
 msgstr ""
 
@@ -109,7 +109,7 @@ msgstr ""
 msgid "Booking URL"
 msgstr ""
 
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:129
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:134
 #: cpskin.core/cpskin/core/behaviors/booking.py:17
 msgid "Booking type"
 msgstr ""
@@ -170,7 +170,7 @@ msgid "Configure Folder View here"
 msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:67
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:90
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:95
 msgid "Contact"
 msgstr ""
 
@@ -195,11 +195,11 @@ msgstr ""
 msgid "Content types"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:249
+#: cpskin.core/cpskin/core/browser/folderview.py:251
 msgid "Contenu ajouté à la vue index."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:257
+#: cpskin.core/cpskin/core/browser/folderview.py:259
 msgid "Contenu retiré de la vue index."
 msgstr ""
 
@@ -501,7 +501,7 @@ msgid "Load page menu"
 msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:49
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:105
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:110
 msgid "Location"
 msgstr ""
 
@@ -609,7 +609,7 @@ msgid "Optional special schedule details for event."
 msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:58
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:101
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:106
 msgid "Organizer"
 msgstr ""
 
@@ -622,7 +622,7 @@ msgid "Partner"
 msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:76
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:110
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:115
 msgid "Partners"
 msgstr ""
 
@@ -657,7 +657,7 @@ msgstr ""
 msgid "Please write which taxonomy id should be used."
 msgstr ""
 
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:135
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:140
 #: cpskin.core/cpskin/core/behaviors/booking.py:24
 msgid "Price"
 msgstr ""
@@ -695,12 +695,12 @@ msgid "Schedule details"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:158
-#: cpskin.core/cpskin/core/upgradehandlers.py:350
+#: cpskin.core/cpskin/core/upgradehandlers.py:356
 msgid "Search box position in eligible themes."
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:157
-#: cpskin.core/cpskin/core/upgradehandlers.py:349
+#: cpskin.core/cpskin/core/upgradehandlers.py:355
 msgid "Search position"
 msgstr ""
 
@@ -874,7 +874,7 @@ msgstr ""
 msgid "This text will be visible on index view for link to this collection"
 msgstr ""
 
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:141
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:146
 msgid "Ticketing"
 msgstr ""
 
@@ -985,7 +985,7 @@ msgstr ""
 msgid "Visible fields for below viewlet"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:427
+#: cpskin.core/cpskin/core/browser/folderview.py:429
 msgid "Voir l'ensemble des"
 msgstr "All"
 
@@ -1032,17 +1032,17 @@ msgid "collective contact"
 msgstr ""
 
 #. Default: "Attendees"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:178
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:183
 msgid "contact_attendees"
 msgstr ""
 
 #. Default: "Contact Name"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:150
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:155
 msgid "contact_name"
 msgstr ""
 
 #. Default: "Contact Phone"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:169
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:174
 msgid "contact_phone"
 msgstr ""
 
@@ -1064,7 +1064,7 @@ msgstr ""
 msgid "cpskin.core: default"
 msgstr ""
 
-#: cpskin.core/cpskin/core/profiles.zcml:439
+#: cpskin.core/cpskin/core/profiles.zcml:447
 msgid "cpskin.core: init"
 msgstr ""
 
@@ -1238,8 +1238,13 @@ msgstr ""
 msgid "event_event"
 msgstr ""
 
+#. Default: "This event is over."
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:65
+msgid "event_is_over"
+msgstr ""
+
 #. Default: "Web"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:79
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:84
 msgid "event_url"
 msgstr ""
 
@@ -1249,17 +1254,17 @@ msgid "event_what"
 msgstr ""
 
 #. Default: "When"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:36
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:38
 msgid "event_when"
 msgstr ""
 
 #. Default: "Where"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:161
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:166
 msgid "event_where"
 msgstr ""
 
 #. Default: "Visit external website"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:81
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:86
 msgid "external_website"
 msgstr ""
 
@@ -1274,7 +1279,7 @@ msgid "flux_rss"
 msgstr ""
 
 #. Default: "Add event to calendar"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:196
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:201
 msgid "heading_add_to_calendar"
 msgstr ""
 
@@ -1318,7 +1323,7 @@ msgid "help_standard_tags"
 msgstr ""
 
 #. Default: "iCal"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:201
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:206
 msgid "label_add_to_ical"
 msgstr ""
 
@@ -1415,7 +1420,7 @@ msgid "modifier_zone_statique"
 msgstr ""
 
 #. Default: "Il y a ${results} occurrence(s) en plus."
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.py:109
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.py:111
 msgid "msg_num_more_occurrences"
 msgstr ""
 
@@ -1472,7 +1477,7 @@ msgid "summary_event_details"
 msgstr ""
 
 #. Default: "Download this event in iCal format"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:199
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:204
 msgid "title_add_to_ical"
 msgstr ""
 
@@ -1491,12 +1496,12 @@ msgstr ""
 msgid "with_the_following_comment"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:583
+#: cpskin.core/cpskin/core/browser/folderview.py:585
 #: cpskin.policy/cpskin/policy/setuphandlers.py:232
 msgid "À la une"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:630
+#: cpskin.core/cpskin/core/browser/folderview.py:632
 #: cpskin.policy/cpskin/policy/setuphandlers.py:181
 msgid "Événements"
 msgstr ""
