@@ -4,7 +4,11 @@ Changelog
 0.5.24 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add translation for event_is_over : #21524
+  [daggelpop]
+
+- Add theme packages for fragments translation
+  [laulaz]
 
 
 0.5.23 (2018-09-10)
