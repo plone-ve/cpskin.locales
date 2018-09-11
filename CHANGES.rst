@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.24 (unreleased)
+0.5.24 (2018-09-11)
 -------------------
 
 - Add translation for event_is_over : #21524
