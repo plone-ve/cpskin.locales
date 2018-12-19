@@ -4,7 +4,8 @@ Changelog
 0.5.25 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add cpskin.contenttypes package : WEBOTT-10
+  [laulaz]
 
 
 0.5.24 (2018-09-11)
