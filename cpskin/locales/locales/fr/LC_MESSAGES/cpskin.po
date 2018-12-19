@@ -170,7 +170,7 @@ msgstr "Portlet collection avec vue slider"
 #: cpskin/contenttypes/browser/templates/product.pt:24
 #: cpskin/contenttypes/content/product.py:23
 msgid "Color(s)"
-msgstr ""
+msgstr "Couleur(s)"
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Configure Folder View here"
@@ -416,7 +416,7 @@ msgstr ""
 #: cpskin/contenttypes/browser/templates/product.pt:44
 #: cpskin/contenttypes/content/product.py:33
 msgid "Informations"
-msgstr ""
+msgstr "Informations"
 
 #: cpskin.policy/cpskin/policy/profiles.zcml:31
 msgid "Install CPSkin policy with dexterity"
@@ -823,7 +823,7 @@ msgstr "Site r&eacute;alis&eacute; en collaboration avec"
 #: cpskin/contenttypes/browser/templates/product.pt:34
 #: cpskin/contenttypes/content/product.py:28
 msgid "Size(s)"
-msgstr ""
+msgstr "Taille(s)"
 
 #: cpskin.core/cpskin/core/interfaces.py:82
 #: cpskin.core/cpskin/core/setuphandlers.py:331
