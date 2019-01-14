@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2018-03-19 10:01+0000\n"
+"POT-Creation-Date: 2019-01-14 12:07+0000\n"
 "PO-Revision-Date: 2014-05-06 11:41+0000\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish <plone-conosur@lists.plone.org>\n"
@@ -79,11 +79,11 @@ msgstr ""
 msgid "I Search Tags"
 msgstr ""
 
-#: cpskin.menu/cpskin/menu/testing.zcml:17
+#: cpskin.menu/cpskin/menu/testing.zcml:19
 msgid "Installs the cpskin.menu package"
 msgstr ""
 
-#: cpskin.slider/cpskin/slider/browser/collection_slider_dx_view.pt:80
+#: cpskin.slider/cpskin/slider/browser/collection_slider_dx_view.pt:138
 msgid "Lire la suite"
 msgstr ""
 
@@ -195,19 +195,19 @@ msgstr ""
 msgid "box_published"
 msgstr ""
 
-#: cpskin.menu/cpskin/menu/testing.zcml:17
+#: cpskin.menu/cpskin/menu/testing.zcml:19
 msgid "cpskin.menu"
 msgstr ""
 
-#: cpskin.menu/cpskin/menu/testing.zcml:41
+#: cpskin.menu/cpskin/menu/testing.zcml:43
 msgid "cpskin.menu load page"
 msgstr ""
 
-#: cpskin.menu/cpskin/menu/testing.zcml:33
+#: cpskin.menu/cpskin/menu/testing.zcml:35
 msgid "cpskin.menu no persistence"
 msgstr ""
 
-#: cpskin.menu/cpskin/menu/testing.zcml:25
+#: cpskin.menu/cpskin/menu/testing.zcml:27
 msgid "cpskin.menu persistence"
 msgstr ""
 
@@ -223,6 +223,42 @@ msgstr ""
 #. Default: "No results were found."
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:273
 msgid "description_no_results_found"
+msgstr ""
+
+#. Default: "à"
+#: cpskin.slider/cpskin/slider/browser/collection_slider_dx_view.pt:108
+#: cpskin.slider/cpskin/slider/browser/collection_slider_view_vertical.pt:110
+msgid "evenement_a"
+msgstr ""
+
+#. Default: "à"
+#: cpskin.slider/cpskin/slider/browser/collection_slider_dx_view.pt:102
+#: cpskin.slider/cpskin/slider/browser/collection_slider_view_vertical.pt:104
+msgid "evenement_a_lheure"
+msgstr ""
+
+#. Default: "au"
+#: cpskin.slider/cpskin/slider/browser/collection_slider_dx_view.pt:116
+#: cpskin.slider/cpskin/slider/browser/collection_slider_view_vertical.pt:118
+msgid "evenement_au"
+msgstr ""
+
+#. Default: "de"
+#: cpskin.slider/cpskin/slider/browser/collection_slider_dx_view.pt:106
+#: cpskin.slider/cpskin/slider/browser/collection_slider_view_vertical.pt:108
+msgid "evenement_de"
+msgstr ""
+
+#. Default: "du"
+#: cpskin.slider/cpskin/slider/browser/collection_slider_dx_view.pt:114
+#: cpskin.slider/cpskin/slider/browser/collection_slider_view_vertical.pt:116
+msgid "evenement_du"
+msgstr ""
+
+#. Default: "le"
+#: cpskin.slider/cpskin/slider/browser/collection_slider_dx_view.pt:98
+#: cpskin.slider/cpskin/slider/browser/collection_slider_view_vertical.pt:100
+msgid "evenement_le"
 msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:340
