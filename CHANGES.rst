@@ -4,6 +4,9 @@ Changelog
 0.5.25 (unreleased)
 -------------------
 
+- Add translations for custom register form : WEB-2883
+  [laulaz]
+
 - Add cpskin.contenttypes package & translations : WEBOTT-10
   [laulaz]
 

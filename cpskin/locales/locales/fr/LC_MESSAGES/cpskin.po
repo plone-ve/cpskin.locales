@@ -393,7 +393,7 @@ msgstr "Combien d'éléments voulez-vous voir au maximum dans le slider ?"
 
 #: cpskin.core/cpskin/core/browser/register.py:17
 msgid "I Accept Legal terms and conditions"
-msgstr ""
+msgstr "J'accepte les Mentions Légales"
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "I Am Tag"
@@ -426,7 +426,7 @@ msgstr "Images"
 #: cpskin.core/cpskin/core/browser/register.py:61
 #: cpskin.core/cpskin/core/browser/templates/register_form.pt:30
 msgid "Incorrect captcha"
-msgstr ""
+msgstr "Veuillez confirmer que vous n'êtes pas un robot."
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:16
 msgid "Index view"
@@ -1100,7 +1100,7 @@ msgstr "Quel identifiant de taxonomy doit être utilisé pour voir la catégorie
 
 #: cpskin.core/cpskin/core/browser/register.py:48
 msgid "You need to accept our legal terms and conditions."
-msgstr ""
+msgstr "Vous devez accepter les Mentions Légales pour pouvoir créer un compte."
 
 #: cpskin.slider/cpskin/slider/portlets/slider_collection.py:37
 msgid "add a collection portlet with slider view"
@@ -1531,7 +1531,7 @@ msgstr "Signaler une erreur au webmaster"
 #. Default: "See <a href=\"${legal_conditions_url}\">legal terms and conditions</a>."
 #: cpskin.core/cpskin/core/browser/register.py:33
 msgid "see_legal_conditions"
-msgstr ""
+msgstr "Voir les <a href=\"${legal_conditions_url}\">Mentions Légales</a>."
 
 #. Default: "An error has been reported by"
 #: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:10
