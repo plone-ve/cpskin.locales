@@ -6,6 +6,9 @@ Changelog
 
 - Add translations for custom register form : WEB-2883
   [laulaz]
+  
+- Fix collapsable menu translations
+  [laulaz]
 
 - Add cpskin.contenttypes package & translations : WEBOTT-10
   [laulaz]

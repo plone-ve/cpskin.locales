@@ -34,14 +34,6 @@ msgstr ""
 msgid "4th level navigation enabled on content"
 msgstr ""
 
-#: cpskin.core/cpskin/core/viewlets/top_collapse.pt:4
-msgid "<span>Afficher le menu principal</span>"
-msgstr ""
-
-#: cpskin.core/cpskin/core/viewlets/top_collapse.pt:7
-msgid "<span>Masquer le menu principal</span>"
-msgstr ""
-
 #: cpskin.core/cpskin/core/browser/folderview.py:619
 #: cpskin.policy/cpskin/policy/setuphandlers.py:141
 msgid "Actualités"
@@ -250,6 +242,10 @@ msgstr ""
 msgid "Display in ${portal_url}"
 msgstr ""
 
+#: cpskin.core/cpskin/core/viewlets/top_collapse.pt:5
+msgid "Display main menu"
+msgstr ""
+
 #: cpskin.core/cpskin/core/behaviors/indexview.py:142
 msgid "Do you want to hide date on index view ?"
 msgstr ""
@@ -359,6 +355,10 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
 msgid "Hide local banner"
+msgstr ""
+
+#: cpskin.core/cpskin/core/viewlets/top_collapse.pt:7
+msgid "Hide main menu"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/actions.xml
