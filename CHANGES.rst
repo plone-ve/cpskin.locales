@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.25 (unreleased)
+0.5.25 (2019-02-11)
 -------------------
 
 - Add translations for custom register form : WEB-2883
