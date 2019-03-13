@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2019-01-14 12:07+0000\n"
+"POT-Creation-Date: 2019-03-13 13:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,20 @@ msgstr ""
 "Language: \n"
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
 
+#: cpskin.core/cpskin/core/behaviors/indexview.py:74
+#: cpskin.core/cpskin/core/browser/register.py:18
+#: cpskin.core/cpskin/core/portlets/sendinblue.py:26
+msgid ""
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/pages.py:174
+msgid " de "
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/pages.py:169
+msgid " à "
+msgstr ""
+
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_collective_contact_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/upgrades/to1/workflows/cpskin_collective_contact_workflow/definition.xml
 msgid "- Simple workflow with Created and Published states for collective.contact contents. - Anonymous users can view published contents"
@@ -29,6 +43,42 @@ msgstr ""
 msgid "- Used for CPSkin site - Has four states: Created, Private, Published and hidden (from navigation) and Published and shown (in navigation)"
 msgstr ""
 
+#: cpskin.menu/cpskin/menu/browser/navigationview.py:86
+msgid "4th level navigation disabled on content"
+msgstr ""
+
+#: cpskin.menu/cpskin/menu/browser/navigationview.py:79
+msgid "4th level navigation enabled on content"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/folderview.py:619
+#: cpskin.policy/cpskin/policy/setuphandlers.py:141
+msgid "Actualités"
+msgstr ""
+
+#: cpskin.policy/cpskin/policy/setuphandlers.py:142
+msgid "Actualités du site"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:144
+#: cpskin.core/cpskin/core/setuphandlers.py:509
+msgid "Add content description after every portal tab menu title."
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/metadata.py:195
+msgid "Additional searchable text"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:76
+#: cpskin.core/cpskin/core/setuphandlers.py:316
+msgid "Auto play slider"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:163
+#: cpskin.core/cpskin/core/setuphandlers.py:526
+msgid "Automatically collapse portal main menu on minisites."
+msgstr ""
+
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_collective_contact_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
@@ -39,9 +89,45 @@ msgstr ""
 msgid "Back to pending"
 msgstr ""
 
+#: cpskin.core/cpskin/core/browser/banner.py:105
+msgid "Banner disabled for content"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/banner.py:80
+msgid "Banner disabled for content and sub-contents"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/banner.py:97
+msgid "Banner enabled on content"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/banner.py:72
+msgid "Banner enabled on content and sub-contents"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/folderview.py:327
+msgid "Big images are not used anymore on this folder view."
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/folderview.py:318
+msgid "Big images are now used on this folder view."
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/booking.py:28
+msgid "Booking URL"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/booking.py:15
+msgid "Booking type"
+msgstr ""
+
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_collective_contact_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/upgrades/to1/workflows/cpskin_collective_contact_workflow/definition.xml
 msgid "CPSkin custom collective.contact Workflow"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/controlpanel.py:200
+msgid "CPSkin settings"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
@@ -56,9 +142,73 @@ msgstr ""
 msgid "Can manage portlets and keywords"
 msgstr ""
 
+#: cpskin.core/cpskin/core/setuphandlers.py:374
+msgid "Choose an horizontal or vertical slider."
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:90
+#: cpskin.core/cpskin/core/setuphandlers.py:355
+msgid "City name"
+msgstr ""
+
+#: cpskin.core/cpskin/core/setuphandlers.py:356
+msgid "City name variable used in some template."
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:162
+#: cpskin.core/cpskin/core/setuphandlers.py:525
+msgid "Collapse menu on minisites"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:40
+msgid "Collection display type"
+msgstr ""
+
+#: cpskin.slider/cpskin/slider/portlets/slider_collection.py:36
 #: cpskin.slider/cpskin/slider/profiles/default/portlets.xml
 #: cpskin.slider/cpskin/slider/profiles/uninstall/portlets.xml
 msgid "Collection portlet with slider view"
+msgstr ""
+
+#: cpskin/contenttypes/content/product.py:23
+msgid "Color(s)"
+msgstr ""
+
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:67
+msgid "Contact"
+msgstr ""
+
+#: cpskin.menu/cpskin/menu/browser/directaccessview.py:79
+msgid "Content added to direct access menu"
+msgstr ""
+
+#: cpskin.menu/cpskin/menu/browser/directaccessview.py:88
+msgid "Content removed from direct access menu"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:97
+#: cpskin.core/cpskin/core/setuphandlers.py:423
+msgid "Content to show in special action menu (top)"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/form.py:21
+msgid "Content type"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/form.py:25
+msgid "Content types"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/folderview.py:260
+msgid "Contenu ajouté à la vue index."
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/folderview.py:268
+msgid "Contenu retiré de la vue index."
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/pages.py:590
+msgid "Cpskin Healthy"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_collective_contact_workflow/definition.xml
@@ -67,8 +217,93 @@ msgstr ""
 msgid "Created"
 msgstr ""
 
+#: cpskin.agenda/cpskin/agenda/faceted/widgets/daterange/widget.py:12
+msgid "Date range for events"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/directory.py:13
+msgid "Directory view"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:142
+msgid "Do you want to hide date on index view ?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:135
+msgid "Do you want to hide see all link on index view ?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:128
+msgid "Do you want to hide title on index view ?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/metadata.py:180
+msgid "Do you want to logo of contact on the popup on map ?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/metadata.py:173
+msgid "Do you want to map with links of contacts ?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:149
+msgid "Do you want to show day and month on index view ?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/directory.py:31
+msgid "Do you want to show images for organizations preview in directory ?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:165
+msgid "Do you want to show items descriptions on index view ?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:157
+msgid "Do you want to show lead image on index view ?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:173
+msgid "Do you want to use the new (experimental) template ?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/eventview.py:16
+msgid "Event view"
+msgstr ""
+
 #: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
 msgid "Hidden Tags"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:98
+msgid "Hidden keywords"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:141
+msgid "Hide date"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:134
+msgid "Hide see all link"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:127
+msgid "Hide title"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:41
+msgid "How do you want to display this collection on index view ?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:48
+msgid "How many items do you want to see at least in slider (used only for \"Slider with elements count choice\" display type) ?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:57
+msgid "How many items do you want to see at most in slider (used only for \"Slider with elements count choice\" display type) ?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/register.py:17
+#: cpskin.core/cpskin/core/portlets/sendinblue.py:25
+msgid "I Accept Legal terms and conditions"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
@@ -79,12 +314,80 @@ msgstr ""
 msgid "I Search Tags"
 msgstr ""
 
+#: cpskin.core/cpskin/core/behaviors/organization.py:20
+msgid "Image 1"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/organization.py:26
+msgid "Image 2"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/organization.py:15
+msgid "Images"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/register.py:61
+msgid "Incorrect captcha"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:16
+msgid "Index view"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/pages.py:324
+msgid "Info :"
+msgstr ""
+
+#: cpskin/contenttypes/content/product.py:33
+msgid "Informations"
+msgstr ""
+
 #: cpskin.menu/cpskin/menu/testing.zcml:19
 msgid "Installs the cpskin.menu package"
 msgstr ""
 
+#: cpskin.core/cpskin/core/behaviors/directorycontact.py:19
+msgid "Invalid phone"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:63
+#: cpskin.core/cpskin/core/setuphandlers.py:282
+msgid "Is level 1 menu load page at click?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:70
+#: cpskin.core/cpskin/core/setuphandlers.py:299
+msgid "Is level 2 menu persist?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:77
+#: cpskin.core/cpskin/core/setuphandlers.py:317
+msgid "Is the front page slider automatically play?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/faceted/widgets/layout.py:55
+msgid "Layout selection"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/controlpanel.py:201
+msgid "Lets you change the settings of CPSkin"
+msgstr ""
+
 #: cpskin.slider/cpskin/slider/browser/collection_slider_dx_view.pt:138
 msgid "Lire la suite"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:62
+#: cpskin.core/cpskin/core/setuphandlers.py:281
+msgid "Load page menu"
+msgstr ""
+
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:49
+msgid "Location"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/sendtomanager.py:96
+msgid "Mail sent."
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
@@ -92,13 +395,139 @@ msgstr ""
 msgid "Make private"
 msgstr ""
 
+#: cpskin.core/cpskin/core/vocabulary.py:31
+msgid "Mandatory booking"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:56
+msgid "Maximum number of items in slider"
+msgstr ""
+
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "Member makes content private"
 msgstr ""
 
+#: cpskin.core/cpskin/core/behaviors/indexview.py:47
+msgid "Minimum number of items in slider"
+msgstr ""
+
+#: cpskin.minisite/cpskin/minisite/browser/hnavigation.py:79
+msgid "Minisite horizontal Navigation disabled on content"
+msgstr ""
+
+#: cpskin.minisite/cpskin/minisite/browser/hnavigation.py:68
+msgid "Minisite horizontal Navigation enabled on content"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/media.py:72
+msgid "Multimedia viewlet disabled for content"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/media.py:63
+msgid "Multimedia viewlet enabled on content"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:91
+msgid "Name of city is used in some templates."
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/navigation.py:89
+msgid "Navigation toggle disabled for folder"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/navigation.py:78
+msgid "Navigation toggle enabled for folder"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/form.py:99
+msgid "New text"
+msgstr ""
+
+#: cpskin.core/cpskin/core/vocabulary.py:30
+msgid "No booking"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:119
+msgid "Number of items that will show up in one homepage."
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:84
+msgid "Number of milliseconds between each transition."
+msgstr ""
+
+#: cpskin.core/cpskin/core/setuphandlers.py:335
+msgid "Number of seconds between each transition."
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:128
+#: cpskin.core/cpskin/core/setuphandlers.py:458
+msgid "Number of visible albums on media viewlet."
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:136
+#: cpskin.core/cpskin/core/setuphandlers.py:475
+msgid "Number of visible videos on media viewlet."
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/form.py:92
+msgid "Old text"
+msgstr ""
+
+#: cpskin.core/cpskin/core/vocabulary.py:32
+msgid "Optional booking"
+msgstr ""
+
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:58
+msgid "Organizer"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/pages.py:331
+msgid "Où ?"
+msgstr ""
+
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:78
+msgid "Partner"
+msgstr ""
+
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:76
+msgid "Partners"
+msgstr ""
+
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 msgid "Pending"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/directorycontact.py:40
+msgid "Phones"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/directory.py:38
+msgid "Please select the scale."
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:98
+#: cpskin.core/cpskin/core/setuphandlers.py:424
+msgid "Please select which contents should be taken to this menu."
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:66
+#: cpskin.core/cpskin/core/behaviors/metadata.py:139
+msgid "Please select which fields should be visible."
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:99
+msgid "Please select which hidden keywords is use by collections for             index view."
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/directory.py:24
+#: cpskin.core/cpskin/core/behaviors/indexview.py:110
+msgid "Please write which taxonomy id should be used."
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/booking.py:22
+#: cpskin/contenttypes/content/product.py:18
+msgid "Price"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
@@ -148,8 +577,26 @@ msgstr ""
 msgid "Published and shown"
 msgstr ""
 
+#: cpskin.core/cpskin/core/behaviors/metadata.py:128
+msgid "Related"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/metadata.py:118
+msgid "Related contacts"
+msgstr ""
+
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_moderation_workflow/definition.xml
 msgid "Reviewer queue"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:151
+#: cpskin.core/cpskin/core/upgradehandlers.py:365
+msgid "Search box position in eligible themes."
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:150
+#: cpskin.core/cpskin/core/upgradehandlers.py:364
+msgid "Search position"
 msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:68
@@ -160,8 +607,129 @@ msgstr ""
 msgid "Search results for ${term}"
 msgstr ""
 
+#: cpskin.core/cpskin/core/behaviors/metadata.py:179
+msgid "See logo on map popup"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/metadata.py:172
+msgid "See map"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:121
+#: cpskin.core/cpskin/core/setuphandlers.py:391
+msgid "Show (right) portlets (if any) in right actions panel after related contents."
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:120
+#: cpskin.core/cpskin/core/setuphandlers.py:390
+msgid "Show (right) portlets in right actions panel"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:114
+#: cpskin.core/cpskin/core/setuphandlers.py:441
+msgid "Show banner title and description as homepage slogan."
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:148
+msgid "Show day and month"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:143
+#: cpskin.core/cpskin/core/setuphandlers.py:508
+msgid "Show description on themes"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:164
+msgid "Show items descriptions"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:156
+msgid "Show lead image"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:107
+#: cpskin.core/cpskin/core/setuphandlers.py:408
+msgid "Show leadimage (if any) in the top action menu with content selected in the field before."
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:106
+#: cpskin.core/cpskin/core/setuphandlers.py:407
+msgid "Show leadimage in action menu"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/directory.py:30
+msgid "Show organizations images"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:113
+#: cpskin.core/cpskin/core/setuphandlers.py:440
+msgid "Show slogan with banner"
+msgstr ""
+
+#: cpskin.agenda/cpskin/agenda/faceted/widgets/simpledate/widget.py:22
+msgid "Simple date for events"
+msgstr ""
+
+#: cpskin/contenttypes/content/product.py:28
+msgid "Size(s)"
+msgstr ""
+
+#: cpskin.core/cpskin/core/vocabulary.py:302
+msgid "Slider count"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:83
+#: cpskin.core/cpskin/core/setuphandlers.py:334
+msgid "Slider timer"
+msgstr ""
+
+#: cpskin.core/cpskin/core/vocabulary.py:311
+msgid "Slider top"
+msgstr ""
+
+#: cpskin.core/cpskin/core/setuphandlers.py:373
+msgid "Slider type"
+msgstr ""
+
+#: cpskin.core/cpskin/core/vocabulary.py:293
+msgid "Slider vertical"
+msgstr ""
+
+#: cpskin.core/cpskin/core/vocabulary.py:248
+msgid "Slider with carousel"
+msgstr ""
+
+#: cpskin.core/cpskin/core/vocabulary.py:257
+msgid "Slider with elements count choice"
+msgstr ""
+
+#: cpskin.core/cpskin/core/vocabulary.py:284
+msgid "Slider without images"
+msgstr ""
+
 #: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
 msgid "Standard Tags"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:69
+#: cpskin.core/cpskin/core/setuphandlers.py:298
+msgid "Sub menu persistence"
+msgstr ""
+
+#: cpskin.core/cpskin/core/portlets/sendinblue.py:58
+msgid "Subscribe"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:89
+msgid "Text for link to collection"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/form.py:93
+msgid "Text to be replaced in all your RichTextValue"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/form.py:100
+msgid "Text which will replace all your old_text into RichTextValue"
 msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
@@ -178,6 +746,98 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/portal_atct.xml
 msgid "The standard tags configured by the webmaster"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/organization.py:27
+msgid "This image is shown on directory view when mouse hovers the card."
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/organization.py:21
+msgid "This image is shown on directory view."
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:90
+msgid "This text will be visible on index view for link to this collection"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/sendtomanager.py:90
+msgid "Unable to send mail."
+msgstr ""
+
+#: cpskin.core/cpskin/core/vocabulary.py:275
+msgid "Unique highlighted item"
+msgstr ""
+
+#: cpskin.core/cpskin/core/vocabulary.py:266
+msgid "Unique slider with carousel on title"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:172
+msgid "Use new template"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:127
+#: cpskin.core/cpskin/core/setuphandlers.py:457
+msgid "Viewlet media : Visible albums"
+msgstr ""
+
+#: cpskin.core/cpskin/core/interfaces.py:135
+#: cpskin.core/cpskin/core/setuphandlers.py:474
+msgid "Viewlet media : Visible videos"
+msgstr ""
+
+#: cpskin.core/cpskin/core/faceted/widgets/layout.py:33
+msgid "Views"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/metadata.py:138
+msgid "Visible fields for above viewlet"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/metadata.py:162
+msgid "Visible fields for below viewlet"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/folderview.py:441
+msgid "Voir l'ensemble des"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/folderview.py:80
+msgid "Vue index avec collections configurée."
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/form.py:22
+msgid "Which content type should be set latitude and longitude"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:81
+msgid "Which image scale use for carousel"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:65
+msgid "Which image scale use for collections of index view"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/directory.py:37
+msgid "Which image scale use for organizations preview in directory ?"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/indexview.py:73
+msgid "Which image scale use for slider"
+msgstr ""
+
+#: cpskin.core/cpskin/core/behaviors/directory.py:23
+#: cpskin.core/cpskin/core/behaviors/indexview.py:109
+msgid "Which taxonomy id should be use to display category"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/register.py:48
+#: cpskin.core/cpskin/core/portlets/sendinblue.py:64
+msgid "You need to accept our legal terms and conditions."
+msgstr ""
+
+#: cpskin.slider/cpskin/slider/portlets/slider_collection.py:37
+msgid "add a collection portlet with slider view"
 msgstr ""
 
 #. Default: "${number} items matching your search terms."
@@ -225,39 +885,48 @@ msgstr ""
 msgid "description_no_results_found"
 msgstr ""
 
+#: cpskin.slider/cpskin/slider/portlets/slider_collection.py:48
+msgid "edit a collection portlet with slider view"
+msgstr ""
+
+#. Default: "Error reported"
+#: cpskin.core/cpskin/core/browser/sendtomanager.py:53
+msgid "error_reported"
+msgstr ""
+
 #. Default: "à"
 #: cpskin.slider/cpskin/slider/browser/collection_slider_dx_view.pt:108
-#: cpskin.slider/cpskin/slider/browser/collection_slider_view_vertical.pt:110
+#: cpskin.slider/cpskin/slider/browser/collection_slider_view_vertical.pt:114
 msgid "evenement_a"
 msgstr ""
 
 #. Default: "à"
 #: cpskin.slider/cpskin/slider/browser/collection_slider_dx_view.pt:102
-#: cpskin.slider/cpskin/slider/browser/collection_slider_view_vertical.pt:104
+#: cpskin.slider/cpskin/slider/browser/collection_slider_view_vertical.pt:108
 msgid "evenement_a_lheure"
 msgstr ""
 
 #. Default: "au"
 #: cpskin.slider/cpskin/slider/browser/collection_slider_dx_view.pt:116
-#: cpskin.slider/cpskin/slider/browser/collection_slider_view_vertical.pt:118
+#: cpskin.slider/cpskin/slider/browser/collection_slider_view_vertical.pt:122
 msgid "evenement_au"
 msgstr ""
 
 #. Default: "de"
 #: cpskin.slider/cpskin/slider/browser/collection_slider_dx_view.pt:106
-#: cpskin.slider/cpskin/slider/browser/collection_slider_view_vertical.pt:108
+#: cpskin.slider/cpskin/slider/browser/collection_slider_view_vertical.pt:112
 msgid "evenement_de"
 msgstr ""
 
 #. Default: "du"
 #: cpskin.slider/cpskin/slider/browser/collection_slider_dx_view.pt:114
-#: cpskin.slider/cpskin/slider/browser/collection_slider_view_vertical.pt:116
+#: cpskin.slider/cpskin/slider/browser/collection_slider_view_vertical.pt:120
 msgid "evenement_du"
 msgstr ""
 
 #. Default: "le"
 #: cpskin.slider/cpskin/slider/browser/collection_slider_dx_view.pt:98
-#: cpskin.slider/cpskin/slider/browser/collection_slider_view_vertical.pt:100
+#: cpskin.slider/cpskin/slider/browser/collection_slider_view_vertical.pt:104
 msgid "evenement_le"
 msgstr ""
 
@@ -277,12 +946,56 @@ msgstr ""
 msgid "heading_sections"
 msgstr ""
 
+#. Default: "Image used as banner replacement when viewing this event"
+#: cpskin.core/cpskin/core/behaviors/eventview.py:25
+msgid "help_bannerimage"
+msgstr ""
+
+#. Default: "Report an error or missing information."
+#: cpskin.core/cpskin/core/browser/interfaces.py:22
+msgid "help_comment"
+msgstr ""
+
+#. Default: "Hidden Tags are used for webmaster organization of content."
+#: cpskin.core/cpskin/core/behaviors/metadata.py:50
+#: cpskin.core/cpskin/core/extender.py:91
+msgid "help_hidden_tags"
+msgstr ""
+
+#. Default: "I Am Tags are used for webmaster organization of content."
+#: cpskin.core/cpskin/core/behaviors/metadata.py:93
+#: cpskin.core/cpskin/core/extender.py:61
+msgid "help_iam_tags"
+msgstr ""
+
+#. Default: "I Search Tags are used for webmaster organization of content."
+#: cpskin.core/cpskin/core/behaviors/metadata.py:72
+#: cpskin.core/cpskin/core/extender.py:76
+msgid "help_isearch_tags"
+msgstr ""
+
 msgid "help_password_retrieval"
+msgstr ""
+
+#. Default: "Your email address."
+#: cpskin.core/cpskin/core/browser/interfaces.py:14
+msgid "help_send_from"
+msgstr ""
+
+#. Default: "Standard Tags are used for webmaster organization of content."
+#: cpskin.core/cpskin/core/behaviors/metadata.py:28
+#: cpskin.core/cpskin/core/extender.py:46
+msgid "help_standard_tags"
 msgstr ""
 
 #. Default: "Advanced Search…"
 #: cpskin.minisite/cpskin/minisite/searchbox_in_minisite.pt:50
 msgid "label_advanced_search"
+msgstr ""
+
+#. Default: "Banner image"
+#: cpskin.core/cpskin/core/behaviors/eventview.py:24
+msgid "label_bannerimage"
 msgstr ""
 
 #. Default: "by ${author}"
@@ -291,6 +1004,39 @@ msgid "label_by_author"
 msgstr ""
 
 msgid "label_click_here_to_retrieve"
+msgstr ""
+
+#. Default: "Change request"
+#: cpskin.core/cpskin/core/browser/interfaces.py:20
+msgid "label_comment"
+msgstr ""
+
+#. Default: "Configurations"
+#: cpskin.core/cpskin/core/menu/menu.py:16
+msgid "label_cpskin_configurations_menu"
+msgstr ""
+
+#. Default: "Hidden Tags"
+#: cpskin.core/cpskin/core/behaviors/metadata.py:49
+#: cpskin.core/cpskin/core/extender.py:90
+msgid "label_hidden_tags"
+msgstr ""
+
+#. Default: "I Am Tags"
+#: cpskin.core/cpskin/core/behaviors/metadata.py:92
+#: cpskin.core/cpskin/core/extender.py:60
+msgid "label_iam_tags"
+msgstr ""
+
+#. Default: "I Search Tags"
+#: cpskin.core/cpskin/core/behaviors/metadata.py:71
+#: cpskin.core/cpskin/core/extender.py:75
+msgid "label_isearch_tags"
+msgstr ""
+
+#. Default: "Item count for homepage"
+#: cpskin.core/cpskin/core/behaviors/indexview.py:116
+msgid "label_item_count_homepage"
 msgstr ""
 
 #. Default: "Item type"
@@ -306,10 +1052,35 @@ msgstr ""
 msgid "label_new_items_since"
 msgstr ""
 
+#. Default: "Categorization"
+#: cpskin.core/cpskin/core/behaviors/metadata.py:20
+msgid "label_schema_categorization"
+msgstr ""
+
 #. Default: "Search"
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:59
 #: cpskin.minisite/cpskin/minisite/searchbox_in_minisite.pt:29
 msgid "label_search"
+msgstr ""
+
+#. Default: "Send"
+#: cpskin.core/cpskin/core/browser/sendtomanager.py:34
+msgid "label_send"
+msgstr ""
+
+#. Default: "From"
+#: cpskin.core/cpskin/core/browser/interfaces.py:12
+msgid "label_send_from"
+msgstr ""
+
+#. Default: "Standard Tags"
+#: cpskin.core/cpskin/core/behaviors/metadata.py:27
+msgid "label_standardTags"
+msgstr ""
+
+#. Default: "Standard Tags"
+#: cpskin.core/cpskin/core/extender.py:45
+msgid "label_standard_tags"
 msgstr ""
 
 #. Default: "Select All/None"
@@ -322,9 +1093,19 @@ msgstr ""
 msgid "more_url"
 msgstr ""
 
+#. Default: "Il y a ${results} occurrence(s) en plus."
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.py:111
+msgid "msg_num_more_occurrences"
+msgstr ""
+
 #. Default: "Filter the results."
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:116
 msgid "narrow_search_options"
+msgstr ""
+
+#. Default: "Merci de fournir le maximum d'information ainsi que tout renseignement qui permette de la valider (source)."
+#: cpskin.core/cpskin/core/browser/sendtomanager.py:26
+msgid "provide_maximum_informations"
 msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
@@ -333,6 +1114,17 @@ msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_workflow/definition.xml
 msgid "published_and_shown"
+msgstr ""
+
+#. Default: "Report an error to the site manager"
+#: cpskin.core/cpskin/core/browser/sendtomanager.py:23
+msgid "report_error_to_site_manager"
+msgstr ""
+
+#. Default: "See <a href=\"${legal_conditions_url}\">legal terms and conditions</a>."
+#: cpskin.core/cpskin/core/browser/register.py:33
+#: cpskin.core/cpskin/core/portlets/sendinblue.py:39
+msgid "see_legal_conditions"
 msgstr ""
 
 #. Default: "Sort by"
@@ -375,6 +1167,11 @@ msgstr ""
 msgid "time_yesterday"
 msgstr ""
 
+#. Default: "Configurations for the current content item"
+#: cpskin.core/cpskin/core/menu/menu.py:17
+msgid "title_cpskin_actions_menu"
+msgstr ""
+
 #. Default: "Mini Site"
 #: cpskin.minisite/cpskin/minisite/profiles/default/portlets.xml
 msgid "title_minisite_portlet"
@@ -393,4 +1190,18 @@ msgstr ""
 #. Default: "Subscribe to an always-updated RSS feed."
 #: cpskin.minisite/cpskin/minisite/search_in_minisite.pt:91
 msgid "title_subscribe_rss_feed"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/folderview.py:597
+#: cpskin.policy/cpskin/policy/setuphandlers.py:232
+msgid "À la une"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/folderview.py:644
+#: cpskin.policy/cpskin/policy/setuphandlers.py:181
+msgid "Événements"
+msgstr ""
+
+#: cpskin.policy/cpskin/policy/setuphandlers.py:182
+msgid "Événements du site"
 msgstr ""

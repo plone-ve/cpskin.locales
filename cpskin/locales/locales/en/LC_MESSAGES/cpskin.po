@@ -51,7 +51,7 @@ msgstr ""
 msgid "Add 4th level navigation"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:143
+#: cpskin.core/cpskin/core/interfaces.py:144
 #: cpskin.core/cpskin/core/setuphandlers.py:509
 msgid "Add content description after every portal tab menu title."
 msgstr ""
@@ -72,12 +72,12 @@ msgstr ""
 msgid "Allowed states for social viewlet"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:75
+#: cpskin.core/cpskin/core/interfaces.py:76
 #: cpskin.core/cpskin/core/setuphandlers.py:316
 msgid "Auto play slider"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:162
+#: cpskin.core/cpskin/core/interfaces.py:163
 #: cpskin.core/cpskin/core/setuphandlers.py:526
 msgid "Automatically collapse portal main menu on minisites."
 msgstr ""
@@ -131,7 +131,7 @@ msgstr ""
 msgid "CPSKIN Menu: upgrade to v1005"
 msgstr ""
 
-#: cpskin.workflow/cpskin/workflow/configure.zcml:64
+#: cpskin.workflow/cpskin/workflow/configure.zcml:59
 msgid "CPSKIN Workflow: upgrade to v1"
 msgstr ""
 
@@ -153,7 +153,7 @@ msgstr ""
 msgid "Choose an horizontal or vertical slider."
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:89
+#: cpskin.core/cpskin/core/interfaces.py:90
 #: cpskin.core/cpskin/core/setuphandlers.py:355
 msgid "City name"
 msgstr ""
@@ -162,7 +162,7 @@ msgstr ""
 msgid "City name variable used in some template."
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:161
+#: cpskin.core/cpskin/core/interfaces.py:162
 #: cpskin.core/cpskin/core/setuphandlers.py:525
 msgid "Collapse menu on minisites"
 msgstr ""
@@ -197,7 +197,7 @@ msgstr ""
 msgid "Content removed from direct access menu"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:96
+#: cpskin.core/cpskin/core/interfaces.py:97
 #: cpskin.core/cpskin/core/setuphandlers.py:423
 msgid "Content to show in special action menu (top)"
 msgstr ""
@@ -314,7 +314,7 @@ msgstr ""
 msgid "Faceted events preview"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:203
+#: cpskin.core/cpskin/core/browser/configure.zcml:212
 msgid "Faceted items leadimage"
 msgstr ""
 
@@ -390,6 +390,7 @@ msgid "How many items do you want to see at most in slider (used only for \"Slid
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/register.py:17
+#: cpskin.core/cpskin/core/portlets/sendinblue.py:25
 msgid "I Accept Legal terms and conditions"
 msgstr ""
 
@@ -467,7 +468,7 @@ msgstr ""
 msgid "Installs CPSkin theme"
 msgstr ""
 
-#: cpskin.workflow/cpskin/workflow/configure.zcml:43
+#: cpskin.workflow/cpskin/workflow/configure.zcml:38
 msgid "Installs CPSkin workflows"
 msgstr ""
 
@@ -495,7 +496,7 @@ msgstr ""
 msgid "Installs the cpskin.menu package"
 msgstr ""
 
-#: cpskin.minisite/cpskin/minisite/configure.zcml:23
+#: cpskin.minisite/cpskin/minisite/configure.zcml:22
 msgid "Installs the cpskin.minisite package"
 msgstr ""
 
@@ -507,17 +508,17 @@ msgstr ""
 msgid "Invalid phone"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:62
+#: cpskin.core/cpskin/core/interfaces.py:63
 #: cpskin.core/cpskin/core/setuphandlers.py:282
 msgid "Is level 1 menu load page at click?"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:69
+#: cpskin.core/cpskin/core/interfaces.py:70
 #: cpskin.core/cpskin/core/setuphandlers.py:299
 msgid "Is level 2 menu persist?"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:76
+#: cpskin.core/cpskin/core/interfaces.py:77
 #: cpskin.core/cpskin/core/setuphandlers.py:317
 msgid "Is the front page slider automatically play?"
 msgstr ""
@@ -540,7 +541,7 @@ msgstr ""
 msgid "Links in social viewlet"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:61
+#: cpskin.core/cpskin/core/interfaces.py:62
 #: cpskin.core/cpskin/core/setuphandlers.py:281
 msgid "Load page menu"
 msgstr ""
@@ -599,7 +600,7 @@ msgstr ""
 msgid "Multimedia viewlet enabled on content"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:90
+#: cpskin.core/cpskin/core/interfaces.py:91
 msgid "Name of city is used in some templates."
 msgstr ""
 
@@ -623,7 +624,7 @@ msgstr ""
 msgid "Number of items that will show up in one homepage."
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:83
+#: cpskin.core/cpskin/core/interfaces.py:84
 msgid "Number of milliseconds between each transition."
 msgstr ""
 
@@ -631,12 +632,12 @@ msgstr ""
 msgid "Number of seconds between each transition."
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:127
+#: cpskin.core/cpskin/core/interfaces.py:128
 #: cpskin.core/cpskin/core/setuphandlers.py:458
 msgid "Number of visible albums on media viewlet."
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:135
+#: cpskin.core/cpskin/core/interfaces.py:136
 #: cpskin.core/cpskin/core/setuphandlers.py:475
 msgid "Number of visible videos on media viewlet."
 msgstr ""
@@ -683,7 +684,7 @@ msgstr ""
 msgid "Please select the scale."
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:97
+#: cpskin.core/cpskin/core/interfaces.py:98
 #: cpskin.core/cpskin/core/setuphandlers.py:424
 msgid "Please select which contents should be taken to this menu."
 msgstr ""
@@ -748,13 +749,13 @@ msgstr ""
 msgid "Schedule details"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:150
-#: cpskin.core/cpskin/core/upgradehandlers.py:363
+#: cpskin.core/cpskin/core/interfaces.py:151
+#: cpskin.core/cpskin/core/upgradehandlers.py:365
 msgid "Search box position in eligible themes."
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:149
-#: cpskin.core/cpskin/core/upgradehandlers.py:362
+#: cpskin.core/cpskin/core/interfaces.py:150
+#: cpskin.core/cpskin/core/upgradehandlers.py:364
 msgid "Search position"
 msgstr ""
 
@@ -770,12 +771,12 @@ msgstr ""
 msgid "See on map"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:120
+#: cpskin.core/cpskin/core/interfaces.py:121
 #: cpskin.core/cpskin/core/setuphandlers.py:391
 msgid "Show (right) portlets (if any) in right actions panel after related contents."
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:119
+#: cpskin.core/cpskin/core/interfaces.py:120
 #: cpskin.core/cpskin/core/setuphandlers.py:390
 msgid "Show (right) portlets in right actions panel"
 msgstr ""
@@ -784,7 +785,7 @@ msgstr ""
 msgid "Show banner"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:113
+#: cpskin.core/cpskin/core/interfaces.py:114
 #: cpskin.core/cpskin/core/setuphandlers.py:441
 msgid "Show banner title and description as homepage slogan."
 msgstr ""
@@ -793,7 +794,7 @@ msgstr ""
 msgid "Show day and month"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:142
+#: cpskin.core/cpskin/core/interfaces.py:143
 #: cpskin.core/cpskin/core/setuphandlers.py:508
 msgid "Show description on themes"
 msgstr ""
@@ -806,12 +807,12 @@ msgstr ""
 msgid "Show lead image"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:106
+#: cpskin.core/cpskin/core/interfaces.py:107
 #: cpskin.core/cpskin/core/setuphandlers.py:408
 msgid "Show leadimage (if any) in the top action menu with content selected in the field before."
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:105
+#: cpskin.core/cpskin/core/interfaces.py:106
 #: cpskin.core/cpskin/core/setuphandlers.py:407
 msgid "Show leadimage in action menu"
 msgstr ""
@@ -832,7 +833,7 @@ msgstr ""
 msgid "Show organizations images"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:112
+#: cpskin.core/cpskin/core/interfaces.py:113
 #: cpskin.core/cpskin/core/setuphandlers.py:440
 msgid "Show slogan with banner"
 msgstr ""
@@ -854,7 +855,7 @@ msgstr ""
 msgid "Slider count"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:82
+#: cpskin.core/cpskin/core/interfaces.py:83
 #: cpskin.core/cpskin/core/setuphandlers.py:334
 msgid "Slider timer"
 msgstr ""
@@ -899,9 +900,13 @@ msgstr ""
 msgid "Stop using big images"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:68
+#: cpskin.core/cpskin/core/interfaces.py:69
 #: cpskin.core/cpskin/core/setuphandlers.py:298
 msgid "Sub menu persistence"
+msgstr ""
+
+#: cpskin.core/cpskin/core/portlets/sendinblue.py:58
+msgid "Subscribe"
 msgstr ""
 
 #: cpskin.core/cpskin/core/viewlets/right_actions.pt:23
@@ -969,7 +974,7 @@ msgstr ""
 msgid "Uninstalls CPSkin theme"
 msgstr ""
 
-#: cpskin.workflow/cpskin/workflow/configure.zcml:52
+#: cpskin.workflow/cpskin/workflow/configure.zcml:47
 msgid "Uninstalls CPSkin workflows"
 msgstr ""
 
@@ -993,7 +998,7 @@ msgstr ""
 msgid "Uninstalls the cpskin.menu package"
 msgstr ""
 
-#: cpskin.minisite/cpskin/minisite/configure.zcml:32
+#: cpskin.minisite/cpskin/minisite/configure.zcml:31
 msgid "Uninstalls the cpskin.minisite package"
 msgstr ""
 
@@ -1033,16 +1038,16 @@ msgstr ""
 msgid "View"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:367
+#: cpskin.core/cpskin/core/browser/configure.zcml:376
 msgid "View Document with description"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:126
+#: cpskin.core/cpskin/core/interfaces.py:127
 #: cpskin.core/cpskin/core/setuphandlers.py:457
 msgid "Viewlet media : Visible albums"
 msgstr ""
 
-#: cpskin.core/cpskin/core/interfaces.py:134
+#: cpskin.core/cpskin/core/interfaces.py:135
 #: cpskin.core/cpskin/core/setuphandlers.py:474
 msgid "Viewlet media : Visible videos"
 msgstr ""
@@ -1067,7 +1072,7 @@ msgstr "All"
 msgid "Vue index avec collections configurée."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:186
+#: cpskin.core/cpskin/core/browser/configure.zcml:195
 msgid "Vue index avec collections et slider"
 msgstr ""
 
@@ -1097,6 +1102,7 @@ msgid "Which taxonomy id should be use to display category"
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/register.py:48
+#: cpskin.core/cpskin/core/portlets/sendinblue.py:64
 msgid "You need to accept our legal terms and conditions."
 msgstr ""
 
@@ -1146,7 +1152,7 @@ msgstr ""
 msgid "cpskin.core: default"
 msgstr ""
 
-#: cpskin.core/cpskin/core/profiles.zcml:488
+#: cpskin.core/cpskin/core/profiles.zcml:522
 msgid "cpskin.core: init"
 msgstr ""
 
@@ -1206,16 +1212,16 @@ msgstr ""
 msgid "cpskin.menu: uninstall"
 msgstr ""
 
-#: cpskin.minisite/cpskin/minisite/configure.zcml:23
+#: cpskin.minisite/cpskin/minisite/configure.zcml:22
 #: cpskin.minisite/cpskin/minisite/testing.zcml:18
 msgid "cpskin.minisite"
 msgstr ""
 
-#: cpskin.minisite/cpskin/minisite/configure.zcml:40
+#: cpskin.minisite/cpskin/minisite/configure.zcml:39
 msgid "cpskin.minisite: migrate to 0003"
 msgstr ""
 
-#: cpskin.minisite/cpskin/minisite/configure.zcml:32
+#: cpskin.minisite/cpskin/minisite/configure.zcml:31
 msgid "cpskin.minisite: uninstall"
 msgstr ""
 
@@ -1247,15 +1253,15 @@ msgstr ""
 msgid "cpskin.theme: uninstall"
 msgstr ""
 
-#: cpskin.workflow/cpskin/workflow/configure.zcml:43
+#: cpskin.workflow/cpskin/workflow/configure.zcml:38
 msgid "cpskin.workflow"
 msgstr ""
 
-#: cpskin.workflow/cpskin/workflow/configure.zcml:64
+#: cpskin.workflow/cpskin/workflow/configure.zcml:59
 msgid "cpskin.workflow to1"
 msgstr ""
 
-#: cpskin.workflow/cpskin/workflow/configure.zcml:52
+#: cpskin.workflow/cpskin/workflow/configure.zcml:47
 msgid "cpskin.workflow: uninstall"
 msgstr ""
 
@@ -1528,6 +1534,7 @@ msgstr ""
 
 #. Default: "See <a href=\"${legal_conditions_url}\">legal terms and conditions</a>."
 #: cpskin.core/cpskin/core/browser/register.py:33
+#: cpskin.core/cpskin/core/portlets/sendinblue.py:39
 msgid "see_legal_conditions"
 msgstr ""
 
