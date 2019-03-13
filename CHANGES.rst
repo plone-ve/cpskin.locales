@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.26 (unreleased)
+0.5.26 (2019-03-13)
 -------------------
 
 - Complete cpskin FR.
