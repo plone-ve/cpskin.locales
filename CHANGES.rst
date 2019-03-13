@@ -4,7 +4,8 @@ Changelog
 0.5.26 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Complete cpskin FR.
+  [bsuttor]
 
 
 0.5.25 (2019-02-11)
