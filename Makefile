@@ -22,3 +22,4 @@ buildout: bin/buildout
 update: buildout
 	bin/i18n cpskin
 	bin/i18n plone
+	bin/i18n plone.app.event
