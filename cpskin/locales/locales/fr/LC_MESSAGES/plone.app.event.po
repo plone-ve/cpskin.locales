@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2017-06-15 09:30+0000\n"
+"POT-Creation-Date: 2019-08-26 08:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,90 +14,122 @@ msgstr ""
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: DOMAIN\n"
 
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:51
+#: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:108
 msgid "All dates"
 msgstr "Toutes les dates"
 
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:102
+#: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:38
+msgid "Booking"
+msgstr ""
+
+#: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:41
+msgid "Booking type"
+msgstr ""
+
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:67
+#: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:147
 msgid "Contact"
 msgstr "Contact"
 
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:106
+#: cpskin.agenda/cpskin/agenda/faceted/widgets/daterange/widget.py:12
+msgid "Date range for events"
+msgstr ""
+
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:49
 msgid "Location"
 msgstr "Où ?"
 
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:98
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:58
 msgid "Organizer"
 msgstr "Organisateur"
 
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:111
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:78
+msgid "Partner"
+msgstr ""
+
+#: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:76
+#: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:217
 msgid "Partners"
 msgstr "Partenaires"
 
+#: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:48
+msgid "Price"
+msgstr ""
+
+#: cpskin.agenda/cpskin/agenda/faceted/widgets/simpledate/widget.py:22
+msgid "Simple date for events"
+msgstr ""
+
+#: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:54
+msgid "Ticketing"
+msgstr ""
+
 #. Default: "Attendees"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:158
+#: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:211
 msgid "contact_attendees"
 msgstr "Participants"
 
 #. Default: "Contact Name"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:132
+#: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:171
 msgid "contact_name"
 msgstr "Nom de contact"
 
 #. Default: "Contact Phone"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:151
+#: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:181
 msgid "contact_phone"
 msgstr "Téléphone de contact"
 
-#. Default: "Event"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:18
-msgid "event_event"
-msgstr "Evénement"
+#. Default: "This event is over."
+#: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:102
+msgid "event_is_over"
+msgstr ""
 
 #. Default: "Web"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:75
+#: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:161
 msgid "event_url"
 msgstr "URL"
 
-#. Default: "What"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:26
+#. Default: "Quoi ?"
 #, fuzzy
 msgid "event_what"
 msgstr "Quoi ?"
 
-#. Default: "When"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:34
+#. Default: "Quand ?"
 #, fuzzy
 msgid "event_when"
 msgstr "Quand ?"
 
-#. Default: "Where"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:143
+#. Default: "Où ?"
 #, fuzzy
 msgid "event_where"
 msgstr "Où ?"
 
 #. Default: "Visit external website"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:77
+#: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:163
 msgid "external_website"
 msgstr "Visiter le site externe"
 
 #. Default: "Add event to calendar"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:85
+#: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:198
 msgid "heading_add_to_calendar"
 msgstr "Ajouter un événement au calendrier"
 
 #. Default: "iCal"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:90
+#: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:203
 msgid "label_add_to_ical"
 msgstr "iCal"
 
-#. Default: "Event details"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:14
-msgid "summary_event_details"
-msgstr "Détail de l'événement"
+#. Default: "More details"
+#: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:144
+msgid "more_details"
+msgstr "Plus de détails"
+
+#. Default: "Il y a ${results} occurrence(s) en plus."
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.py:111
+msgid "msg_num_more_occurrences"
+msgstr ""
 
 #. Default: "Download this event in iCal format"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:88
+#: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:201
 msgid "title_add_to_ical"
 msgstr "Télécharger cet événement au format iCal"

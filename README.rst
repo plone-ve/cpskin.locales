@@ -12,6 +12,7 @@ Usage
 To generate and merge translations (there are 3 domains), run ::
 
     bin/i18n plone
+    bin/i18n plone.app.event
     bin/i18n cpskin
 
 Be aware that all .py files are excluded of plone and plone.app.event domains
