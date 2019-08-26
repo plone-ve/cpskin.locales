@@ -20,7 +20,7 @@ msgstr "Toutes les dates"
 
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:202
 msgid "Booking type"
-msgstr ""
+msgstr "Type d'enregistrement"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:67
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:123
@@ -50,7 +50,7 @@ msgstr "Partenaires"
 
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:209
 msgid "Price"
-msgstr ""
+msgstr "Prix"
 
 #: cpskin.agenda/cpskin/agenda/faceted/widgets/simpledate/widget.py:22
 msgid "Simple date for events"
@@ -74,7 +74,7 @@ msgstr "Téléphone de contact"
 #. Default: "This event is over."
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:100
 msgid "event_is_over"
-msgstr ""
+msgstr "Cet événement est passé"
 
 #. Default: "Web"
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:137
@@ -114,7 +114,7 @@ msgstr "iCal"
 #. Default: "More details"
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:120
 msgid "more_details"
-msgstr ""
+msgstr "Plus de détails"
 
 #. Default: "Il y a ${results} occurrence(s) en plus."
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.py:111
