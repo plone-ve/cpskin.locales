@@ -4,7 +4,8 @@ Changelog
 0.5.27 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add translations for cpskin.agenda (new view event_booking)
+  [boulch]
 
 
 0.5.26 (2019-03-13)
