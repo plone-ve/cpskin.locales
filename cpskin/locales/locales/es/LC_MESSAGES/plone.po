@@ -1003,14 +1003,19 @@ msgstr ""
 msgid "heading_sections"
 msgstr ""
 
-#. Default: "Image used as banner replacement when viewing this event"
-#: cpskin.core/cpskin/core/behaviors/eventview.py:25
+#. Default: "Image used as banner replacement when viewing this event.<br/>This image can be crop into banner format"
+#: cpskin.core/cpskin/core/behaviors/eventview.py:34
 msgid "help_bannerimage"
 msgstr ""
 
 #. Default: "Report an error or missing information."
 #: cpskin.core/cpskin/core/browser/interfaces.py:22
 msgid "help_comment"
+msgstr ""
+
+#. Default: "Image used as header in the event.<br/>This image can be crop into banner_event or banner format if banner_event is not available."
+#: cpskin.core/cpskin/core/behaviors/eventview.py:43
+msgid "help_headerimage"
 msgstr ""
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
@@ -1051,7 +1056,7 @@ msgid "label_advanced_search"
 msgstr ""
 
 #. Default: "Banner image"
-#: cpskin.core/cpskin/core/behaviors/eventview.py:24
+#: cpskin.core/cpskin/core/behaviors/eventview.py:33
 msgid "label_bannerimage"
 msgstr ""
 
@@ -1071,6 +1076,11 @@ msgstr ""
 #. Default: "Configurations"
 #: cpskin.core/cpskin/core/menu/menu.py:16
 msgid "label_cpskin_configurations_menu"
+msgstr ""
+
+#. Default: "Header image"
+#: cpskin.core/cpskin/core/behaviors/eventview.py:42
+msgid "label_headerimage"
 msgstr ""
 
 #. Default: "Hidden Tags"

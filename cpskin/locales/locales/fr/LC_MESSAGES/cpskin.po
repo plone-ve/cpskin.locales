@@ -1436,15 +1436,21 @@ msgstr "Flux RSS"
 msgid "heading_add_to_calendar"
 msgstr "Ajouter au calendrier"
 
-#. Default: "Image used as banner replacement when viewing this event"
-#: cpskin.core/cpskin/core/behaviors/eventview.py:25
+#. Default: "Image used as banner replacement when viewing this event.<br/>This image can be crop into banner format"
+#: cpskin.core/cpskin/core/behaviors/eventview.py:34
+#, fuzzy
 msgid "help_bannerimage"
-msgstr "Banner image"
+msgstr "Cette image sera affichée à la place du banner par défaut (si on active le banner local dans la configuration de l'événement). L'image utilise le format \"banner\"."
 
 #. Default: "Report an error or missing information."
 #: cpskin.core/cpskin/core/browser/interfaces.py:22
 msgid "help_comment"
 msgstr "Signaler une erreur ou une information manquante."
+
+#. Default: "Image used as header in the event.<br/>This image can be crop into banner_event or banner format if banner_event is not available."
+#: cpskin.core/cpskin/core/behaviors/eventview.py:43
+msgid "help_headerimage"
+msgstr "Image utilisée en en-tête de l'événement.<br/>Cette image peut être affiché au format \"banner_event\" ou au format \"banner\" si le format \"banner_event\" n'est pas disponible."
 
 #. Default: "Hidden Tags are used for webmaster organization of content."
 #: cpskin.core/cpskin/core/behaviors/metadata.py:50
@@ -1481,7 +1487,7 @@ msgid "label_add_to_ical"
 msgstr "iCal"
 
 #. Default: "Banner image"
-#: cpskin.core/cpskin/core/behaviors/eventview.py:24
+#: cpskin.core/cpskin/core/behaviors/eventview.py:33
 msgid "label_bannerimage"
 msgstr "Banner image"
 
@@ -1514,6 +1520,11 @@ msgstr "Sous mots clés cachés je cherche"
 #: cpskin.core/cpskin/core/viewlets/standardtags.pt:7
 msgid "label_filed_under_standard_tag"
 msgstr "Sous mots clés standards"
+
+#. Default: "Header image"
+#: cpskin.core/cpskin/core/behaviors/eventview.py:42
+msgid "label_headerimage"
+msgstr ""
 
 #. Default: "Hidden Tags"
 #: cpskin.core/cpskin/core/behaviors/metadata.py:49
