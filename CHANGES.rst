@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.28 (unreleased)
+0.5.28 (2019-09-06)
 -------------------
 
 - Add translations for cpskin.agenda (new view event_booking) (cpskin.core behavior)
