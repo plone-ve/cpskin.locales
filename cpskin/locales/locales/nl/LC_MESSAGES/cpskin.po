@@ -52,7 +52,7 @@ msgid "Add 4th level navigation"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:151
-#: cpskin.core/cpskin/core/setuphandlers.py:530
+#: cpskin.core/cpskin/core/setuphandlers.py:534
 msgid "Add content description after every portal tab menu title."
 msgstr ""
 
@@ -73,20 +73,17 @@ msgid "Allowed states for social viewlet"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:76
-#: cpskin.core/cpskin/core/setuphandlers.py:320
+#: cpskin.core/cpskin/core/setuphandlers.py:324
 msgid "Auto play slider"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:170
-#: cpskin.core/cpskin/core/setuphandlers.py:547
+#: cpskin.core/cpskin/core/setuphandlers.py:551
 msgid "Automatically collapse portal main menu on minisites."
 msgstr ""
 
-#: cpskin.core/cpskin/core/setuphandlers.py:564
-msgid "Automatically generate sitemap footer"
-msgstr ""
-
 #: cpskin.core/cpskin/core/interfaces.py:177
+#: cpskin.core/cpskin/core/setuphandlers.py:568
 msgid "Automatically generate sitemap footer."
 msgstr ""
 
@@ -152,22 +149,22 @@ msgid "CPSkin settings"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:197
-#: cpskin.core/cpskin/core/setuphandlers.py:596
+#: cpskin.core/cpskin/core/setuphandlers.py:600
 msgid "CSS content columns class that will be applied to body."
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:223
-#: cpskin.core/cpskin/core/setuphandlers.py:627
+#: cpskin.core/cpskin/core/setuphandlers.py:631
 msgid "CSS footer class that will be applied to body."
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:184
-#: cpskin.core/cpskin/core/setuphandlers.py:581
+#: cpskin.core/cpskin/core/setuphandlers.py:585
 msgid "CSS header class that will be applied to body."
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:210
-#: cpskin.core/cpskin/core/setuphandlers.py:611
+#: cpskin.core/cpskin/core/setuphandlers.py:615
 msgid "CSS navigation class that will be applied to body."
 msgstr ""
 
@@ -177,21 +174,21 @@ msgstr ""
 msgid "Chercher"
 msgstr ""
 
-#: cpskin.core/cpskin/core/setuphandlers.py:378
+#: cpskin.core/cpskin/core/setuphandlers.py:382
 msgid "Choose an horizontal or vertical slider."
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:90
-#: cpskin.core/cpskin/core/setuphandlers.py:359
+#: cpskin.core/cpskin/core/setuphandlers.py:363
 msgid "City name"
 msgstr ""
 
-#: cpskin.core/cpskin/core/setuphandlers.py:360
+#: cpskin.core/cpskin/core/setuphandlers.py:364
 msgid "City name variable used in some template."
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:169
-#: cpskin.core/cpskin/core/setuphandlers.py:546
+#: cpskin.core/cpskin/core/setuphandlers.py:550
 msgid "Collapse menu on minisites"
 msgstr ""
 
@@ -218,7 +215,7 @@ msgid "Contact"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:113
-#: cpskin.core/cpskin/core/setuphandlers.py:428
+#: cpskin.core/cpskin/core/setuphandlers.py:432
 msgid "Contact properties fallback?"
 msgstr ""
 
@@ -227,7 +224,7 @@ msgid "Content added to direct access menu"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:196
-#: cpskin.core/cpskin/core/setuphandlers.py:595
+#: cpskin.core/cpskin/core/setuphandlers.py:599
 msgid "Content columns related class"
 msgstr ""
 
@@ -236,7 +233,7 @@ msgid "Content removed from direct access menu"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:97
-#: cpskin.core/cpskin/core/setuphandlers.py:444
+#: cpskin.core/cpskin/core/setuphandlers.py:448
 msgid "Content to show in special action menu (top)"
 msgstr ""
 
@@ -285,7 +282,7 @@ msgid "Display main menu"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:114
-#: cpskin.core/cpskin/core/setuphandlers.py:429
+#: cpskin.core/cpskin/core/setuphandlers.py:433
 msgid "Do you want than contact properties fallback? Sample :If no tel on a person, so we get phone thanks to person'f function."
 msgstr ""
 
@@ -329,6 +326,11 @@ msgstr ""
 msgid "Do you want to use the new (experimental) template ?"
 msgstr ""
 
+#: cpskin/contenttypes/content/procedure.py:14
+msgid "E-Guichet"
+msgstr ""
+
+#: cpskin/contenttypes/profiles/default/types/Procedure.xml
 #: cpskin/contenttypes/profiles/default/types/Product.xml
 msgid "Edit"
 msgstr ""
@@ -373,7 +375,7 @@ msgid "Faceted map view"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:222
-#: cpskin.core/cpskin/core/setuphandlers.py:626
+#: cpskin.core/cpskin/core/setuphandlers.py:630
 msgid "Footer related class"
 msgstr ""
 
@@ -382,7 +384,7 @@ msgid "Galerie"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:183
-#: cpskin.core/cpskin/core/setuphandlers.py:580
+#: cpskin.core/cpskin/core/setuphandlers.py:584
 msgid "Header related class"
 msgstr ""
 
@@ -562,17 +564,17 @@ msgid "Invalid phone"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:63
-#: cpskin.core/cpskin/core/setuphandlers.py:286
+#: cpskin.core/cpskin/core/setuphandlers.py:290
 msgid "Is level 1 menu load page at click?"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:70
-#: cpskin.core/cpskin/core/setuphandlers.py:303
+#: cpskin.core/cpskin/core/setuphandlers.py:307
 msgid "Is level 2 menu persist?"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:77
-#: cpskin.core/cpskin/core/setuphandlers.py:321
+#: cpskin.core/cpskin/core/setuphandlers.py:325
 msgid "Is the front page slider automatically play?"
 msgstr ""
 
@@ -595,7 +597,7 @@ msgid "Links in social viewlet"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:62
-#: cpskin.core/cpskin/core/setuphandlers.py:285
+#: cpskin.core/cpskin/core/setuphandlers.py:289
 msgid "Load page menu"
 msgstr ""
 
@@ -658,7 +660,7 @@ msgid "Name of city is used in some templates."
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:209
-#: cpskin.core/cpskin/core/setuphandlers.py:610
+#: cpskin.core/cpskin/core/setuphandlers.py:614
 msgid "Navigation related class"
 msgstr ""
 
@@ -686,17 +688,17 @@ msgstr ""
 msgid "Number of milliseconds between each transition."
 msgstr ""
 
-#: cpskin.core/cpskin/core/setuphandlers.py:339
+#: cpskin.core/cpskin/core/setuphandlers.py:343
 msgid "Number of seconds between each transition."
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:135
-#: cpskin.core/cpskin/core/setuphandlers.py:479
+#: cpskin.core/cpskin/core/setuphandlers.py:483
 msgid "Number of visible albums on media viewlet."
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:143
-#: cpskin.core/cpskin/core/setuphandlers.py:496
+#: cpskin.core/cpskin/core/setuphandlers.py:500
 msgid "Number of visible videos on media viewlet."
 msgstr ""
 
@@ -743,7 +745,7 @@ msgid "Please select the scale."
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:98
-#: cpskin.core/cpskin/core/setuphandlers.py:445
+#: cpskin.core/cpskin/core/setuphandlers.py:449
 msgid "Please select which contents should be taken to this menu."
 msgstr ""
 
@@ -765,6 +767,14 @@ msgstr ""
 #: cpskin.core/cpskin/core/behaviors/booking.py:22
 #: cpskin/contenttypes/browser/templates/product.pt:22
 msgid "Price"
+msgstr ""
+
+#: cpskin/contenttypes/profiles/default/types/Procedure.xml
+msgid "Procedure"
+msgstr ""
+
+#: cpskin/contenttypes/profiles/default/types/Procedure.xml
+msgid "Procedure with specifications"
 msgstr ""
 
 #: cpskin/contenttypes/profiles/default/types/Product.xml
@@ -808,12 +818,12 @@ msgid "Schedule details"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:158
-#: cpskin.core/cpskin/core/upgradehandlers.py:359
+#: cpskin.core/cpskin/core/upgradehandlers.py:361
 msgid "Search box position in eligible themes."
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:157
-#: cpskin.core/cpskin/core/upgradehandlers.py:358
+#: cpskin.core/cpskin/core/upgradehandlers.py:360
 msgid "Search position"
 msgstr ""
 
@@ -830,12 +840,12 @@ msgid "See on map"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:128
-#: cpskin.core/cpskin/core/setuphandlers.py:395
+#: cpskin.core/cpskin/core/setuphandlers.py:399
 msgid "Show (right) portlets (if any) in right actions panel after related contents."
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:127
-#: cpskin.core/cpskin/core/setuphandlers.py:394
+#: cpskin.core/cpskin/core/setuphandlers.py:398
 msgid "Show (right) portlets in right actions panel"
 msgstr ""
 
@@ -844,7 +854,7 @@ msgid "Show banner"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:121
-#: cpskin.core/cpskin/core/setuphandlers.py:462
+#: cpskin.core/cpskin/core/setuphandlers.py:466
 msgid "Show banner title and description as homepage slogan."
 msgstr ""
 
@@ -853,12 +863,12 @@ msgid "Show day and month"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:150
-#: cpskin.core/cpskin/core/setuphandlers.py:529
+#: cpskin.core/cpskin/core/setuphandlers.py:533
 msgid "Show description on themes"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:176
-#: cpskin.core/cpskin/core/setuphandlers.py:563
+#: cpskin.core/cpskin/core/setuphandlers.py:567
 msgid "Show footer sitemap"
 msgstr ""
 
@@ -871,12 +881,12 @@ msgid "Show lead image"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:107
-#: cpskin.core/cpskin/core/setuphandlers.py:412
+#: cpskin.core/cpskin/core/setuphandlers.py:416
 msgid "Show leadimage (if any) in the top action menu with content selected in the field before."
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:106
-#: cpskin.core/cpskin/core/setuphandlers.py:411
+#: cpskin.core/cpskin/core/setuphandlers.py:415
 msgid "Show leadimage in action menu"
 msgstr ""
 
@@ -897,7 +907,7 @@ msgid "Show organizations images"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:120
-#: cpskin.core/cpskin/core/setuphandlers.py:461
+#: cpskin.core/cpskin/core/setuphandlers.py:465
 msgid "Show slogan with banner"
 msgstr ""
 
@@ -919,7 +929,7 @@ msgid "Slider count"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:83
-#: cpskin.core/cpskin/core/setuphandlers.py:338
+#: cpskin.core/cpskin/core/setuphandlers.py:342
 msgid "Slider timer"
 msgstr ""
 
@@ -927,7 +937,7 @@ msgstr ""
 msgid "Slider top"
 msgstr ""
 
-#: cpskin.core/cpskin/core/setuphandlers.py:377
+#: cpskin.core/cpskin/core/setuphandlers.py:381
 msgid "Slider type"
 msgstr ""
 
@@ -964,7 +974,7 @@ msgid "Stop using big images"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:69
-#: cpskin.core/cpskin/core/setuphandlers.py:302
+#: cpskin.core/cpskin/core/setuphandlers.py:306
 msgid "Sub menu persistence"
 msgstr ""
 
@@ -1097,6 +1107,7 @@ msgstr ""
 msgid "Useful links"
 msgstr ""
 
+#: cpskin/contenttypes/profiles/default/types/Procedure.xml
 #: cpskin/contenttypes/profiles/default/types/Product.xml
 msgid "View"
 msgstr ""
@@ -1106,12 +1117,12 @@ msgid "View Document with description"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:134
-#: cpskin.core/cpskin/core/setuphandlers.py:478
+#: cpskin.core/cpskin/core/setuphandlers.py:482
 msgid "Viewlet media : Visible albums"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:142
-#: cpskin.core/cpskin/core/setuphandlers.py:495
+#: cpskin.core/cpskin/core/setuphandlers.py:499
 msgid "Viewlet media : Visible videos"
 msgstr ""
 
@@ -1215,7 +1226,7 @@ msgstr ""
 msgid "cpskin.core: default"
 msgstr ""
 
-#: cpskin.core/cpskin/core/profiles.zcml:564
+#: cpskin.core/cpskin/core/profiles.zcml:580
 msgid "cpskin.core: init"
 msgstr ""
 
