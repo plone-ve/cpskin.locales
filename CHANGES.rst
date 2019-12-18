@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.29 (unreleased)
+0.5.29 (2019-12-18)
 -------------------
 
 - Update translations
