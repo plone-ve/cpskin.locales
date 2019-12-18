@@ -5,6 +5,8 @@ Changelog
 -------------------
 
 - Update translations
+  [boulch]
+- Update translations
   [laulaz]
 
 
