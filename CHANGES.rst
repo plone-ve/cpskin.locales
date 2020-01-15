@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.30 (unreleased)
+0.5.30 (2020-01-15)
 -------------------
 
 - Update translations
