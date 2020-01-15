@@ -11,9 +11,7 @@ Changelog
 -------------------
 
 - Update translations
-  [boulch]
-- Update translations
-  [laulaz]
+  [laulaz, boulch]
 
 
 0.5.28 (2019-09-06)
