@@ -343,7 +343,7 @@ msgstr "Activer la navigation toggle"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:180
 msgid "Event category below image"
-msgstr ""
+msgstr "Catégorie de l'événement sous l'image"
 
 #: cpskin.core/cpskin/core/behaviors/eventview.py:16
 msgid "Event view"
@@ -880,7 +880,7 @@ msgstr "Voir la description sur les thèmes"
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:181
 msgid "Show event category below image, with date and title"
-msgstr ""
+msgstr "Voulez-vous afficher la catégorie de l'événement sous l'image, avec la date et le titre ?"
 
 #: cpskin.core/cpskin/core/interfaces.py:176
 #: cpskin.core/cpskin/core/setuphandlers.py:567
