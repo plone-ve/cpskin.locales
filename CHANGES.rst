@@ -4,7 +4,8 @@ Changelog
 0.5.30 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Update translations
+  [laulaz]
 
 
 0.5.29 (2019-12-18)
