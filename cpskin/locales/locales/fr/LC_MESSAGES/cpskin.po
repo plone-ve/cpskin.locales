@@ -36,7 +36,7 @@ msgstr "Retirer du 4ème niveau du menu horizontal"
 msgid "4th level navigation enabled on content"
 msgstr "Afficher dans le 4ème niveau du menu horizontal"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:611
+#: cpskin.core/cpskin/core/browser/folderview.py:661
 #: cpskin.policy/cpskin/policy/setuphandlers.py:172
 msgid "Actualités"
 msgstr "Actualités"
@@ -109,11 +109,11 @@ msgstr "Afficher le banner local"
 msgid "Banner enabled on content and sub-contents"
 msgstr "Afficher le banner global"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:314
+#: cpskin.core/cpskin/core/browser/folderview.py:320
 msgid "Big images are not used anymore on this folder view."
 msgstr "Les grandes images ne sont plus utlisées pour ce dossier"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:305
+#: cpskin.core/cpskin/core/browser/folderview.py:312
 msgid "Big images are now used on this folder view."
 msgstr "Les grandes images sont maintenant utlisées pour ce dossier"
 
@@ -146,7 +146,7 @@ msgstr "CPSKIN Workflow: mettre à jour vers la v1"
 msgid "CPSkin"
 msgstr "CPSkin"
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:262
+#: cpskin.core/cpskin/core/browser/controlpanel.py:270
 msgid "CPSkin settings"
 msgstr "Configuration de CPSkin"
 
@@ -247,11 +247,11 @@ msgstr "Type de contenu"
 msgid "Content types"
 msgstr "Types de contenu"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:247
+#: cpskin.core/cpskin/core/browser/folderview.py:254
 msgid "Contenu ajouté à la vue index."
 msgstr "Contenu ajouté à la vue index."
 
-#: cpskin.core/cpskin/core/browser/folderview.py:255
+#: cpskin.core/cpskin/core/browser/folderview.py:262
 msgid "Contenu retiré de la vue index."
 msgstr "Contenu retiré de la vue index."
 
@@ -324,6 +324,11 @@ msgstr "Voulez-vous voir les descriptions dans la vue index ?"
 msgid "Do you want to show lead image on index view ?"
 msgstr "Voulez-vous voir les images liées dans la vue index ?"
 
+#: cpskin.core/cpskin/core/interfaces.py:243
+#: cpskin.core/cpskin/core/upgradehandlers.py:546
+msgid "Do you want to use slick instead of flexslider ?"
+msgstr ""
+
 #: cpskin.core/cpskin/core/behaviors/indexview.py:174
 msgid "Do you want to use the new (experimental) template ?"
 msgstr "Voulez-vous utiliser la nouvelle template de vue index (expérimentale) ?"
@@ -365,7 +370,7 @@ msgstr "Vue annuaire"
 msgid "Faceted events preview"
 msgstr "Vue événement"
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:231
+#: cpskin.core/cpskin/core/browser/configure.zcml:240
 msgid "Faceted items leadimage"
 msgstr "Vue facettes avec images"
 
@@ -451,7 +456,7 @@ msgid "How many items do you want to see at most in slider (used only for \"Slid
 msgstr "Combien d'éléments voulez-vous voir au maximum dans le slider ?"
 
 #: cpskin.core/cpskin/core/browser/register.py:17
-#: cpskin.core/cpskin/core/portlets/sendinblue.py:25
+#: cpskin.core/cpskin/core/portlets/sendinblue.py:26
 msgid "I Accept Legal terms and conditions"
 msgstr "J'accepte les Mentions Légales"
 
@@ -594,7 +599,7 @@ msgstr "Image liée"
 msgid "Lead image caption"
 msgstr "Titre de l'image liée"
 
-#: cpskin.core/cpskin/core/browser/controlpanel.py:263
+#: cpskin.core/cpskin/core/browser/controlpanel.py:271
 msgid "Lets you change the settings of CPSkin"
 msgstr "Vous permet de changer la configuration de CPSkin"
 
@@ -993,7 +998,7 @@ msgstr "Ne plus utiliser les grandes images"
 msgid "Sub menu persistence"
 msgstr "Persistance du sous-menu"
 
-#: cpskin.core/cpskin/core/portlets/sendinblue.py:58
+#: cpskin.core/cpskin/core/portlets/sendinblue.py:59
 msgid "Subscribe"
 msgstr "S'abonner"
 
@@ -1123,6 +1128,11 @@ msgstr "Utiliser la nouvelle template"
 msgid "Use related contacts fields for Event"
 msgstr "Utiliser les liens vers les contacts pour le événements"
 
+#: cpskin.core/cpskin/core/interfaces.py:242
+#: cpskin.core/cpskin/core/upgradehandlers.py:545
+msgid "Use slick for slider"
+msgstr ""
+
 #: cpskin.core/cpskin/core/viewlets/right_actions.pt:7
 msgid "Useful links"
 msgstr "Liens utiles"
@@ -1132,7 +1142,7 @@ msgstr "Liens utiles"
 msgid "View"
 msgstr "Vue"
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:396
+#: cpskin.core/cpskin/core/browser/configure.zcml:405
 msgid "View Document with description"
 msgstr "Vue du document avec la description"
 
@@ -1158,15 +1168,15 @@ msgstr "Champs visible dans la viewlet du dessus"
 msgid "Visible fields for below viewlet"
 msgstr "Champs visible dans la viewlet du dessous"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:430
+#: cpskin.core/cpskin/core/browser/folderview.py:462
 msgid "Voir l'ensemble des"
 msgstr "Voir l'ensemble des"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:80
+#: cpskin.core/cpskin/core/browser/folderview.py:78
 msgid "Vue index avec collections configurée."
 msgstr "Vue index avec collections configurées."
 
-#: cpskin.core/cpskin/core/browser/configure.zcml:214
+#: cpskin.core/cpskin/core/browser/configure.zcml:223
 msgid "Vue index avec collections et slider"
 msgstr "Vue index avec collections et slider"
 
@@ -1196,7 +1206,7 @@ msgid "Which taxonomy id should be use to display category"
 msgstr "Quel identifiant de taxonomy doit être utilisé pour voir la catégorie ?"
 
 #: cpskin.core/cpskin/core/browser/register.py:48
-#: cpskin.core/cpskin/core/portlets/sendinblue.py:64
+#: cpskin.core/cpskin/core/portlets/sendinblue.py:65
 msgid "You need to accept our legal terms and conditions."
 msgstr "Vous devez accepter les Mentions Légales pour pouvoir créer un compte."
 
@@ -1246,7 +1256,7 @@ msgstr "cpskin.contenttypes"
 msgid "cpskin.core: default"
 msgstr "cpskin.core: default"
 
-#: cpskin.core/cpskin/core/profiles.zcml:588
+#: cpskin.core/cpskin/core/profiles.zcml:606
 msgid "cpskin.core: init"
 msgstr "cpskin.core: initier"
 
@@ -1608,7 +1618,7 @@ msgid "libre"
 msgstr "libre"
 
 #. Default: "[Modifier la zone statique]"
-#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:416
+#: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:427
 msgid "modifier_zone_statique"
 msgstr "[Modifier la zone statique]"
 
@@ -1639,7 +1649,7 @@ msgstr "Signaler une erreur au webmaster"
 
 #. Default: "See <a href=\"${legal_conditions_url}\">legal terms and conditions</a>."
 #: cpskin.core/cpskin/core/browser/register.py:33
-#: cpskin.core/cpskin/core/portlets/sendinblue.py:39
+#: cpskin.core/cpskin/core/portlets/sendinblue.py:40
 msgid "see_legal_conditions"
 msgstr "Voir les <a href=\"${legal_conditions_url}\">Mentions Légales</a>."
 
@@ -1687,12 +1697,12 @@ msgstr "Visuel"
 msgid "with_the_following_comment"
 msgstr "Avec le commentaire suivant"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:589
+#: cpskin.core/cpskin/core/browser/folderview.py:635
 #: cpskin.policy/cpskin/policy/setuphandlers.py:263
 msgid "À la une"
 msgstr "À la une"
 
-#: cpskin.core/cpskin/core/browser/folderview.py:636
+#: cpskin.core/cpskin/core/browser/folderview.py:690
 #: cpskin.policy/cpskin/policy/setuphandlers.py:212
 msgid "Événements"
 msgstr "Événements"
