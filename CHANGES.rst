@@ -4,7 +4,8 @@ Changelog
 0.5.31 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- WEB-3302: Add translations for the new `use_slick` parameter
+  [mpeeters]
 
 
 0.5.30 (2020-01-15)
