@@ -4,6 +4,9 @@ Changelog
 0.5.30 (unreleased)
 -------------------
 
+- Add domains missing and update translations.
+  [macagua]
+
 - Complete cpskin for Spanish translation.
   [macagua]
 
