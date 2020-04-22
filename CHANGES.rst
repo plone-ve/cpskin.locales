@@ -20,6 +20,7 @@ Changelog
 - Add plone.app.event domain for Spanish translation.
   [macagua]
 
+
 0.5.30 (2020-01-15)
 -------------------
 
