@@ -31,8 +31,5 @@ msgstr "Evénement"
 msgid "Events can be shown in calendars."
 msgstr "Fiche permettant d'ajouter un événement à l'Agenda."
 
-msgid "Organization"
-msgstr "Organisation"
-
 msgid "Organization can be shown in directory."
 msgstr "Fiche permettant de présenter un commerce, un club sportif, une association, ... dans l'annuaire."
