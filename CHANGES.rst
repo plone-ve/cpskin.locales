@@ -4,7 +4,14 @@ Changelog
 0.5.30 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Complete cpskin for Spanish translation.
+  [macagua]
+
+- Add cpskin.citizen domain for Spanish translation.
+  [macagua]
+
+- Add plone.app.event domain for Spanish translation.
+  [macagua]
 
 
 0.5.29 (2019-12-18)
