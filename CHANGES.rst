@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.5.30 (unreleased)
+0.5.31 (unreleased)
 -------------------
 
 - Add Transifex.net project integration support
@@ -20,14 +20,18 @@ Changelog
 - Add plone.app.event domain for Spanish translation.
   [macagua]
 
+0.5.30 (2020-01-15)
+-------------------
+
+- Update translations
+  [laulaz]
+
 
 0.5.29 (2019-12-18)
 -------------------
 
 - Update translations
-  [boulch]
-- Update translations
-  [laulaz]
+  [laulaz, boulch]
 
 
 0.5.28 (2019-09-06)
