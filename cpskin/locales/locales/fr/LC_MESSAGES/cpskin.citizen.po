@@ -23,7 +23,7 @@ msgid "Activities can be shown in calendars."
 msgstr "Fiche permettant d'ajouter une activité à l'Agenda."
 
 msgid "Organization"
-msgstr ""
+msgstr "Organisation"
 
 msgid "Event"
 msgstr "Evénement"
