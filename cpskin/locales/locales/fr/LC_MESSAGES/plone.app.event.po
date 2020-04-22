@@ -18,43 +18,43 @@ msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:107
 msgid "All dates"
-msgstr ""
+msgstr "Toutes les dates"
 
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:211
 msgid "Booking type"
-msgstr ""
+msgstr "Type d'enregistrement"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:67
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:132
 msgid "Contact"
-msgstr ""
+msgstr "Contact"
 
 #: cpskin.agenda/cpskin/agenda/faceted/widgets/daterange/widget.py:12
 msgid "Date range for events"
-msgstr ""
+msgstr "Intervalle de dates pour les événements"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:49
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:113
 msgid "Location"
-msgstr ""
+msgstr "Lieu"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:58
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:67
 msgid "Organizer"
-msgstr ""
+msgstr "Organisateur"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:78
 msgid "Partner"
-msgstr ""
+msgstr "Partenaire"
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:76
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:202
 msgid "Partners"
-msgstr ""
+msgstr "Partenaires"
 
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:218
 msgid "Price"
-msgstr ""
+msgstr "Prix"
 
 #: cpskin.agenda/cpskin/agenda/faceted/widgets/simpledate/widget.py:22
 msgid "Simple date for events"
@@ -63,59 +63,59 @@ msgstr ""
 #. Default: "Attendees"
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:196
 msgid "contact_attendees"
-msgstr ""
+msgstr "Participants"
 
 #. Default: "Contact Name"
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:156
 msgid "contact_name"
-msgstr ""
+msgstr "Nom de contact"
 
 #. Default: "Contact Phone"
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:166
 msgid "contact_phone"
-msgstr ""
+msgstr "Téléphone de contact"
 
 #. Default: "This event is over."
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:101
 msgid "event_is_over"
-msgstr ""
+msgstr "Cet événement est passé"
 
 #. Default: "Web"
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:146
 msgid "event_url"
-msgstr ""
+msgstr "URL"
 
 #. Default: "Quoi ?"
 msgid "event_what"
-msgstr ""
+msgstr "Quoi ?"
 
 #. Default: "Quand ?"
 msgid "event_when"
-msgstr ""
+msgstr "Quand ?"
 
 #. Default: "Où ?"
 msgid "event_where"
-msgstr ""
+msgstr "Où ?"
 
 #. Default: "Visit external website"
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:148
 msgid "external_website"
-msgstr ""
+msgstr "Visiter le site externe"
 
 #. Default: "Add event to calendar"
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:183
 msgid "heading_add_to_calendar"
-msgstr ""
+msgstr "Ajouter un événement au calendrier"
 
 #. Default: "iCal"
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:188
 msgid "label_add_to_ical"
-msgstr ""
+msgstr "iCal"
 
 #. Default: "More details"
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:121
 msgid "more_details"
-msgstr ""
+msgstr "Plus d'infos"
 
 #. Default: "Il y a ${results} occurrence(s) en plus."
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.py:111
@@ -125,9 +125,9 @@ msgstr ""
 #. Default: "Ticketing"
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:224
 msgid "ticketing"
-msgstr ""
+msgstr "Billetterie"
 
 #. Default: "Download this event in iCal format"
 #: cpskin.agenda/cpskin/agenda/browser/event_booking.pt:186
 msgid "title_add_to_ical"
-msgstr ""
+msgstr "Télécharger cet événement au format iCal"
