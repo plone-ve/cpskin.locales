@@ -19,11 +19,11 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/browser/pages.py:174
 msgid " de "
-msgstr " de "
+msgstr ""
 
 #: cpskin.core/cpskin/core/browser/pages.py:169
 msgid " à "
-msgstr " à "
+msgstr ""
 
 #: cpskin.core/cpskin/core/viewlets/related_contacts.pt:64
 msgid "(fax)"
@@ -335,7 +335,7 @@ msgstr "Do you want to use the new (experimental) template ?"
 
 #: cpskin/contenttypes/content/procedure.py:14
 msgid "E-Guichet"
-msgstr "E-Guichet"
+msgstr ""
 
 #: cpskin/contenttypes/profiles/default/types/Procedure.xml
 #: cpskin/contenttypes/profiles/default/types/Product.xml
@@ -1481,42 +1481,42 @@ msgstr "edit a collection portlet with slider view"
 #. Default: "Error reported"
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:53
 msgid "error_reported"
-msgstr "error_reported"
+msgstr ""
 
 #. Default: "à"
 #: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:99
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:48
 msgid "evenement_a"
-msgstr "à"
+msgstr ""
 
 #. Default: "à"
 #: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:93
 msgid "evenement_a_lheure"
-msgstr "à"
+msgstr ""
 
 #. Default: "au"
 #: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:107
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:54
 msgid "evenement_au"
-msgstr "au"
+msgstr ""
 
 #. Default: "de"
 #: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:97
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:46
 msgid "evenement_de"
-msgstr "de"
+msgstr ""
 
 #. Default: "du"
 #: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:105
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:52
 msgid "evenement_du"
-msgstr "du"
+msgstr ""
 
 #. Default: "le"
 #: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:89
 #: cpskin.core/cpskin/core/browser/templates/faceted-preview-leadimage.pt:43
 msgid "evenement_le"
-msgstr "le"
+msgstr ""
 
 #. Default: "Event"
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:18
@@ -1792,16 +1792,16 @@ msgstr "See <a href=\"${legal_conditions_url}\">legal terms and conditions</a>."
 #. Default: "An error has been reported by"
 #: cpskin.core/cpskin/core/browser/templates/sendtomanager_mail_template.pt:10
 msgid "sendtomanager_mail_error_reported"
-msgstr "sendtomanager_mail_error_reported"
+msgstr ""
 
 #. Default: "Ce site est optimisé pour le navigateur Firefox."
 #: cpskin.core/cpskin/core/portlets/firefox.pt:4
 msgid "site_optimise_pour_firefox"
-msgstr "site_optimise_pour_firefox"
+msgstr ""
 
 #: cpskin.core/cpskin/core/viewlets/footer.pt:12
 msgid "sous licence"
-msgstr "sous licence"
+msgstr ""
 
 #. Default: "http://fr.wikipedia.org/wiki/Free_Software_Foundation"
 #: cpskin.core/cpskin/core/viewlets/footer.pt:13
@@ -1836,12 +1836,12 @@ msgstr "With the following comment"
 #: cpskin.core/cpskin/core/browser/folderview.py:586
 #: cpskin.policy/cpskin/policy/setuphandlers.py:263
 msgid "À la une"
-msgstr "À la une"
+msgstr ""
 
 #: cpskin.core/cpskin/core/browser/folderview.py:633
 #: cpskin.policy/cpskin/policy/setuphandlers.py:212
 msgid "Événements"
-msgstr "Événements"
+msgstr ""
 
 #: cpskin.policy/cpskin/policy/setuphandlers.py:213
 msgid "Événements du site"

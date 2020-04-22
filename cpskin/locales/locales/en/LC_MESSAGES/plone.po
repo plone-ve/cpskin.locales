@@ -19,11 +19,11 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/browser/pages.py:174
 msgid " de "
-msgstr " de "
+msgstr ""
 
 #: cpskin.core/cpskin/core/browser/pages.py:169
 msgid " à "
-msgstr " à "
+msgstr ""
 
 #: cpskin.workflow/cpskin/workflow/profiles/default/workflows/cpskin_collective_contact_workflow/definition.xml
 #: cpskin.workflow/cpskin/workflow/upgrades/to1/workflows/cpskin_collective_contact_workflow/definition.xml
@@ -63,11 +63,11 @@ msgstr "4th level navigation enabled on content"
 #: cpskin.core/cpskin/core/browser/folderview.py:608
 #: cpskin.policy/cpskin/policy/setuphandlers.py:172
 msgid "Actualités"
-msgstr "Actualités"
+msgstr ""
 
 #: cpskin.policy/cpskin/policy/setuphandlers.py:173
 msgid "Actualités du site"
-msgstr "Actualités du site"
+msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:151
 #: cpskin.core/cpskin/core/setuphandlers.py:534
@@ -320,7 +320,7 @@ msgstr "Do you want to use the new (experimental) template ?"
 
 #: cpskin/contenttypes/content/procedure.py:14
 msgid "E-Guichet"
-msgstr "E-Guichet"
+msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/eventview.py:16
 msgid "Event view"
@@ -564,7 +564,7 @@ msgstr "Organizer"
 
 #: cpskin.core/cpskin/core/browser/pages.py:331
 msgid "Où ?"
-msgstr "Où ?"
+msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:78
 msgid "Partner"
@@ -1306,13 +1306,13 @@ msgstr "Subscribe to an always-updated RSS feed."
 #: cpskin.core/cpskin/core/browser/folderview.py:586
 #: cpskin.policy/cpskin/policy/setuphandlers.py:263
 msgid "À la une"
-msgstr "À la une"
+msgstr ""
 
 #: cpskin.core/cpskin/core/browser/folderview.py:633
 #: cpskin.policy/cpskin/policy/setuphandlers.py:212
 msgid "Événements"
-msgstr "Événements"
+msgstr ""
 
 #: cpskin.policy/cpskin/policy/setuphandlers.py:213
 msgid "Événements du site"
-msgstr "Événements du site"
+msgstr ""
