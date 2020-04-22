@@ -17,10 +17,10 @@ msgstr ""
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
 
 msgid "Activity"
-msgstr ""
+msgstr "Activité"
 
 msgid "Activities can be shown in calendars."
-msgstr ""
+msgstr "Fiche permettant d'ajouter une activité à l'Agenda."
 
 msgid "Organization"
 msgstr ""
