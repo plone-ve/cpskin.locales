@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2020-01-15 13:55+0000\n"
+"POT-Creation-Date: 2020-04-23 02:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:75
 #: cpskin.core/cpskin/core/browser/register.py:18
-#: cpskin.core/cpskin/core/portlets/sendinblue.py:26
+#: cpskin.core/cpskin/core/portlets/sendinblue.py:27
 msgid ""
 msgstr ""
 
@@ -28,6 +28,10 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/browser/pages.py:169
 msgid " à "
+msgstr ""
+
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:46
+msgid "(${start_tzname} / UTC${start_utcoffset})"
 msgstr ""
 
 #: cpskin.core/cpskin/core/viewlets/related_contacts.pt:64
@@ -42,7 +46,12 @@ msgstr ""
 msgid "4th level navigation enabled on content"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:611
+#: cpskin.agenda/cpskin/agenda/faceted/views/preview-events.pt:46
+#: cpskin.agenda/cpskin/agenda/faceted/views/view-agenda.pt:46
+msgid "A maximum of ${limit} days including events is displayed."
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/folderview.py:622
 #: cpskin.policy/cpskin/policy/setuphandlers.py:172
 msgid "Actualités"
 msgstr ""
@@ -72,7 +81,7 @@ msgstr ""
 msgid "Additional searchable text"
 msgstr ""
 
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:72
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:74
 msgid "All dates"
 msgstr ""
 
@@ -115,11 +124,11 @@ msgstr ""
 msgid "Banner enabled on content and sub-contents"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:314
+#: cpskin.core/cpskin/core/browser/folderview.py:311
 msgid "Big images are not used anymore on this folder view."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:305
+#: cpskin.core/cpskin/core/browser/folderview.py:303
 msgid "Big images are now used on this folder view."
 msgstr ""
 
@@ -127,7 +136,7 @@ msgstr ""
 msgid "Booking URL"
 msgstr ""
 
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:134
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:136
 #: cpskin.core/cpskin/core/behaviors/booking.py:15
 msgid "Booking type"
 msgstr ""
@@ -218,7 +227,7 @@ msgid "Configure Folder View here"
 msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:67
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:95
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:97
 msgid "Contact"
 msgstr ""
 
@@ -253,11 +262,11 @@ msgstr ""
 msgid "Content types"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:247
+#: cpskin.core/cpskin/core/browser/folderview.py:245
 msgid "Contenu ajouté à la vue index."
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:255
+#: cpskin.core/cpskin/core/browser/folderview.py:253
 msgid "Contenu retiré de la vue index."
 msgstr ""
 
@@ -335,7 +344,7 @@ msgid "Do you want to use the new (experimental) template ?"
 msgstr ""
 
 #: cpskin/contenttypes/content/procedure.py:14
-msgid "E-Guichet"
+msgid "E-Window"
 msgstr ""
 
 #: cpskin/contenttypes/profiles/default/types/Procedure.xml
@@ -392,7 +401,7 @@ msgid "Footer related class"
 msgstr ""
 
 #: cpskin.core/cpskin/core/viewlets/organization_gallery.pt:6
-msgid "Galerie"
+msgid "Gallery"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:183
@@ -457,7 +466,7 @@ msgid "How many items do you want to see at most in slider (used only for \"Slid
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/register.py:17
-#: cpskin.core/cpskin/core/portlets/sendinblue.py:25
+#: cpskin.core/cpskin/core/portlets/sendinblue.py:26
 msgid "I Accept Legal terms and conditions"
 msgstr ""
 
@@ -475,6 +484,10 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/profiles/default/registry.xml
 msgid "I Search Tags are used for webmaster organization of content"
+msgstr ""
+
+#: cpskin.core/cpskin/core/viewlets/footer.pt:12
+msgid "IMIO"
 msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/organization.py:20
@@ -513,6 +526,10 @@ msgstr ""
 
 #: cpskin.policy/cpskin/policy/profiles.zcml:31
 msgid "Install CPSkin policy with dexterity"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/templates/cpskinhealthy.pt:10
+msgid "Install collective.contact.core"
 msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/profiles.zcml:14
@@ -575,6 +592,14 @@ msgstr ""
 msgid "Invalid phone"
 msgstr ""
 
+#: cpskin.core/cpskin/core/browser/templates/cpskinhealthy.pt:7
+msgid "Is collective.contact installed:"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/templates/cpskinhealthy.pt:13
+msgid "Is cpskin collective.contact workflow:"
+msgstr ""
+
 #: cpskin.core/cpskin/core/interfaces.py:63
 #: cpskin.core/cpskin/core/setuphandlers.py:290
 msgid "Is level 1 menu load page at click?"
@@ -590,6 +615,10 @@ msgstr ""
 msgid "Is the front page slider automatically play?"
 msgstr ""
 
+#: cpskin.core/cpskin/core/browser/templates/cpskinhealthy.pt:20
+msgid "Language"
+msgstr ""
+
 #: cpskin.core/cpskin/core/faceted/widgets/layout.py:55
 msgid "Layout selection"
 msgstr ""
@@ -598,6 +627,10 @@ msgid "Lead image"
 msgstr ""
 
 msgid "Lead image caption"
+msgstr ""
+
+#: cpskin.core/cpskin/core/viewlets/footer.pt:9
+msgid "Legal notice"
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/controlpanel.py:263
@@ -619,7 +652,7 @@ msgid "Load page menu"
 msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:49
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:110
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:112
 msgid "Location"
 msgstr ""
 
@@ -641,11 +674,6 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:57
 msgid "Maximum number of items in slider"
-msgstr ""
-
-#. Default: "Mentions L&eacute;gales"
-#: cpskin.core/cpskin/core/viewlets/footer.pt:9
-msgid "Mentions Légales"
 msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/indexview.py:48
@@ -674,6 +702,10 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:91
 msgid "Name of city is used in some templates."
+msgstr ""
+
+#: cpskin.menu/cpskin/menu/browser/menu.pt:12
+msgid "Navigation menu"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:209
@@ -732,7 +764,7 @@ msgid "Optional special schedule details for event."
 msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:58
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:106
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:108
 msgid "Organizer"
 msgstr ""
 
@@ -745,12 +777,16 @@ msgid "Partner"
 msgstr ""
 
 #: cpskin.agenda/cpskin/agenda/behaviors/related_contacts.py:76
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:115
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:117
 msgid "Partners"
 msgstr ""
 
 #: cpskin.minisite/cpskin/minisite/minisites_panel.pt:34
 msgid "Path ${search_path}<br /> Domain ${domain}<br /> <span class=\"discreet\">in file ${filename}</span>"
+msgstr ""
+
+#: cpskin.core/cpskin/core/viewlets/banner.pt:44
+msgid "Pause"
 msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/directorycontact.py:40
@@ -780,7 +816,15 @@ msgstr ""
 msgid "Please write which taxonomy id should be used."
 msgstr ""
 
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:140
+#: cpskin.core/cpskin/core/browser/templates/cpskinhealthy.pt:22
+msgid "Portal language:"
+msgstr ""
+
+#: cpskin.core/cpskin/core/viewlets/right_actions.pt:17
+msgid "Portlets"
+msgstr ""
+
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:142
 #: cpskin.core/cpskin/core/behaviors/booking.py:22
 #: cpskin/contenttypes/browser/templates/product.pt:22
 msgid "Price"
@@ -812,6 +856,10 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/behaviors/metadata.py:119
 msgid "Related contacts"
+msgstr ""
+
+#: cpskin.core/cpskin/core/viewlets/right_actions.pt:12
+msgid "Related items"
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/templates/multiline_input.pt:37
@@ -854,6 +902,14 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/viewlets/related_contacts.pt:69
 msgid "See on map"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/templates/cpskinhealthy.pt:16
+msgid "Set cpksin workflow"
+msgstr ""
+
+#: cpskin.core/cpskin/core/browser/templates/cpskinhealthy.pt:25
+msgid "Set site language to fr"
 msgstr ""
 
 #: cpskin.core/cpskin/core/interfaces.py:128
@@ -937,7 +993,7 @@ msgid "Simple date for events"
 msgstr ""
 
 #: cpskin.core/cpskin/core/viewlets/footer.pt:12
-msgid "Site r&eacute;alis&eacute; en collaboration avec"
+msgid "Site created in collaboration with"
 msgstr ""
 
 #: cpskin/contenttypes/browser/templates/product.pt:42
@@ -999,11 +1055,11 @@ msgstr ""
 msgid "Sub menu persistence"
 msgstr ""
 
-#: cpskin.core/cpskin/core/portlets/sendinblue.py:58
+#: cpskin.core/cpskin/core/portlets/sendinblue.py:59
 msgid "Subscribe"
 msgstr ""
 
-#: cpskin.core/cpskin/core/viewlets/right_actions.pt:23
+#: cpskin.core/cpskin/core/viewlets/right_actions.pt:25
 msgid "Table of contents"
 msgstr ""
 
@@ -1048,13 +1104,8 @@ msgstr ""
 msgid "This text will be visible on index view for link to this collection"
 msgstr ""
 
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:146
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:148
 msgid "Ticketing"
-msgstr ""
-
-#: cpskin.agenda/cpskin/agenda/faceted/views/preview-events.pt:46
-#: cpskin.agenda/cpskin/agenda/faceted/views/view-agenda.pt:46
-msgid "Un maximum de ${limit} jours comprenant des &eacute;v&eacute;nements est affich&eacute;."
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:90
@@ -1164,11 +1215,11 @@ msgstr ""
 msgid "Visible fields for below viewlet"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:430
+#: cpskin.core/cpskin/core/browser/folderview.py:431
 msgid "Voir l'ensemble des"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:80
+#: cpskin.core/cpskin/core/browser/folderview.py:77
 msgid "Vue index avec collections configurée."
 msgstr ""
 
@@ -1202,7 +1253,7 @@ msgid "Which taxonomy id should be use to display category"
 msgstr ""
 
 #: cpskin.core/cpskin/core/browser/register.py:48
-#: cpskin.core/cpskin/core/portlets/sendinblue.py:64
+#: cpskin.core/cpskin/core/portlets/sendinblue.py:65
 msgid "You need to accept our legal terms and conditions."
 msgstr ""
 
@@ -1216,17 +1267,17 @@ msgid "collective contact"
 msgstr ""
 
 #. Default: "Attendees"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:183
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:185
 msgid "contact_attendees"
 msgstr ""
 
 #. Default: "Contact Name"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:155
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:157
 msgid "contact_name"
 msgstr ""
 
 #. Default: "Contact Phone"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:174
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:176
 msgid "contact_phone"
 msgstr ""
 
@@ -1252,7 +1303,7 @@ msgstr ""
 msgid "cpskin.core: default"
 msgstr ""
 
-#: cpskin.core/cpskin/core/profiles.zcml:588
+#: cpskin.core/cpskin/core/profiles.zcml:597
 msgid "cpskin.core: init"
 msgstr ""
 
@@ -1427,12 +1478,12 @@ msgid "event_event"
 msgstr ""
 
 #. Default: "This event is over."
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:65
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:67
 msgid "event_is_over"
 msgstr ""
 
 #. Default: "Web"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:84
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:86
 msgid "event_url"
 msgstr ""
 
@@ -1447,16 +1498,16 @@ msgid "event_when"
 msgstr ""
 
 #. Default: "Where"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:166
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:168
 msgid "event_where"
 msgstr ""
 
 #. Default: "Visit external website"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:86
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:88
 msgid "external_website"
 msgstr ""
 
-#. Default: "Sécurisé, fiable et rapide, ${Firefox} est gratuit et simple à installer."
+#. Default: "Secure, reliable and fast, ${Firefox} is free and easy to install."
 #: cpskin.core/cpskin/core/portlets/firefox.pt:6
 msgid "firefox_download_sentence"
 msgstr ""
@@ -1466,8 +1517,12 @@ msgstr ""
 msgid "flux_rss"
 msgstr ""
 
+#: cpskin.core/cpskin/core/viewlets/footer.pt:13
+msgid "free license"
+msgstr ""
+
 #. Default: "Add event to calendar"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:201
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:203
 msgid "heading_add_to_calendar"
 msgstr ""
 
@@ -1516,7 +1571,7 @@ msgid "help_standard_tags"
 msgstr ""
 
 #. Default: "iCal"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:206
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:208
 msgid "label_add_to_ical"
 msgstr ""
 
@@ -1608,10 +1663,6 @@ msgstr ""
 msgid "label_standard_tags"
 msgstr ""
 
-#: cpskin.core/cpskin/core/viewlets/footer.pt:13
-msgid "libre"
-msgstr ""
-
 #. Default: "[Modifier la zone statique]"
 #: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:416
 msgid "modifier_zone_statique"
@@ -1644,7 +1695,7 @@ msgstr ""
 
 #. Default: "See <a href=\"${legal_conditions_url}\">legal terms and conditions</a>."
 #: cpskin.core/cpskin/core/browser/register.py:33
-#: cpskin.core/cpskin/core/portlets/sendinblue.py:39
+#: cpskin.core/cpskin/core/portlets/sendinblue.py:40
 msgid "see_legal_conditions"
 msgstr ""
 
@@ -1653,13 +1704,9 @@ msgstr ""
 msgid "sendtomanager_mail_error_reported"
 msgstr ""
 
-#. Default: "Ce site est optimisé pour le navigateur Firefox."
+#. Default: "This site is optimized for the Firefox browser."
 #: cpskin.core/cpskin/core/portlets/firefox.pt:4
 msgid "site_optimise_pour_firefox"
-msgstr ""
-
-#: cpskin.core/cpskin/core/viewlets/footer.pt:12
-msgid "sous licence"
 msgstr ""
 
 #. Default: "http://fr.wikipedia.org/wiki/Free_Software_Foundation"
@@ -1673,7 +1720,7 @@ msgid "summary_event_details"
 msgstr ""
 
 #. Default: "Download this event in iCal format"
-#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:204
+#: cpskin.agenda/cpskin/agenda/browser/event_summary.pt:206
 msgid "title_add_to_ical"
 msgstr ""
 
@@ -1682,7 +1729,11 @@ msgstr ""
 msgid "title_cpskin_actions_menu"
 msgstr ""
 
-#. Default: "Visuel"
+#: cpskin.core/cpskin/core/viewlets/footer.pt:12
+msgid "under"
+msgstr ""
+
+#. Default: "Visual"
 #: cpskin.core/cpskin/core/portlets/photo.pt:4
 msgid "visuel"
 msgstr ""
@@ -1692,12 +1743,12 @@ msgstr ""
 msgid "with_the_following_comment"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:589
+#: cpskin.core/cpskin/core/browser/folderview.py:596
 #: cpskin.policy/cpskin/policy/setuphandlers.py:263
 msgid "À la une"
 msgstr ""
 
-#: cpskin.core/cpskin/core/browser/folderview.py:636
+#: cpskin.core/cpskin/core/browser/folderview.py:651
 #: cpskin.policy/cpskin/policy/setuphandlers.py:212
 msgid "Événements"
 msgstr ""

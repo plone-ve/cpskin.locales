@@ -4,6 +4,9 @@ Changelog
 0.5.31 (unreleased)
 -------------------
 
+- Update translations
+  [macagua]
+
 - Add Transifex.net project integration support
   https://www.transifex.com/plone/plonegov-imio/
   [macagua]
