@@ -1,0 +1,31 @@
+[main]
+host = https://www.transifex.com
+
+[plonegov-imio.cpskin-cpskin-citizen-pot]
+file_filter = cpskin/locales/locales/<lang>/LC_MESSAGES/cpskin.citizen.po
+minimum_perc = 0
+source_file = cpskin/locales/locales/cpskin.citizen-manual.pot
+source_lang = en
+type = PO
+
+[plonegov-imio.cpskin-cpskin-pot]
+file_filter = cpskin/locales/locales/<lang>/LC_MESSAGES/cpskin.po
+minimum_perc = 0
+source_file = cpskin/locales/locales/cpskin.pot
+source_lang = en
+type = PO
+
+[plonegov-imio.cpskin-plone-app-event-pot]
+file_filter = cpskin/locales/locales/<lang>/LC_MESSAGES/plone.app.event.po
+minimum_perc = 0
+source_file = cpskin/locales/locales/plone.app.event.pot
+source_lang = en
+type = PO
+
+[plonegov-imio.cpskin-plone-pot]
+file_filter = cpskin/locales/locales/<lang>/LC_MESSAGES/plone.po
+minimum_perc = 0
+source_file = cpskin/locales/locales/plone.pot
+source_lang = en
+type = PO
+
