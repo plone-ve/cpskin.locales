@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
-"PO-Revision-Date: 2020-04-22 22:33-0400\n"
+"PO-Revision-Date: 2020-04-24 04:28-0400\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: ES <LL@li.org>\n"
 "Language: es\n"
@@ -790,6 +790,11 @@ msgstr "Pausa"
 msgid "Phones"
 msgstr "Teléfonos"
 
+#. Default: "Pictures"
+#: cpskin.core/cpskin/core/viewlets/media.pt:9
+msgid "Photos"
+msgstr "Fotos"
+
 #: cpskin.core/cpskin/core/behaviors/directory.py:38
 msgid "Please select the scale."
 msgstr "Por favor, seleccione la escala."
@@ -1180,6 +1185,10 @@ msgstr "Usar campos de contactos relacionados para el Evento"
 #: cpskin.core/cpskin/core/viewlets/right_actions.pt:7
 msgid "Useful links"
 msgstr "Enlaces de interés"
+
+#: cpskin.core/cpskin/core/viewlets/media.pt:40
+msgid "Videos"
+msgstr "Vídeos"
 
 #: cpskin/contenttypes/profiles/default/types/Procedure.xml
 #: cpskin/contenttypes/profiles/default/types/Product.xml
@@ -1660,10 +1669,21 @@ msgstr "Etiquetas Standard"
 msgid "label_standard_tags"
 msgstr "Etiquetas Standard"
 
-#. Default: "[Modifier la zone statique]"
+#. Default: "View all albums"
+#: cpskin.core/cpskin/core/viewlets/media.pt:31
+msgid "link-to-all-albums"
+msgstr "Ver todos los álbumes"
+
+#. Default: "See all videos"
+#: cpskin.core/cpskin/core/viewlets/media.pt:50
+msgid "link-to-all-videos"
+msgstr "Ver todos los vídeos"
+
+#. Default: "[Edit static area]"
 #: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:416
+#: cpskin.core/cpskin/core/viewlets/footersitemap.pt:22
 msgid "modifier_zone_statique"
-msgstr "[Cambiar área estática]"
+msgstr "[Editar el área estática]"
 
 #. Default: "Il y a ${results} occurrence(s) en plus."
 #: cpskin.agenda/cpskin/agenda/browser/event_summary.py:111
@@ -1680,10 +1700,12 @@ msgstr "En la página"
 msgid "politique-en-matiere-de-cookies"
 msgstr "<h1>Política de cookies</h1> <h2>¿Qué es una cookie?</h2> <p>Las cookies son pequeños archivos de texto que el servidor de un sitio web guarda en su computadora o dispositivo móvil (teléfono inteligente, tableta...) cuando visita un sitio usando su navegador. Una cookie contiene información que permite que el sitio visitado identifique su navegador y recuerde sus actividades anteriores (por ejemplo, elección de idioma, etc.). El servidor del sitio web solo puede leer las cookies que ha guardado. No tiene acceso a otros archivos en su computadora o dispositivo móvil.</p> <h2>¿Qué cookies se usan?</h2> <p>Utilizamos cookies para simplificar el uso del sitio y acelerar las operaciones durante sus próximas visitas.</p> <p>También utilizamos cookies para generar estadísticas anónimas sobre el uso de nuestro sitio web con el fin de mejorar su estructura y contenido. Sin embargo, estos datos estadísticos no le permiten ser identificado personalmente.</p> <p>A continuación se muestra una descripción completa de las cookies que utilizamos.</p> <h3>Cookies técnicas</h3> <p>Estas cookies son esenciales para el buen funcionamiento de nuestro sitio web.</p> <p>Le permiten, por ejemplo, navegar entre las diferentes partes del sitio y usar ciertas funciones.</p> <p>Las cookies técnicas no lo identifican personalmente. Si rechaza estas cookies, es posible que ciertas partes del sitio web no funcionen o funcionen de manera incompleta.</p> <h3>Cookies funcionales</h3> <p>Estas cookies memorizan sus elecciones (por ejemplo, la elección del idioma) para personalizar su visita al sitio. Las cookies funcionales no lo identifican personalmente. Si rechaza estas cookies, es posible que ciertas partes del sitio web no funcionen o funcionen de manera incompleta.p> <br /> <p>Las cookies técnicas y funcionales son cookies propias o de ‘primera parte’ : provienen del servidor de nuestro sitio web.</p> <h2>¿Cómo gestionar o eliminar las cookies?</h2> <p>La mayoría de los navegadores de Internet están configurados para aceptar cookies automáticamente. Puede cambiar sus preferencias para bloquear las cookies o recibir una notificación cuando se guarde una cookie en su computadora o dispositivo móvil. Para obtener más detalles sobre la configuración de su navegador, consulte las instrucciones de funcionamiento o las pantallas de ayuda.</p>"
 
-#. Default: "Merci de fournir le maximum d'information ainsi que tout renseignement qui permette de la valider (source)."
+#. Default: "Please provide as much information as possible as well as any information that allows it to be validated (source)."
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:26
 msgid "provide_maximum_informations"
-msgstr "Proporcione tanta información como sea posible, así como cualquier información que permita su validación (fuente)."
+msgstr ""
+"Proporcione tanta información como sea posible, así como cualquier "
+"información que permita su validación (fuente)."
 
 #. Default: "Report an error to the site manager"
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:23

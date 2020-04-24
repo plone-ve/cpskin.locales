@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
-"PO-Revision-Date: 2020-04-22 22:37-0400\n"
+"PO-Revision-Date: 2020-04-24 04:31-0400\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: French (https://www.transifex.com/plone/teams/10519/fr/)\n"
 "Language: fr\n"
@@ -789,6 +789,11 @@ msgstr ""
 msgid "Phones"
 msgstr "Téléphone"
 
+#. Default: "Pictures"
+#: cpskin.core/cpskin/core/viewlets/media.pt:9
+msgid "Photos"
+msgstr "Photos"
+
 #: cpskin.core/cpskin/core/behaviors/directory.py:38
 msgid "Please select the scale."
 msgstr "Sélectionnez l'échelle."
@@ -1180,6 +1185,10 @@ msgstr "Utiliser les liens vers les contacts pour le événements"
 msgid "Useful links"
 msgstr "Liens utiles"
 
+#: cpskin.core/cpskin/core/viewlets/media.pt:40
+msgid "Videos"
+msgstr "Vidéos"
+
 #: cpskin/contenttypes/profiles/default/types/Procedure.xml
 #: cpskin/contenttypes/profiles/default/types/Product.xml
 msgid "View"
@@ -1506,8 +1515,7 @@ msgstr "Visitez le site Internet"
 #. Default: "Secure, reliable and fast, ${Firefox} is free and easy to install."
 #: cpskin.core/cpskin/core/portlets/firefox.pt:6
 msgid "firefox_download_sentence"
-msgstr ""
-"Sécurisé, fiable et rapide, ${Firefox} est gratuit et simple à installer."
+msgstr "Sécurisé, fiable et rapide, ${Firefox} est gratuit et simple à installer."
 
 #. Default: "Flux RSS"
 #: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:200
@@ -1664,8 +1672,19 @@ msgstr "Mot clé standard"
 msgid "label_standard_tags"
 msgstr "Mot clé standard"
 
-#. Default: "[Modifier la zone statique]"
+#. Default: "View all albums"
+#: cpskin.core/cpskin/core/viewlets/media.pt:31
+msgid "link-to-all-albums"
+msgstr "Voir tous les albums"
+
+#. Default: "See all videos"
+#: cpskin.core/cpskin/core/viewlets/media.pt:50
+msgid "link-to-all-videos"
+msgstr "Voir toutes les vidéos"
+
+#. Default: "[Edit static area]"
 #: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:416
+#: cpskin.core/cpskin/core/viewlets/footersitemap.pt:22
 msgid "modifier_zone_statique"
 msgstr "[Modifier la zone statique]"
 
@@ -1684,10 +1703,12 @@ msgstr "Sur la page"
 msgid "politique-en-matiere-de-cookies"
 msgstr "<h1>Politique en matière de cookies</h1> <h2>Qu’est-ce qu’un cookie ?</h2> <p>Les cookies sont des petits fichiers textes que le serveur d'un site web enregistre sur votre ordinateur ou votre appareil mobile (smartphone, tablette...) lorsque vous visitez un site à l'aide de votre navigateur. Un cookie contient des informations qui permettent au site visité d'identifier votre navigateur et de retenir vos activités antérieures (p.ex. choix de la langue…). Le serveur du site web ne peut lire que les cookies qu’il a enregistré lui-même. Il n’a pas accès aux autres fichiers qui se trouvent sur votre ordinateur ou appareil mobile.</p> <h2>Quels sont les cookies utilisés ?</h2> <p>Nous utilisons des cookies pour simplifier l’utilisation du site et accélérer les opérations lors de vos prochaines visites.</p> <p>Nous nous servons aussi des cookies pour produire des statistiques anonymes sur l’utilisation de notre site web dans le but d’en améliorer la structure et le contenu. Ces données statistiques ne permettent cependant pas de vous identifier personnellement.</p> <p>Vous trouverez ci-dessous une description complète des cookies que nous utilisons.</p> <h3>Cookies techniques</h3> <p>Ces cookies sont essentiels au bon fonctionnement de notre site web.</p> <p>Ils vous permettent par exemple de naviguer entre les différentes parties du site et d’en exploiter certaines fonctionnalités.</p> <p>Les cookies techniques ne permettent pas de vous identifier personnellement. Si vous refusez ces cookies, il est possible que certaines parties du site web ne fonctionnent pas ou fonctionnent de façon incomplète.</p> <h3>Cookies fonctionnels</h3> <p>Ces cookies mémorisent vos choix (p.ex. choix de la langue) afin de personnaliser votre visite sur le site. Les cookies fonctionnels ne permettent pas de vous identifier personnellement. Si vous refusez ces cookies, il est possible que certaines parties du site web ne fonctionnent pas ou fonctionnent de façon incomplète.</p> <br /> <p>Les cookies techniques et fonctionnels sont des cookies propres ou ‘first party’ : ils proviennent du serveur de notre site web.</p> <h2>Comment gérer ou supprimer les cookies ?</h2> <p>La plupart des navigateurs Internet sont paramétrés pour accepter automatiquement les cookies. Vous pouvez modifier vos préférences pour bloquer les cookies ou pour être averti quand un cookie est enregistré sur votre ordinateur ou appareil mobile. Pour plus de détails sur le paramétrage de votre navigateur, consultez les instructions d'utilisation ou les écrans d'aide.</p>"
 
-#. Default: "Merci de fournir le maximum d'information ainsi que tout renseignement qui permette de la valider (source)."
+#. Default: "Please provide as much information as possible as well as any information that allows it to be validated (source)."
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:26
 msgid "provide_maximum_informations"
-msgstr "Merci de fournir le maximum d'information ainsi que tout renseignement qui permette de la valider (source)."
+msgstr ""
+"Merci de fournir le maximum d'information ainsi que tout renseignement qui "
+"permette de la valider (source)."
 
 #. Default: "Report an error to the site manager"
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:23

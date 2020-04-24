@@ -788,6 +788,11 @@ msgstr ""
 msgid "Phones"
 msgstr ""
 
+#. Default: "Pictures"
+#: cpskin.core/cpskin/core/viewlets/media.pt:9
+msgid "Photos"
+msgstr ""
+
 #: cpskin.core/cpskin/core/behaviors/directory.py:38
 msgid "Please select the scale."
 msgstr ""
@@ -1177,6 +1182,10 @@ msgstr ""
 
 #: cpskin.core/cpskin/core/viewlets/right_actions.pt:7
 msgid "Useful links"
+msgstr ""
+
+#: cpskin.core/cpskin/core/viewlets/media.pt:40
+msgid "Videos"
 msgstr ""
 
 #: cpskin/contenttypes/profiles/default/types/Procedure.xml
@@ -1745,8 +1754,19 @@ msgstr ""
 msgid "label_standard_tags"
 msgstr ""
 
-#. Default: "[Modifier la zone statique]"
+#. Default: "View all albums"
+#: cpskin.core/cpskin/core/viewlets/media.pt:31
+msgid "link-to-all-albums"
+msgstr ""
+
+#. Default: "See all videos"
+#: cpskin.core/cpskin/core/viewlets/media.pt:50
+msgid "link-to-all-videos"
+msgstr ""
+
+#. Default: "[Edit static area]"
 #: cpskin.core/cpskin/core/browser/templates/cpskincore_macros.pt:416
+#: cpskin.core/cpskin/core/viewlets/footersitemap.pt:22
 msgid "modifier_zone_statique"
 msgstr ""
 
@@ -1800,7 +1820,7 @@ msgid "politique-en-matiere-de-cookies"
 msgstr ""
 
 #. renseignement qui permette de la valider (source)."
-#. Default: "Merci de fournir le maximum d'information ainsi que tout renseignement qui permette de la valider (source)."
+#. Default: "Please provide as much information as possible as well as any information that allows it to be validated (source)."
 #: cpskin.core/cpskin/core/browser/sendtomanager.py:26
 msgid "provide_maximum_informations"
 msgstr ""
